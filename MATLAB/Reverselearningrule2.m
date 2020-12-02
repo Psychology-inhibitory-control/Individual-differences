@@ -34,7 +34,7 @@ rng('default'); rng('shuffle');        % Use this with Matlab
 
 interTrialInterval = 2;  % Time between two trials, in seconds
 respLimit = 35;            % Time limit for response: passed this, program stops
-maxTrials = 40;
+maxTrials = 36;
 
 
 %%% Sound feedback
