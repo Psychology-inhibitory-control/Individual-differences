@@ -90,7 +90,7 @@ Screen(window, 'Flip');                   % Refresh the screen to display change
 im = imread('redCross.jpg');                   % Open the .jpg file
 redCross = Screen('MakeTexture', window, im);  % Generate the texture to display
 
-rect = [0, 0, 580, 580];     % Make 100x100 rectangle (at the origin 0,0)taille
+rect = [0, 0, 600, 680];     % Make 100x100 rectangle (at the origin 0,0)taille
 
 % And get coordinates for its two posible positions
 rectCoordsLeft = CenterRectOnPointd(rect, screenWidth*0.25-50, yCenter-200);
