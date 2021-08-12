@@ -1,0 +1,2801 @@
+   subj_id,    sex,age,rank,   session,     trial,react_time,  goodresp,     trial,rank_2,type
+Abbott,         M,17,H,1,1,2795.6603,1,0,H,Go
+Abbott,         M,17,H,1,2,18448.5673,1,0,H,Go
+Abbott,         M,17,H,1,3,531.68,1,0,H,Go
+Abbott,         M,17,H,1,4,3461.7397,0,1,H,NoGo
+Abbott,         M,17,H,1,5,424.7336,1,0,H,Go
+Abbott,         M,17,H,1,6,3724.8506,1,0,H,Go
+Abbott,         M,17,H,1,7,3914.3611,0,1,H,NoGo
+Abbott,         M,17,H,1,8,1251.4606,1,0,H,Go
+Abbott,         M,17,H,1,9,3648.6981,0,1,H,NoGo
+Abbott,         M,17,H,1,10,5063.2195,1,0,H,Go
+Abbott,         M,17,H,1,11,1534.4997,1,0,H,Go
+Abbott,         M,17,H,1,12,2340.8171,1,0,H,Go
+Abbott,         M,17,H,1,13,2796.4386,1,0,H,Go
+Abbott,         M,17,H,1,14,2694.0761,1,0,H,Go
+Abbott,         M,17,H,1,15,1851.9141,1,0,H,Go
+Abbott,         M,17,H,1,16,10905.11,0,1,H,NoGo
+Abbott,         M,17,H,1,17,6278.3314,0,1,H,NoGo
+Abbott,         M,17,H,1,18,1122.9004,1,0,H,Go
+Abbott,         M,17,H,1,19,2642.2119,1,0,H,Go
+Abbott,         M,17,H,1,20,2031.6146,1,0,H,Go
+Abbott,         M,17,H,1,21,2187.2496,1,1,H,NoGo
+Abbott,         M,17,H,1,22,4094.1837,1,0,H,Go
+Abbott,         M,17,H,1,23,2977.4885,1,0,H,Go
+Abbott,         M,17,H,1,24,2745.2707,1,0,H,Go
+Abbott,         M,17,H,1,25,2848.9488,1,0,H,Go
+Abbott,         M,17,H,1,26,3954.3931,1,0,H,Go
+Abbott,         M,17,H,1,27,3166.4207,1,0,H,Go
+Abbott,         M,17,H,1,28,3940.3846,0,1,H,NoGo
+Abbott,         M,17,H,1,29,1662.7256,1,0,H,Go
+Abbott,         M,17,H,1,30,2204.7919,1,1,H,NoGo
+Abbott,         M,17,H,1,31,1544.0799,1,0,H,Go
+Abbott,         M,17,H,1,32,3234.2111,1,0,H,Go
+Abbott,         M,17,H,1,33,512.3479,1,0,H,Go
+Abbott,         M,17,H,1,34,3670.2183,0,1,H,NoGo
+Abbott,         M,17,H,1,35,3114.661,1,0,H,Go
+Abbott,         M,17,H,1,36,1276.0113,1,0,H,Go
+Abbott,         M,17,H,1,37,994.0152,1,0,H,Go
+Abbott,         M,17,H,1,38,1225.267,1,0,H,Go
+Abbott,         M,17,H,1,39,2410.8246,1,0,H,Go
+Abbott,         M,17,H,1,40,2204.5768,1,1,H,NoGo
+Abbott,         M,17,H,2,1,693.7322,1,0,H,Go
+Abbott,         M,17,H,2,2,1893.6067,1,0,H,Go
+Abbott,         M,17,H,2,3,2785.8955,1,0,H,Go
+Abbott,         M,17,H,2,4,3494.7882,0,1,H,NoGo
+Abbott,         M,17,H,2,5,4908.8769,1,0,H,Go
+Abbott,         M,17,H,2,6,9004.4304,1,0,H,Go
+Abbott,         M,17,H,2,7,3416.5681,0,1,H,NoGo
+Abbott,         M,17,H,2,8,806.3575,1,0,H,Go
+Abbott,         M,17,H,2,9,2205.1828,1,1,H,NoGo
+Abbott,         M,17,H,2,10,2178.6585,1,0,H,Go
+Abbott,         M,17,H,2,11,401.2009,1,0,H,Go
+Abbott,         M,17,H,2,12,3184.2232,1,0,H,Go
+Abbott,         M,17,H,2,13,942.5311,1,0,H,Go
+Abbott,         M,17,H,2,14,1405.4471,1,0,H,Go
+Abbott,         M,17,H,2,15,1457.2977,1,0,H,Go
+Abbott,         M,17,H,2,16,2205.0459,1,1,H,NoGo
+Abbott,         M,17,H,2,17,2204.0417,1,1,H,NoGo
+Abbott,         M,17,H,2,18,879.368,1,0,H,Go
+Abbott,         M,17,H,2,19,735.0966,1,0,H,Go
+Abbott,         M,17,H,2,20,1251.3188,1,0,H,Go
+Abbott,         M,17,H,2,21,4227.7728,0,1,H,NoGo
+Abbott,         M,17,H,2,22,3054.2116,1,0,H,Go
+Abbott,         M,17,H,2,23,3027.8476,1,0,H,Go
+Abbott,         M,17,H,2,24,7149.7894,1,0,H,Go
+Abbott,         M,17,H,2,25,3791.0054,1,0,H,Go
+Abbott,         M,17,H,2,26,1457.8637,1,0,H,Go
+Abbott,         M,17,H,2,27,2255.7317,1,0,H,Go
+Abbott,         M,17,H,2,28,2204.2812,1,1,H,NoGo
+Abbott,         M,17,H,2,29,1465.0773,1,0,H,Go
+Abbott,         M,17,H,2,30,2204.7654,1,1,H,NoGo
+Abbott,         M,17,H,2,31,2291.1416,1,0,H,Go
+Abbott,         M,17,H,2,32,3182.8345,1,0,H,Go
+Abbott,         M,17,H,2,33,3474.5265,1,0,H,Go
+Abbott,         M,17,H,2,34,2203.9719,1,1,H,NoGo
+Abbott,         M,17,H,2,35,5939.8794,1,0,H,Go
+Abbott,         M,17,H,2,36,1542.5576,1,0,H,Go
+Abbott,         M,17,H,2,37,2392.9876,1,0,H,Go
+Abbott,         M,17,H,2,38,3131.3349,1,0,H,Go
+Abbott,         M,17,H,2,39,658.161,1,0,H,Go
+Abbott,         M,17,H,2,40,4357.2244,0,1,H,NoGo
+Abbott,         M,17,H,3,1,416.2959,1,0,H,Go
+Abbott,         M,17,H,3,2,4106.2797,0,1,H,NoGo
+Abbott,         M,17,H,3,3,3327.5213,1,0,H,Go
+Abbott,         M,17,H,3,4,6364.425,1,0,H,Go
+Abbott,         M,17,H,3,5,2187.6665,1,1,H,NoGo
+Abbott,         M,17,H,3,6,976.9485,1,0,H,Go
+Abbott,         M,17,H,3,7,786.618,1,0,H,Go
+Abbott,         M,17,H,3,8,786.5603,1,0,H,Go
+Abbott,         M,17,H,3,9,2204.222,1,0,H,Go
+Abbott,         M,17,H,3,10,2830.7486,1,0,H,Go
+Abbott,         M,17,H,3,11,452.8947,1,0,H,Go
+Abbott,         M,17,H,3,12,2203.7396,1,1,H,NoGo
+Abbott,         M,17,H,3,13,1817.6039,1,0,H,Go
+Abbott,         M,17,H,3,14,2203.2027,1,1,H,NoGo
+Abbott,         M,17,H,3,15,10421.1564,1,0,H,Go
+Abbott,         M,17,H,3,16,486.3958,1,0,H,Go
+Abbott,         M,17,H,3,17,2126.9332,1,0,H,Go
+Abbott,         M,17,H,3,18,2203.5559,1,1,H,NoGo
+Abbott,         M,17,H,3,19,3423.1694,1,0,H,Go
+Abbott,         M,17,H,3,20,1593.1962,1,0,H,Go
+Abbott,         M,17,H,3,21,2435.73,1,0,H,Go
+Abbott,         M,17,H,3,22,2185.7458,1,1,H,NoGo
+Abbott,         M,17,H,3,23,2778.2855,1,0,H,Go
+Abbott,         M,17,H,3,24,1337.7207,1,0,H,Go
+Abbott,         M,17,H,3,25,8825.1327,1,0,H,Go
+Abbott,         M,17,H,3,26,3147.3537,1,0,H,Go
+Abbott,         M,17,H,3,27,7879.5063,1,0,H,Go
+Abbott,         M,17,H,3,28,2204.2196,1,1,H,NoGo
+Abbott,         M,17,H,3,29,1250.5641,1,0,H,Go
+Abbott,         M,17,H,3,30,2203.7679,1,1,H,NoGo
+Abbott,         M,17,H,3,31,3010.8235,1,0,H,Go
+Abbott,         M,17,H,3,32,2719.0256,1,0,H,Go
+Abbott,         M,17,H,3,33,2976.9554,1,0,H,Go
+Abbott,         M,17,H,3,34,7690.9992,1,0,H,Go
+Abbott,         M,17,H,3,35,2255.3614,1,0,H,Go
+Abbott,         M,17,H,3,36,2203.3212,1,1,H,NoGo
+Abbott,         M,17,H,3,37,3033.0317,0,1,H,NoGo
+Abbott,         M,17,H,3,38,1787.5627,1,0,H,Go
+Abbott,         M,17,H,3,39,3646.7868,1,0,H,Go
+Abbott,         M,17,H,3,40,4832.3315,1,0,H,Go
+Abbott,         M,17,H,4,1,1364.0905,1,0,H,Go
+Abbott,         M,17,H,4,2,2331.6846,1,0,H,Go
+Abbott,         M,17,H,4,3,2950.9122,1,0,H,Go
+Abbott,         M,17,H,4,4,5247.716,0,1,H,NoGo
+Abbott,         M,17,H,4,5,3623.2864,0,1,H,NoGo
+Abbott,         M,17,H,4,6,1570.3788,1,0,H,Go
+Abbott,         M,17,H,4,7,401.326,1,0,H,Go
+Abbott,         M,17,H,4,8,3887.0617,1,0,H,Go
+Abbott,         M,17,H,4,9,4058.991,1,0,H,Go
+Abbott,         M,17,H,4,10,8000.9539,1,0,H,Go
+Abbott,         M,17,H,4,11,2435.7633,1,0,H,Go
+Abbott,         M,17,H,4,12,4268.8828,0,1,H,NoGo
+Abbott,         M,17,H,4,13,1208.1266,1,0,H,Go
+Abbott,         M,17,H,4,14,1611.8623,1,0,H,Go
+Abbott,         M,17,H,4,15,3440.2907,1,0,H,Go
+Abbott,         M,17,H,4,16,2206.0542,1,1,H,NoGo
+Abbott,         M,17,H,4,17,2822.3189,1,0,H,Go
+Abbott,         M,17,H,4,18,813.0606,1,0,H,Go
+Abbott,         M,17,H,4,19,2693.0516,1,0,H,Go
+Abbott,         M,17,H,4,20,2186.3399,1,1,H,NoGo
+Abbott,         M,17,H,4,21,390.8908,1,0,H,Go
+Abbott,         M,17,H,4,22,3569.1478,1,0,H,Go
+Abbott,         M,17,H,4,23,3265.1691,0,1,H,NoGo
+Abbott,         M,17,H,4,24,967.3219,1,0,H,Go
+Abbott,         M,17,H,4,25,11382.8178,1,0,H,Go
+Abbott,         M,17,H,4,26,1766.5629,1,0,H,Go
+Abbott,         M,17,H,4,27,1773.993,1,0,H,Go
+Abbott,         M,17,H,4,28,2190.5923,1,1,H,NoGo
+Abbott,         M,17,H,4,29,899.619,1,0,H,Go
+Abbott,         M,17,H,4,30,2745.0896,1,0,H,Go
+Abbott,         M,17,H,4,31,2203.9021,1,1,H,NoGo
+Abbott,         M,17,H,4,32,632.8725,1,0,H,Go
+Abbott,         M,17,H,4,33,3956.0434,1,0,H,Go
+Abbott,         M,17,H,4,34,2925.4692,1,0,H,Go
+Abbott,         M,17,H,4,35,2075.4354,1,0,H,Go
+Abbott,         M,17,H,4,36,4427.4442,0,1,H,NoGo
+Abbott,         M,17,H,4,37,4839.7212,1,0,H,Go
+Abbott,         M,17,H,4,38,4025.0185,0,1,H,NoGo
+Abbott,         M,17,H,4,39,3930.2368,1,0,H,Go
+Abbott,         M,17,H,4,40,6763.4594,1,0,H,Go
+Abbott,         M,17,H,5,1,2444.0361,1,0,H,Go
+Abbott,         M,17,H,5,2,2185.0694,1,0,H,Go
+Abbott,         M,17,H,5,3,4041.25,0,1,H,NoGo
+Abbott,         M,17,H,5,4,1071.1217,1,0,H,Go
+Abbott,         M,17,H,5,5,3435.2943,0,1,H,NoGo
+Abbott,         M,17,H,5,6,4250.1579,1,0,H,Go
+Abbott,         M,17,H,5,7,1226.4109,1,0,H,Go
+Abbott,         M,17,H,5,8,786.731,1,0,H,Go
+Abbott,         M,17,H,5,9,1971.7081,1,0,H,Go
+Abbott,         M,17,H,5,10,2189.0186,1,1,H,NoGo
+Abbott,         M,17,H,5,11,8360.9535,1,0,H,Go
+Abbott,         M,17,H,5,12,4062.3008,0,1,H,NoGo
+Abbott,         M,17,H,5,13,847.715,1,0,H,Go
+Abbott,         M,17,H,5,14,2898.7427,1,0,H,Go
+Abbott,         M,17,H,5,15,529.9082,1,0,H,Go
+Abbott,         M,17,H,5,16,2152.9929,1,0,H,Go
+Abbott,         M,17,H,5,17,2203.8693,1,1,H,NoGo
+Abbott,         M,17,H,5,18,1612.0653,1,0,H,Go
+Abbott,         M,17,H,5,19,10963.0047,1,0,H,Go
+Abbott,         M,17,H,5,20,2367.1754,1,0,H,Go
+Abbott,         M,17,H,5,21,2032.2442,1,0,H,Go
+Abbott,         M,17,H,5,22,2186.0919,1,1,H,NoGo
+Abbott,         M,17,H,5,23,1534.7252,1,0,H,Go
+Abbott,         M,17,H,5,24,3260.7742,1,0,H,Go
+Abbott,         M,17,H,5,25,2255.8545,1,0,H,Go
+Abbott,         M,17,H,5,26,413.6753,1,0,H,Go
+Abbott,         M,17,H,5,27,3337.463,1,0,H,Go
+Abbott,         M,17,H,5,28,2925.5925,1,0,H,Go
+Abbott,         M,17,H,5,29,2204.7697,1,1,H,NoGo
+Abbott,         M,17,H,5,30,3495.5326,0,1,H,NoGo
+Abbott,         M,17,H,5,31,8319.0593,1,0,H,Go
+Abbott,         M,17,H,5,32,4959.8918,1,0,H,Go
+Abbott,         M,17,H,5,33,1361.568,1,0,H,Go
+Abbott,         M,17,H,5,34,1611.3294,1,0,H,Go
+Abbott,         M,17,H,5,35,3080.1686,1,0,H,Go
+Abbott,         M,17,H,5,36,2204.4556,1,1,H,NoGo
+Abbott,         M,17,H,5,37,3827.2686,1,0,H,Go
+Abbott,         M,17,H,5,38,387.1596,1,0,H,Go
+Abbott,         M,17,H,5,39,3928.6925,0,1,H,NoGo
+Abbott,         M,17,H,5,40,967.5744,1,0,H,Go
+Blossom,         M,3,H,1,1,3223.0133,1,0,H,Go
+Blossom,         M,3,H,1,2,2187.4569,1,1,H,NoGo
+Blossom,         M,3,H,1,3,2057.6,1,0,H,Go
+Blossom,         M,3,H,1,4,4091.5008,1,0,H,Go
+Blossom,         M,3,H,1,5,2186.161,1,1,H,NoGo
+Blossom,         M,3,H,1,6,5742.3437,1,0,H,Go
+Blossom,         M,3,H,1,7,1414.4844,1,0,H,Go
+Blossom,         M,3,H,1,8,4092.7045,1,0,H,Go
+Blossom,         M,3,H,1,9,1723.5838,1,0,H,Go
+Blossom,         M,3,H,1,10,2470.374,1,0,H,Go
+Blossom,         M,3,H,1,11,4273.0432,1,0,H,Go
+Blossom,         M,3,H,1,12,2209.6927,1,1,H,NoGo
+Blossom,         M,3,H,1,13,3346.3779,1,0,H,Go
+Blossom,         M,3,H,1,14,2187.766,1,1,H,NoGo
+Blossom,         M,3,H,1,15,6127.8324,1,0,H,Go
+Blossom,         M,3,H,1,16,6089.4049,1,0,H,Go
+Blossom,         M,3,H,1,17,3397.5192,1,0,H,Go
+Blossom,         M,3,H,1,18,2203.1624,1,1,H,NoGo
+Blossom,         M,3,H,1,19,1722.4807,1,0,H,Go
+Blossom,         M,3,H,1,20,5303.067,1,0,H,Go
+Blossom,         M,3,H,1,21,1182.7136,1,0,H,Go
+Blossom,         M,3,H,1,22,2187.9544,1,1,H,NoGo
+Blossom,         M,3,H,1,23,1336.0415,1,0,H,Go
+Blossom,         M,3,H,1,24,1070.0324,1,0,H,Go
+Blossom,         M,3,H,1,25,1878.6766,1,0,H,Go
+Blossom,         M,3,H,1,26,2770.6679,1,0,H,Go
+Blossom,         M,3,H,1,27,1310.7101,1,0,H,Go
+Blossom,         M,3,H,1,28,2188.4759,1,1,H,NoGo
+Blossom,         M,3,H,1,29,4057.3345,1,0,H,Go
+Blossom,         M,3,H,1,30,4399.195,0,1,H,NoGo
+Blossom,         M,3,H,1,31,535.0568,1,0,H,Go
+Blossom,         M,3,H,1,32,1725.5855,1,0,H,Go
+Blossom,         M,3,H,1,33,3449.9722,1,0,H,Go
+Blossom,         M,3,H,1,34,589.238,1,0,H,Go
+Blossom,         M,3,H,1,35,512.1408,1,0,H,Go
+Blossom,         M,3,H,1,36,2202.276,1,1,H,NoGo
+Blossom,         M,3,H,1,37,1645.638,1,0,H,Go
+Blossom,         M,3,H,1,38,2203.9364,1,1,H,NoGo
+Blossom,         M,3,H,1,39,3553.1068,1,0,H,Go
+Blossom,         M,3,H,1,40,2675.5362,1,0,H,Go
+Blossom,         M,3,H,2,1,2650.3863,1,0,H,Go
+Blossom,         M,3,H,2,2,1053.3427,1,0,H,Go
+Blossom,         M,3,H,2,3,3812.1686,0,1,H,NoGo
+Blossom,         M,3,H,2,4,384.3106,1,0,H,Go
+Blossom,         M,3,H,2,5,3585.8035,0,1,H,NoGo
+Blossom,         M,3,H,2,6,1310.7821,1,0,H,Go
+Blossom,         M,3,H,2,7,8111.7927,1,0,H,Go
+Blossom,         M,3,H,2,8,796.7805,1,0,H,Go
+Blossom,         M,3,H,2,9,3595.0253,1,0,H,Go
+Blossom,         M,3,H,2,10,2187.5571,1,1,H,NoGo
+Blossom,         M,3,H,2,11,2641.7743,1,0,H,Go
+Blossom,         M,3,H,2,12,6137.6593,1,1,H,NoGo
+Blossom,         M,3,H,2,13,5200.9885,1,0,H,Go
+Blossom,         M,3,H,2,14,2753.475,1,0,H,Go
+Blossom,         M,3,H,2,15,3242.3046,1,0,H,Go
+Blossom,         M,3,H,2,16,1413.7957,1,0,H,Go
+Blossom,         M,3,H,2,17,2187.965,1,1,H,NoGo
+Blossom,         M,3,H,2,18,4608.8214,1,0,H,Go
+Blossom,         M,3,H,2,19,3217.4551,1,0,H,Go
+Blossom,         M,3,H,2,20,2229.4923,1,0,H,Go
+Blossom,         M,3,H,2,21,409.4189,1,0,H,Go
+Blossom,         M,3,H,2,22,4097.6496,0,1,H,NoGo
+Blossom,         M,3,H,2,23,7544.8195,1,0,H,Go
+Blossom,         M,3,H,2,24,9422.9381,1,0,H,Go
+Blossom,         M,3,H,2,25,1027.2888,1,0,H,Go
+Blossom,         M,3,H,2,26,1825.6149,1,0,H,Go
+Blossom,         M,3,H,2,27,1685.509,1,0,H,Go
+Blossom,         M,3,H,2,28,641.2792,1,0,H,Go
+Blossom,         M,3,H,2,29,2205.7336,1,1,H,NoGo
+Blossom,         M,3,H,2,30,2186.6257,1,1,H,NoGo
+Blossom,         M,3,H,2,31,3810.5164,1,0,H,Go
+Blossom,         M,3,H,2,32,1172.935,1,0,H,Go
+Blossom,         M,3,H,2,33,4916.8798,1,0,H,Go
+Blossom,         M,3,H,2,34,3930.3706,1,0,H,Go
+Blossom,         M,3,H,2,35,2470.0021,1,0,H,Go
+Blossom,         M,3,H,2,36,4921.9831,0,1,H,NoGo
+Blossom,         M,3,H,2,37,1362.788,1,0,H,Go
+Blossom,         M,3,H,2,38,5998.6735,1,0,H,Go
+Blossom,         M,3,H,2,39,2204.2317,1,1,H,NoGo
+Blossom,         M,3,H,2,40,2959.4923,1,0,H,Go
+Blossom,         M,3,H,3,1,2203.6556,1,1,H,NoGo
+Blossom,         M,3,H,3,2,5405.6161,1,0,H,Go
+Blossom,         M,3,H,3,3,4891.4805,1,0,H,Go
+Blossom,         M,3,H,3,4,657.8867,1,0,H,Go
+Blossom,         M,3,H,3,5,2187.5296,1,1,H,NoGo
+Blossom,         M,3,H,3,6,3681.5892,1,0,H,Go
+Blossom,         M,3,H,3,7,1156.2953,1,0,H,Go
+Blossom,         M,3,H,3,8,3190.8384,1,0,H,Go
+Blossom,         M,3,H,3,9,1285.3598,1,0,H,Go
+Blossom,         M,3,H,3,10,3396.1874,1,0,H,Go
+Blossom,         M,3,H,3,11,2188.2047,1,1,H,NoGo
+Blossom,         M,3,H,3,12,4078.7617,1,0,H,Go
+Blossom,         M,3,H,3,13,2187.8781,1,1,H,NoGo
+Blossom,         M,3,H,3,14,2032.119,1,0,H,Go
+Blossom,         M,3,H,3,15,788.5672,1,0,H,Go
+Blossom,         M,3,H,3,16,975.9827,1,0,H,Go
+Blossom,         M,3,H,3,17,8618.395,1,0,H,Go
+Blossom,         M,3,H,3,18,2204.5378,1,0,H,Go
+Blossom,         M,3,H,3,19,3706.4505,1,0,H,Go
+Blossom,         M,3,H,3,20,2187.4805,1,1,H,NoGo
+Blossom,         M,3,H,3,21,3082.8164,0,1,H,NoGo
+Blossom,         M,3,H,3,22,616.1482,1,0,H,Go
+Blossom,         M,3,H,3,23,86355.5751,1,0,H,Go
+Blossom,         M,3,H,3,24,309523.4669,1,0,H,Go
+Blossom,         M,3,H,3,25,2727.9735,1,0,H,Go
+Blossom,         M,3,H,3,26,4103.3961,1,0,H,Go
+Blossom,         M,3,H,3,27,4014.4058,1,0,H,Go
+Blossom,         M,3,H,3,28,2187.5949,1,1,H,NoGo
+Blossom,         M,3,H,3,29,1233.8879,1,0,H,Go
+Blossom,         M,3,H,3,30,1803.9207,1,0,H,Go
+Blossom,         M,3,H,3,31,2185.4121,1,1,H,NoGo
+Blossom,         M,3,H,3,32,8034.622,1,0,H,Go
+Blossom,         M,3,H,3,33,1595.3686,1,0,H,Go
+Blossom,         M,3,H,3,34,3629.5249,1,0,H,Go
+Blossom,         M,3,H,3,35,1765.5203,1,0,H,Go
+Blossom,         M,3,H,3,36,2199.868,1,1,H,NoGo
+Blossom,         M,3,H,3,37,512.4799,1,0,H,Go
+Blossom,         M,3,H,3,38,3050.5008,0,1,H,NoGo
+Blossom,         M,3,H,3,39,2882.1786,1,0,H,Go
+Blossom,         M,3,H,3,40,1611.6391,1,0,H,Go
+Blossom,         M,3,H,4,1,6918.8286,0,1,H,NoGo
+Blossom,         M,3,H,4,2,1500.8892,1,0,H,Go
+Blossom,         M,3,H,4,3,2924.9558,1,0,H,Go
+Blossom,         M,3,H,4,4,3628.953,1,0,H,Go
+Blossom,         M,3,H,4,5,2203.5719,1,1,H,NoGo
+Blossom,         M,3,H,4,6,795.1556,1,0,H,Go
+Blossom,         M,3,H,4,7,3913.0569,1,0,H,Go
+Blossom,         M,3,H,4,8,512.4155,1,0,H,Go
+Blossom,         M,3,H,4,9,1972.0958,1,0,H,Go
+Blossom,         M,3,H,4,10,2642.1574,1,0,H,Go
+Blossom,         M,3,H,4,11,2188.9407,1,1,H,NoGo
+Blossom,         M,3,H,4,12,848.4043,1,0,H,Go
+Blossom,         M,3,H,4,13,2188.5891,1,1,H,NoGo
+Blossom,         M,3,H,4,14,2857.3233,1,0,H,Go
+Blossom,         M,3,H,4,15,924.3935,1,0,H,Go
+Blossom,         M,3,H,4,16,2676.9236,1,0,H,Go
+Blossom,         M,3,H,4,17,5587.0204,1,0,H,Go
+Blossom,         M,3,H,4,18,503.2027,1,0,H,Go
+Blossom,         M,3,H,4,19,2932.7847,1,0,H,Go
+Blossom,         M,3,H,4,20,2186.9295,1,1,H,NoGo
+Blossom,         M,3,H,4,21,2187.9784,1,1,H,NoGo
+Blossom,         M,3,H,4,22,4753.6849,1,0,H,Go
+Blossom,         M,3,H,4,23,1388.3508,1,0,H,Go
+Blossom,         M,3,H,4,24,4874.8764,1,0,H,Go
+Blossom,         M,3,H,4,25,1465.4388,1,0,H,Go
+Blossom,         M,3,H,4,26,2188.4673,1,1,H,NoGo
+Blossom,         M,3,H,4,27,3243.1095,1,0,H,Go
+Blossom,         M,3,H,4,28,898.9016,1,0,H,Go
+Blossom,         M,3,H,4,29,2199.7236,1,1,H,NoGo
+Blossom,         M,3,H,4,30,1070.5551,1,0,H,Go
+Blossom,         M,3,H,4,31,1799.1295,1,0,H,Go
+Blossom,         M,3,H,4,32,7456.5011,1,0,H,Go
+Blossom,         M,3,H,4,33,2933.2975,1,0,H,Go
+Blossom,         M,3,H,4,34,2186.6571,1,1,H,NoGo
+Blossom,         M,3,H,4,35,1129.446,1,0,H,Go
+Blossom,         M,3,H,4,36,1026.7748,1,0,H,Go
+Blossom,         M,3,H,4,37,6256.7182,1,0,H,Go
+Blossom,         M,3,H,4,38,2109.1644,1,0,H,Go
+Blossom,         M,3,H,4,39,2187.1085,1,1,H,NoGo
+Blossom,         M,3,H,4,40,4762.1986,1,0,H,Go
+Blossom,         M,3,H,5,1,4041.2923,1,0,H,Go
+Blossom,         M,3,H,5,2,898.5189,1,0,H,Go
+Blossom,         M,3,H,5,3,1954.5726,1,0,H,Go
+Blossom,         M,3,H,5,4,3406.254,0,1,H,NoGo
+Blossom,         M,3,H,5,5,2152.1441,1,0,H,Go
+Blossom,         M,3,H,5,6,3705.8137,1,0,H,Go
+Blossom,         M,3,H,5,7,2204.9985,1,1,H,NoGo
+Blossom,         M,3,H,5,8,1029.0825,1,0,H,Go
+Blossom,         M,3,H,5,9,2186.2199,1,1,H,NoGo
+Blossom,         M,3,H,5,10,2727.0964,1,0,H,Go
+Blossom,         M,3,H,5,11,795.8555,1,0,H,Go
+Blossom,         M,3,H,5,12,1070.9285,1,0,H,Go
+Blossom,         M,3,H,5,13,2995.35,1,0,H,Go
+Blossom,         M,3,H,5,14,4685.0531,1,0,H,Go
+Blossom,         M,3,H,5,15,5089.0708,1,0,H,Go
+Blossom,         M,3,H,5,16,2186.5675,1,1,H,NoGo
+Blossom,         M,3,H,5,17,2203.6099,1,1,H,NoGo
+Blossom,         M,3,H,5,18,1285.8721,1,0,H,Go
+Blossom,         M,3,H,5,19,731.231,1,0,H,Go
+Blossom,         M,3,H,5,20,1362.8023,1,0,H,Go
+Blossom,         M,3,H,5,21,3955.7015,0,1,H,NoGo
+Blossom,         M,3,H,5,22,4220.3293,1,0,H,Go
+Blossom,         M,3,H,5,23,4497.0636,1,0,H,Go
+Blossom,         M,3,H,5,24,9605.9983,1,0,H,Go
+Blossom,         M,3,H,5,25,3036.381,1,0,H,Go
+Blossom,         M,3,H,5,26,1740.1258,1,0,H,Go
+Blossom,         M,3,H,5,27,1875.3915,1,0,H,Go
+Blossom,         M,3,H,5,28,2187.0019,1,1,H,NoGo
+Blossom,         M,3,H,5,29,10635.0924,1,0,H,Go
+Blossom,         M,3,H,5,30,2187.0675,1,1,H,NoGo
+Blossom,         M,3,H,5,31,4299.493,1,0,H,Go
+Blossom,         M,3,H,5,32,3242.5029,1,0,H,Go
+Blossom,         M,3,H,5,33,4117.5379,1,0,H,Go
+Blossom,         M,3,H,5,34,2186.7966,1,1,H,NoGo
+Blossom,         M,3,H,5,35,9185.3791,1,0,H,Go
+Blossom,         M,3,H,5,36,1594.0229,1,0,H,Go
+Blossom,         M,3,H,5,37,7234.8459,1,0,H,Go
+Blossom,         M,3,H,5,38,6228.9469,1,0,H,Go
+Blossom,         M,3,H,5,39,1697.0402,1,0,H,Go
+Blossom,         M,3,H,5,40,2186.7566,1,1,H,NoGo
+Nodon,         M,15,H,1,1,2149.3155,1,,H,Go
+Nodon,         M,15,H,1,2,588.5709,1,,H,Go
+Nodon,         M,15,H,1,3,2197.4385,1,,H,NoGo
+Nodon,         M,15,H,1,4,2018.3411,1,,H,Go
+Nodon,         M,15,H,1,5,2202.6329,1,,H,NoGo
+Nodon,         M,15,H,1,6,582.4116,1,,H,Go
+Nodon,         M,15,H,1,7,3110.1312,1,,H,Go
+Nodon,         M,15,H,1,8,2559.0474,1,,H,Go
+Nodon,         M,15,H,1,9,5427.2337,1,,H,Go
+Nodon,         M,15,H,1,10,2204.2381,1,,H,NoGo
+Nodon,         M,15,H,1,11,1245.4904,1,,H,Go
+Nodon,         M,15,H,1,12,5209.8495,0,,H,NoGo
+Nodon,         M,15,H,1,13,10421.2632,1,,H,Go
+Nodon,         M,15,H,1,14,3129.3247,1,,H,Go
+Nodon,         M,15,H,1,15,755.6405,1,,H,Go
+Nodon,         M,15,H,1,16,601.7822,1,,H,Go
+Nodon,         M,15,H,1,17,5377.2272,0,,H,NoGo
+Nodon,         M,15,H,1,18,2936.2841,1,,H,Go
+Nodon,         M,15,H,1,19,1047.8233,1,,H,Go
+Nodon,         M,15,H,1,20,3717.9848,1,,H,Go
+Nodon,         M,15,H,1,21,1846.2472,1,,H,Go
+Nodon,         M,15,H,1,22,2188.5339,1,,H,NoGo
+Nodon,         M,15,H,1,23,2198.3189,1,,H,Go
+Nodon,         M,15,H,1,24,6431.695,1,,H,Go
+Nodon,         M,15,H,1,25,4576.9457,1,,H,Go
+Nodon,         M,15,H,1,26,5157.1549,1,,H,Go
+Nodon,         M,15,H,1,27,2189.1371,1,,H,NoGo
+Nodon,         M,15,H,1,28,919.7219,1,,H,Go
+Nodon,         M,15,H,1,29,2204.6675,1,,H,NoGo
+Nodon,         M,15,H,1,30,1915.0659,1,,H,Go
+Nodon,         M,15,H,1,31,848.3329,1,,H,Go
+Nodon,         M,15,H,1,32,1773.3931,1,,H,Go
+Nodon,         M,15,H,1,33,867.4642,1,,H,Go
+Nodon,         M,15,H,1,34,3160.1357,1,,H,Go
+Nodon,         M,15,H,1,35,4542.3338,1,,H,Go
+Nodon,         M,15,H,1,36,2204.3708,1,,H,NoGo
+Nodon,         M,15,H,1,37,3340.6018,1,,H,Go
+Nodon,         M,15,H,1,38,738.9346,1,,H,Go
+Nodon,         M,15,H,1,39,5207.9811,0,,H,NoGo
+Nodon,         M,15,H,1,40,2095.3849,1,,H,Go
+Nodon,         M,15,H,2,1,3444.791,1,,H,Go
+Nodon,         M,15,H,2,2,5207.3481,0,,H,NoGo
+Nodon,         M,15,H,2,3,897.0328,1,,H,Go
+Nodon,         M,15,H,2,4,584.512,1,,H,Go
+Nodon,         M,15,H,2,5,2205.6694,1,,H,NoGo
+Nodon,         M,15,H,2,6,2877.1591,1,,H,Go
+Nodon,         M,15,H,2,7,593.0496,1,,H,Go
+Nodon,         M,15,H,2,8,3183.3494,1,,H,Go
+Nodon,         M,15,H,2,9,3347.8394,1,,H,Go
+Nodon,         M,15,H,2,10,4062.1518,1,,H,Go
+Nodon,         M,15,H,2,11,9729.1096,1,,H,Go
+Nodon,         M,15,H,2,12,2205.4382,1,,H,NoGo
+Nodon,         M,15,H,2,13,1795.188,1,,H,Go
+Nodon,         M,15,H,2,14,3243.5796,1,,H,Go
+Nodon,         M,15,H,2,15,2774.0353,1,,H,Go
+Nodon,         M,15,H,2,16,1795.4652,1,,H,Go
+Nodon,         M,15,H,2,17,601.6725,1,,H,Go
+Nodon,         M,15,H,2,18,2187.7775,1,,H,Go
+Nodon,         M,15,H,2,19,859.2289,1,,H,Go
+Nodon,         M,15,H,2,20,1992.5288,1,,H,Go
+Nodon,         M,15,H,2,21,1305.8317,1,,H,Go
+Nodon,         M,15,H,2,22,5201.0539,0,,H,NoGo
+Nodon,         M,15,H,2,23,5199.0475,0,,H,NoGo
+Nodon,         M,15,H,2,24,1073.5461,1,,H,Go
+Nodon,         M,15,H,2,25,584.7001,1,,H,Go
+Nodon,         M,15,H,2,26,893.6376,1,,H,Go
+Nodon,         M,15,H,2,27,2516.6004,1,,H,Go
+Nodon,         M,15,H,2,28,2187.7964,1,,H,NoGo
+Nodon,         M,15,H,2,29,3547.106,1,,H,Go
+Nodon,         M,15,H,2,30,5194.715,0,,H,NoGo
+Nodon,         M,15,H,2,31,590.3307,1,,H,Go
+Nodon,         M,15,H,2,32,1090.5681,1,,H,Go
+Nodon,         M,15,H,2,33,1614.8603,1,,H,Go
+Nodon,         M,15,H,2,34,5220.385,0,,H,NoGo
+Nodon,         M,15,H,2,35,5556.1662,1,,H,Go
+Nodon,         M,15,H,2,36,2198.5759,1,,H,Go
+Nodon,         M,15,H,2,37,1065.4176,1,,H,Go
+Nodon,         M,15,H,2,38,584.245,1,,H,Go
+Nodon,         M,15,H,2,39,1219.7156,1,,H,Go
+Nodon,         M,15,H,2,40,1254.3966,1,,H,Go
+Nodon,         M,15,H,3,1,595.7174,1,,H,Go
+Nodon,         M,15,H,3,2,2187.8255,1,,H,NoGo
+Nodon,         M,15,H,3,3,2748.3482,1,,H,Go
+Nodon,         M,15,H,3,4,5190.3611,0,,H,NoGo
+Nodon,         M,15,H,3,5,1182.9643,1,,H,Go
+Nodon,         M,15,H,3,6,584.6862,1,,H,Go
+Nodon,         M,15,H,3,7,962.1511,1,,H,Go
+Nodon,         M,15,H,3,8,10089.5644,1,,H,Go
+Nodon,         M,15,H,3,9,589.8954,1,,H,Go
+Nodon,         M,15,H,3,10,584.4142,1,,H,Go
+Nodon,         M,15,H,3,11,5189.905,0,,H,NoGo
+Nodon,         M,15,H,3,12,11852.3421,0,,H,NoGo
+Nodon,         M,15,H,3,13,1628.559,1,,H,Go
+Nodon,         M,15,H,3,14,601.605,1,,H,Go
+Nodon,         M,15,H,3,15,688.0602,1,,H,Go
+Nodon,         M,15,H,3,16,1125.8769,1,,H,Go
+Nodon,         M,15,H,3,17,589.1559,1,,H,Go
+Nodon,         M,15,H,3,18,1897.8179,1,,H,Go
+Nodon,         M,15,H,3,19,9420.3002,1,,H,Go
+Nodon,         M,15,H,3,20,2202.6017,1,,H,NoGo
+Nodon,         M,15,H,3,21,3958.6887,1,,H,Go
+Nodon,         M,15,H,3,22,2078.1275,1,,H,Go
+Nodon,         M,15,H,3,23,5208.849,0,,H,NoGo
+Nodon,         M,15,H,3,24,2352.9414,1,,H,Go
+Nodon,         M,15,H,3,25,3134.0885,1,,H,Go
+Nodon,         M,15,H,3,26,910.4369,1,,H,Go
+Nodon,         M,15,H,3,27,1408.0581,1,,H,Go
+Nodon,         M,15,H,3,28,2187.8961,1,,H,NoGo
+Nodon,         M,15,H,3,29,945.076,1,,H,Go
+Nodon,         M,15,H,3,30,4190.3067,1,,H,Go
+Nodon,         M,15,H,3,31,5501.2898,0,,H,NoGo
+Nodon,         M,15,H,3,32,970.4,1,,H,Go
+Nodon,         M,15,H,3,33,2086.3322,1,,H,Go
+Nodon,         M,15,H,3,34,2250.4217,1,,H,Go
+Nodon,         M,15,H,3,35,1356.8241,1,,H,Go
+Nodon,         M,15,H,3,36,2204.3714,1,,H,NoGo
+Nodon,         M,15,H,3,37,763.4768,1,,H,Go
+Nodon,         M,15,H,3,38,5209.3461,0,,H,NoGo
+Nodon,         M,15,H,3,39,3305.6022,1,,H,Go
+Nodon,         M,15,H,3,40,4542.3596,1,,H,Go
+Nodon,         M,15,H,4,1,1961.0319,1,,H,Go
+Nodon,         M,15,H,4,2,3393.4979,1,,H,Go
+Nodon,         M,15,H,4,3,2187.5283,1,,H,NoGo
+Nodon,         M,15,H,4,4,1658.4845,1,,H,Go
+Nodon,         M,15,H,4,5,5189.784,0,,H,NoGo
+Nodon,         M,15,H,4,6,1811.1319,1,,H,Go
+Nodon,         M,15,H,4,7,2765.8329,1,,H,Go
+Nodon,         M,15,H,4,8,3898.9071,1,,H,Go
+Nodon,         M,15,H,4,9,2121.3958,1,,H,Go
+Nodon,         M,15,H,4,10,7186.7961,0,,H,NoGo
+Nodon,         M,15,H,4,11,2516.365,1,,H,Go
+Nodon,         M,15,H,4,12,2190.911,1,,H,NoGo
+Nodon,         M,15,H,4,13,601.5213,1,,H,Go
+Nodon,         M,15,H,4,14,5198.7325,0,,H,NoGo
+Nodon,         M,15,H,4,15,1218.8165,1,,H,Go
+Nodon,         M,15,H,4,16,,,,H,
+Nodon,         M,15,H,4,17,,,,H,
+Nodon,         M,15,H,4,18,,,,H,
+Nodon,         M,15,H,4,19,,,,H,
+Nodon,         M,15,H,4,20,,,,H,
+Nodon,         M,15,H,4,21,,,,H,
+Nodon,         M,15,H,4,22,,,,H,
+Nodon,         M,15,H,4,23,,,,H,
+Nodon,         M,15,H,4,24,,,,H,
+Nodon,         M,15,H,4,25,,,,H,
+Nodon,         M,15,H,4,26,,,,H,
+Nodon,         M,15,H,4,27,,,,H,
+Nodon,         M,15,H,4,28,,,,H,
+Nodon,         M,15,H,4,29,,,,H,
+Nodon,         M,15,H,4,30,,,,H,
+Nodon,         M,15,H,4,31,,,,H,
+Nodon,         M,15,H,4,32,,,,H,
+Nodon,         M,15,H,4,33,,,,H,
+Nodon,         M,15,H,4,34,,,,H,
+Nodon,         M,15,H,4,35,,,,H,
+Nodon,         M,15,H,4,36,,,,H,
+Nodon,         M,15,H,4,37,,,,H,
+Nodon,         M,15,H,4,38,,,,H,
+Nodon,         M,15,H,4,39,,,,H,
+Nodon,         M,15,H,4,40,,,,H,
+Nodon,         M,15,H,5,1,,,,H,
+Nodon,         M,15,H,5,2,,,,H,
+Nodon,         M,15,H,5,3,,,,H,
+Nodon,         M,15,H,5,4,,,,H,
+Nodon,         M,15,H,5,5,,,,H,
+Nodon,         M,15,H,5,6,,,,H,
+Nodon,         M,15,H,5,7,,,,H,
+Nodon,         M,15,H,5,8,,,,H,
+Nodon,         M,15,H,5,9,,,,H,
+Nodon,         M,15,H,5,10,,,,H,
+Nodon,         M,15,H,5,11,,,,H,
+Nodon,         M,15,H,5,12,,,,H,
+Nodon,         M,15,H,5,13,,,,H,
+Nodon,         M,15,H,5,14,,,,H,
+Nodon,         M,15,H,5,15,,,,H,
+Nodon,         M,15,H,5,16,,,,H,
+Nodon,         M,15,H,5,17,,,,H,
+Nodon,         M,15,H,5,18,,,,H,
+Nodon,         M,15,H,5,19,,,,H,
+Nodon,         M,15,H,5,20,,,,H,
+Nodon,         M,15,H,5,21,,,,H,
+Nodon,         M,15,H,5,22,,,,H,
+Nodon,         M,15,H,5,23,,,,H,
+Nodon,         M,15,H,5,24,,,,H,
+Nodon,         M,15,H,5,25,,,,H,
+Nodon,         M,15,H,5,26,,,,H,
+Nodon,         M,15,H,5,27,,,,H,
+Nodon,         M,15,H,5,28,,,,H,
+Nodon,         M,15,H,5,29,,,,H,
+Nodon,         M,15,H,5,30,,,,H,
+Nodon,         M,15,H,5,31,,,,H,
+Nodon,         M,15,H,5,32,,,,H,
+Nodon,         M,15,H,5,33,,,,H,
+Nodon,         M,15,H,5,34,,,,H,
+Nodon,         M,15,H,5,35,,,,H,
+Nodon,         M,15,H,5,36,,,,H,
+Nodon,         M,15,H,5,37,,,,H,
+Nodon,         M,15,H,5,38,,,,H,
+Nodon,         M,15,H,5,39,,,,H,
+Nodon,         M,15,H,5,40,,,,H,
+Sequel,         M,10,H,1,1,2211.8808,1,1,H,NoGo
+Sequel,         M,10,H,1,2,2026.0051,1,0,H,Go
+Sequel,         M,10,H,1,3,464.7756,1,0,H,Go
+Sequel,         M,10,H,1,4,395.2018,1,0,H,Go
+Sequel,         M,10,H,1,5,2188.4989,1,1,H,NoGo
+Sequel,         M,10,H,1,6,3172.3634,1,0,H,Go
+Sequel,         M,10,H,1,7,1647.6274,1,0,H,Go
+Sequel,         M,10,H,1,8,820.3215,1,0,H,Go
+Sequel,         M,10,H,1,9,602.9894,1,0,H,Go
+Sequel,         M,10,H,1,10,435.8754,1,0,H,Go
+Sequel,         M,10,H,1,11,3303.2457,0,1,H,NoGo
+Sequel,         M,10,H,1,12,465.8478,1,0,H,Go
+Sequel,         M,10,H,1,13,3367.0485,0,1,H,NoGo
+Sequel,         M,10,H,1,14,1495.2949,1,0,H,Go
+Sequel,         M,10,H,1,15,2696.2174,1,0,H,Go
+Sequel,         M,10,H,1,16,468.9307,1,0,H,Go
+Sequel,         M,10,H,1,17,617.2751,1,0,H,Go
+Sequel,         M,10,H,1,18,3034.4118,1,0,H,Go
+Sequel,         M,10,H,1,19,1518.3763,1,0,H,Go
+Sequel,         M,10,H,1,20,2184.5368,1,1,H,NoGo
+Sequel,         M,10,H,1,21,3133.4586,0,1,H,NoGo
+Sequel,         M,10,H,1,22,394.852,1,0,H,Go
+Sequel,         M,10,H,1,23,2132.6617,1,0,H,Go
+Sequel,         M,10,H,1,24,1567.0218,1,0,H,Go
+Sequel,         M,10,H,1,25,393.0545,1,0,H,Go
+Sequel,         M,10,H,1,26,3875.9529,0,1,H,NoGo
+Sequel,         M,10,H,1,27,1738.5553,1,0,H,Go
+Sequel,         M,10,H,1,28,821.2238,1,0,H,Go
+Sequel,         M,10,H,1,29,2188.824,1,1,H,NoGo
+Sequel,         M,10,H,1,30,384.6128,1,0,H,Go
+Sequel,         M,10,H,1,31,657.2514,1,0,H,Go
+Sequel,         M,10,H,1,32,1989.1475,1,0,H,Go
+Sequel,         M,10,H,1,33,599.1091,1,0,H,Go
+Sequel,         M,10,H,1,34,4200.7011,0,1,H,NoGo
+Sequel,         M,10,H,1,35,496.8175,1,0,H,Go
+Sequel,         M,10,H,1,36,384.4116,1,0,H,Go
+Sequel,         M,10,H,1,37,399.92,1,0,H,Go
+Sequel,         M,10,H,1,38,388.1038,1,0,H,Go
+Sequel,         M,10,H,1,39,3066.5397,0,1,H,NoGo
+Sequel,         M,10,H,1,40,1051.2981,1,0,H,Go
+Sequel,         M,10,H,2,1,2204.0552,1,1,H,NoGo
+Sequel,         M,10,H,2,2,951.2564,1,0,H,Go
+Sequel,         M,10,H,2,3,973.8746,1,0,H,Go
+Sequel,         M,10,H,2,4,844.4743,1,0,H,Go
+Sequel,         M,10,H,2,5,3908.4183,0,1,H,NoGo
+Sequel,         M,10,H,2,6,2426.6854,1,0,H,Go
+Sequel,         M,10,H,2,7,931.3387,1,0,H,Go
+Sequel,         M,10,H,2,8,1196.9104,1,0,H,Go
+Sequel,         M,10,H,2,9,793.4054,1,0,H,Go
+Sequel,         M,10,H,2,10,1103.6038,1,0,H,Go
+Sequel,         M,10,H,2,11,3616.6644,0,1,H,NoGo
+Sequel,         M,10,H,2,12,400.2349,1,0,H,Go
+Sequel,         M,10,H,2,13,4298.262,0,1,H,NoGo
+Sequel,         M,10,H,2,14,1069.5637,1,0,H,Go
+Sequel,         M,10,H,2,15,1644.0727,1,0,H,Go
+Sequel,         M,10,H,2,16,1231.9551,1,0,H,Go
+Sequel,         M,10,H,2,17,1519.021,1,0,H,Go
+Sequel,         M,10,H,2,18,1860.6613,1,0,H,Go
+Sequel,         M,10,H,2,19,1309.4115,1,0,H,Go
+Sequel,         M,10,H,2,20,3643.4247,0,1,H,NoGo
+Sequel,         M,10,H,2,21,3940.4465,0,1,H,NoGo
+Sequel,         M,10,H,2,22,1493.6283,1,0,H,Go
+Sequel,         M,10,H,2,23,1619.0879,1,0,H,Go
+Sequel,         M,10,H,2,24,837.8588,1,0,H,Go
+Sequel,         M,10,H,2,25,459.5917,1,0,H,Go
+Sequel,         M,10,H,2,26,3382.2695,0,1,H,NoGo
+Sequel,         M,10,H,2,27,640.3045,1,0,H,Go
+Sequel,         M,10,H,2,28,2158.8076,1,0,H,Go
+Sequel,         M,10,H,2,29,3473.1198,0,1,H,NoGo
+Sequel,         M,10,H,2,30,1283.1965,1,0,H,Go
+Sequel,         M,10,H,2,31,2108.8939,1,0,H,Go
+Sequel,         M,10,H,2,32,371.5892,1,0,H,Go
+Sequel,         M,10,H,2,33,385.5037,1,0,H,Go
+Sequel,         M,10,H,2,34,3540.4143,0,1,H,NoGo
+Sequel,         M,10,H,2,35,398.1016,1,0,H,Go
+Sequel,         M,10,H,2,36,395.7132,1,0,H,Go
+Sequel,         M,10,H,2,37,1078.3568,1,0,H,Go
+Sequel,         M,10,H,2,38,1798.854,1,0,H,Go
+Sequel,         M,10,H,2,39,3985.8967,0,1,H,NoGo
+Sequel,         M,10,H,2,40,966.6397,1,0,H,Go
+Sequel,         M,10,H,3,1,392.1019,1,0,H,Go
+Sequel,         M,10,H,3,2,3032.9261,0,1,H,NoGo
+Sequel,         M,10,H,3,3,641.887,1,0,H,Go
+Sequel,         M,10,H,3,4,1209.896,1,0,H,Go
+Sequel,         M,10,H,3,5,2188.9633,1,1,H,NoGo
+Sequel,         M,10,H,3,6,3089.3833,1,0,H,Go
+Sequel,         M,10,H,3,7,397.9261,1,0,H,Go
+Sequel,         M,10,H,3,8,657.4914,1,0,H,Go
+Sequel,         M,10,H,3,9,2498.2438,1,0,H,Go
+Sequel,         M,10,H,3,10,1507.4586,1,0,H,Go
+Sequel,         M,10,H,3,11,631.6245,1,0,H,Go
+Sequel,         M,10,H,3,12,2202.7898,1,1,H,NoGo
+Sequel,         M,10,H,3,13,1031.5762,1,0,H,Go
+Sequel,         M,10,H,3,14,2204.9127,1,1,H,NoGo
+Sequel,         M,10,H,3,15,2064.7017,1,0,H,Go
+Sequel,         M,10,H,3,16,2331.7393,1,0,H,Go
+Sequel,         M,10,H,3,17,1881.59,1,0,H,Go
+Sequel,         M,10,H,3,18,2187.612,1,1,H,NoGo
+Sequel,         M,10,H,3,19,2460.2672,1,0,H,Go
+Sequel,         M,10,H,3,20,692.4908,1,0,H,Go
+Sequel,         M,10,H,3,21,2847.1811,1,0,H,Go
+Sequel,         M,10,H,3,22,2187.7963,1,1,H,NoGo
+Sequel,         M,10,H,3,23,1712.1051,1,0,H,Go
+Sequel,         M,10,H,3,24,2512.1472,1,0,H,Go
+Sequel,         M,10,H,3,25,1482.3276,1,0,H,Go
+Sequel,         M,10,H,3,26,391.4887,1,0,H,Go
+Sequel,         M,10,H,3,27,510.5131,1,0,H,Go
+Sequel,         M,10,H,3,28,3735.825,0,1,H,NoGo
+Sequel,         M,10,H,3,29,393.9712,1,0,H,Go
+Sequel,         M,10,H,3,30,4262.9764,0,1,H,NoGo
+Sequel,         M,10,H,3,31,569.9299,1,0,H,Go
+Sequel,         M,10,H,3,32,1345.0471,1,0,H,Go
+Sequel,         M,10,H,3,33,4170.9571,1,0,H,Go
+Sequel,         M,10,H,3,34,889.4322,1,0,H,Go
+Sequel,         M,10,H,3,35,665.8072,1,0,H,Go
+Sequel,         M,10,H,3,36,2186.3257,1,1,H,NoGo
+Sequel,         M,10,H,3,37,3409.5145,0,1,H,NoGo
+Sequel,         M,10,H,3,38,598.2723,1,0,H,Go
+Sequel,         M,10,H,3,39,717.1416,1,0,H,Go
+Sequel,         M,10,H,3,40,5714.8616,1,0,H,Go
+Sequel,         M,10,H,4,1,1637.8049,1,0,H,Go
+Sequel,         M,10,H,4,2,4057.9896,0,1,H,NoGo
+Sequel,         M,10,H,4,3,500.4699,1,0,H,Go
+Sequel,         M,10,H,4,4,897.1755,1,0,H,Go
+Sequel,         M,10,H,4,5,2201.1631,1,1,H,NoGo
+Sequel,         M,10,H,4,6,1121.0022,1,0,H,Go
+Sequel,         M,10,H,4,7,391.8369,1,0,H,Go
+Sequel,         M,10,H,4,8,2563.3704,1,0,H,Go
+Sequel,         M,10,H,4,9,966.5995,1,0,H,Go
+Sequel,         M,10,H,4,10,1508.5301,1,0,H,Go
+Sequel,         M,10,H,4,11,742.5376,1,0,H,Go
+Sequel,         M,10,H,4,12,3950.9541,0,1,H,NoGo
+Sequel,         M,10,H,4,13,400.6934,1,0,H,Go
+Sequel,         M,10,H,4,14,3811.0291,0,1,H,NoGo
+Sequel,         M,10,H,4,15,786.3539,1,0,H,Go
+Sequel,         M,10,H,4,16,1331.1862,1,0,H,Go
+Sequel,         M,10,H,4,17,1259.3554,1,0,H,Go
+Sequel,         M,10,H,4,18,2189.2459,1,1,H,NoGo
+Sequel,         M,10,H,4,19,514.314,1,0,H,Go
+Sequel,         M,10,H,4,20,1205.6576,1,0,H,Go
+Sequel,         M,10,H,4,21,1043.2994,1,0,H,Go
+Sequel,         M,10,H,4,22,3500.8958,0,1,H,NoGo
+Sequel,         M,10,H,4,23,1029.3635,1,0,H,Go
+Sequel,         M,10,H,4,24,991.5574,1,0,H,Go
+Sequel,         M,10,H,4,25,1919.7117,1,0,H,Go
+Sequel,         M,10,H,4,26,760.6285,1,0,H,Go
+Sequel,         M,10,H,4,27,401.4064,1,0,H,Go
+Sequel,         M,10,H,4,28,2204.4813,1,1,H,NoGo
+Sequel,         M,10,H,4,29,888.8281,1,0,H,Go
+Sequel,         M,10,H,4,30,3250.4994,0,1,H,NoGo
+Sequel,         M,10,H,4,31,390.4029,1,0,H,Go
+Sequel,         M,10,H,4,32,399.4691,1,0,H,Go
+Sequel,         M,10,H,4,33,528.3993,1,0,H,Go
+Sequel,         M,10,H,4,34,639.3646,1,0,H,Go
+Sequel,         M,10,H,4,35,631.2238,1,0,H,Go
+Sequel,         M,10,H,4,36,2205.0656,1,1,H,NoGo
+Sequel,         M,10,H,4,37,3565.0472,0,1,H,NoGo
+Sequel,         M,10,H,4,38,399.1665,1,0,H,Go
+Sequel,         M,10,H,4,39,1996.8972,1,0,H,Go
+Sequel,         M,10,H,4,40,940.5695,1,0,H,Go
+Sequel,         M,10,H,5,1,1143.7479,1,0,H,Go
+Sequel,         M,10,H,5,2,554.496,1,0,H,Go
+Sequel,         M,10,H,5,3,3209.9775,0,1,H,NoGo
+Sequel,         M,10,H,5,4,528.3348,1,0,H,Go
+Sequel,         M,10,H,5,5,4647.5591,0,1,H,NoGo
+Sequel,         M,10,H,5,6,398.6223,1,0,H,Go
+Sequel,         M,10,H,5,7,1592.4319,1,0,H,Go
+Sequel,         M,10,H,5,8,863.5579,1,0,H,Go
+Sequel,         M,10,H,5,9,658.2052,1,0,H,Go
+Sequel,         M,10,H,5,10,2204.4405,1,1,H,NoGo
+Sequel,         M,10,H,5,11,1749.5691,1,0,H,Go
+Sequel,         M,10,H,5,12,2188.4471,1,1,H,NoGo
+Sequel,         M,10,H,5,13,618.3981,1,0,H,Go
+Sequel,         M,10,H,5,14,2047.9746,1,0,H,Go
+Sequel,         M,10,H,5,15,1405.4676,1,0,H,Go
+Sequel,         M,10,H,5,16,1429.939,1,0,H,Go
+Sequel,         M,10,H,5,17,2203.9385,1,1,H,NoGo
+Sequel,         M,10,H,5,18,564.8754,1,0,H,Go
+Sequel,         M,10,H,5,19,1635.8412,1,0,H,Go
+Sequel,         M,10,H,5,20,2585.9186,1,0,H,Go
+Sequel,         M,10,H,5,21,647.2659,1,0,H,Go
+Sequel,         M,10,H,5,22,2186.4051,1,1,H,NoGo
+Sequel,         M,10,H,5,23,2794.6655,1,0,H,Go
+Sequel,         M,10,H,5,24,400.8232,1,0,H,Go
+Sequel,         M,10,H,5,25,1043.8759,1,0,H,Go
+Sequel,         M,10,H,5,26,2692.5628,1,0,H,Go
+Sequel,         M,10,H,5,27,682.6931,1,0,H,Go
+Sequel,         M,10,H,5,28,1747.8727,1,0,H,Go
+Sequel,         M,10,H,5,29,2204.5107,1,1,H,NoGo
+Sequel,         M,10,H,5,30,3904.3386,0,1,H,NoGo
+Sequel,         M,10,H,5,31,387.2638,1,0,H,Go
+Sequel,         M,10,H,5,32,1841.2451,1,0,H,Go
+Sequel,         M,10,H,5,33,907.645,1,0,H,Go
+Sequel,         M,10,H,5,34,811.0424,1,0,H,Go
+Sequel,         M,10,H,5,35,6157.4811,1,0,H,Go
+Sequel,         M,10,H,5,36,3592.057,0,1,H,NoGo
+Sequel,         M,10,H,5,37,,,,H,
+Sequel,         M,10,H,5,38,,,,H,
+Sequel,         M,10,H,5,39,,,,H,
+Sequel,         M,10,H,5,40,,,,H,
+Sol,         M,17,H,1,1,21411.4632,1,0,H,Go
+Sol,         M,17,H,1,2,4811.6351,1,0,H,Go
+Sol,         M,17,H,1,3,2194.8017,1,1,H,NoGo
+Sol,         M,17,H,1,4,2124.5796,1,0,H,Go
+Sol,         M,17,H,1,5,2186.8673,1,1,H,NoGo
+Sol,         M,17,H,1,6,5560.8008,1,0,H,Go
+Sol,         M,17,H,1,7,1826.0686,1,0,H,Go
+Sol,         M,17,H,1,8,665.5609,1,0,H,Go
+Sol,         M,17,H,1,9,848.361,1,0,H,Go
+Sol,         M,17,H,1,10,3947.9531,0,1,H,NoGo
+Sol,         M,17,H,1,11,410.1863,1,0,H,Go
+Sol,         M,17,H,1,12,4017.611,0,1,H,NoGo
+Sol,         M,17,H,1,13,4291.0734,1,0,H,Go
+Sol,         M,17,H,1,14,2802.6382,1,0,H,Go
+Sol,         M,17,H,1,15,3988.7781,1,0,H,Go
+Sol,         M,17,H,1,16,1239.3308,1,0,H,Go
+Sol,         M,17,H,1,17,2205.2856,1,1,H,NoGo
+Sol,         M,17,H,1,18,3344.9932,1,0,H,Go
+Sol,         M,17,H,1,19,5149.6309,1,0,H,Go
+Sol,         M,17,H,1,20,4042.1804,1,0,H,Go
+Sol,         M,17,H,1,21,4375.0946,1,0,H,Go
+Sol,         M,17,H,1,22,2185.8182,1,1,H,NoGo
+Sol,         M,17,H,1,23,12000.844,1,0,H,Go
+Sol,         M,17,H,1,24,614.9282,1,0,H,Go
+Sol,         M,17,H,1,25,5148.7442,1,0,H,Go
+Sol,         M,17,H,1,26,1868.9131,1,0,H,Go
+Sol,         M,17,H,1,27,3208.9697,1,0,H,Go
+Sol,         M,17,H,1,28,554.6139,1,0,H,Go
+Sol,         M,17,H,1,29,3785.1856,0,1,H,NoGo
+Sol,         M,17,H,1,30,3652.2526,0,1,H,NoGo
+Sol,         M,17,H,1,31,2160.6406,1,0,H,Go
+Sol,         M,17,H,1,32,511.9444,1,0,H,Go
+Sol,         M,17,H,1,33,7106.8467,1,0,H,Go
+Sol,         M,17,H,1,34,949.5217,1,0,H,Go
+Sol,         M,17,H,1,35,1310.72,1,0,H,Go
+Sol,         M,17,H,1,36,2186.4357,1,1,H,NoGo
+Sol,         M,17,H,1,37,3861.3161,1,0,H,Go
+Sol,         M,17,H,1,38,3473.6997,1,0,H,Go
+Sol,         M,17,H,1,39,2184.923,1,1,H,NoGo
+Sol,         M,17,H,1,40,4721.3441,1,0,H,Go
+Sol,         M,17,H,2,1,2185.8707,1,1,H,NoGo
+Sol,         M,17,H,2,2,1027.2989,1,0,H,Go
+Sol,         M,17,H,2,3,4092.1839,1,0,H,Go
+Sol,         M,17,H,2,4,382.7485,1,0,H,Go
+Sol,         M,17,H,2,5,4203.307,0,1,H,NoGo
+Sol,         M,17,H,2,6,1901.6775,1,0,H,Go
+Sol,         M,17,H,2,7,1053.8334,1,0,H,Go
+Sol,         M,17,H,2,8,1335.4474,1,0,H,Go
+Sol,         M,17,H,2,9,1103.7468,1,0,H,Go
+Sol,         M,17,H,2,10,4162.1843,1,0,H,Go
+Sol,         M,17,H,2,11,2204.2713,1,1,H,NoGo
+Sol,         M,17,H,2,12,937.2565,1,0,H,Go
+Sol,         M,17,H,2,13,3632.517,0,1,H,NoGo
+Sol,         M,17,H,2,14,3285.2174,1,0,H,Go
+Sol,         M,17,H,2,15,673.895,1,0,H,Go
+Sol,         M,17,H,2,16,2160.4865,1,0,H,Go
+Sol,         M,17,H,2,17,589.3301,1,0,H,Go
+Sol,         M,17,H,2,18,1001.945,1,0,H,Go
+Sol,         M,17,H,2,19,439.8478,1,0,H,Go
+Sol,         M,17,H,2,20,3686.2731,0,1,H,NoGo
+Sol,         M,17,H,2,21,2185.2998,0,1,H,NoGo
+Sol,         M,17,H,2,22,3190.4908,1,0,H,Go
+Sol,         M,17,H,2,23,5088.6812,1,0,H,Go
+Sol,         M,17,H,2,24,386.927,1,0,H,Go
+Sol,         M,17,H,2,25,5125.6433,1,0,H,Go
+Sol,         M,17,H,2,26,3794.69,0,1,H,NoGo
+Sol,         M,17,H,2,27,1224.7963,1,0,H,Go
+Sol,         M,17,H,2,28,948.4489,1,0,H,Go
+Sol,         M,17,H,2,29,2186.511,1,1,H,NoGo
+Sol,         M,17,H,2,30,4270.4476,1,0,H,Go
+Sol,         M,17,H,2,31,3362.6768,1,0,H,Go
+Sol,         M,17,H,2,32,1885.3247,1,0,H,Go
+Sol,         M,17,H,2,33,3860.5866,1,0,H,Go
+Sol,         M,17,H,2,34,3099.7777,0,1,H,NoGo
+Sol,         M,17,H,2,35,385.9547,1,0,H,Go
+Sol,         M,17,H,2,36,580.2331,1,0,H,Go
+Sol,         M,17,H,2,37,529.1752,1,0,H,Go
+Sol,         M,17,H,2,38,4840.1098,1,0,H,Go
+Sol,         M,17,H,2,39,3963.9112,0,1,H,NoGo
+Sol,         M,17,H,2,40,2159.4049,1,0,H,Go
+Sol,         M,17,H,3,1,2186.7505,1,1,H,NoGo
+Sol,         M,17,H,3,2,5732.4747,1,0,H,Go
+Sol,         M,17,H,3,3,3473.8065,1,0,H,Go
+Sol,         M,17,H,3,4,384.938,1,0,H,Go
+Sol,         M,17,H,3,5,2186.3213,1,1,H,NoGo
+Sol,         M,17,H,3,6,588.9526,1,0,H,Go
+Sol,         M,17,H,3,7,2109.2293,1,0,H,Go
+Sol,         M,17,H,3,8,1456.4735,1,0,H,Go
+Sol,         M,17,H,3,9,1181.968,1,0,H,Go
+Sol,         M,17,H,3,10,2005.5408,1,0,H,Go
+Sol,         M,17,H,3,11,3461.0148,0,1,H,NoGo
+Sol,         M,17,H,3,12,2228.4899,1,0,H,Go
+Sol,         M,17,H,3,13,3299.762,0,1,H,NoGo
+Sol,         M,17,H,3,14,769.0131,1,0,H,Go
+Sol,         M,17,H,3,15,1825.454,1,0,H,Go
+Sol,         M,17,H,3,16,1542.6349,1,0,H,Go
+Sol,         M,17,H,3,17,1412.8325,1,0,H,Go
+Sol,         M,17,H,3,18,3860.7077,1,0,H,Go
+Sol,         M,17,H,3,19,1533.1277,1,0,H,Go
+Sol,         M,17,H,3,20,3233.3381,0,1,H,NoGo
+Sol,         M,17,H,3,21,3190.2839,0,1,H,NoGo
+Sol,         M,17,H,3,22,3705.7,1,0,H,Go
+Sol,         M,17,H,3,23,1026.2004,1,0,H,Go
+Sol,         M,17,H,3,24,3698.536,1,0,H,Go
+Sol,         M,17,H,3,25,3217.7691,1,0,H,Go
+Sol,         M,17,H,3,26,3834.5174,0,1,H,NoGo
+Sol,         M,17,H,3,27,725.5215,1,0,H,Go
+Sol,         M,17,H,3,28,5423.5982,1,0,H,Go
+Sol,         M,17,H,3,29,2205.5848,1,1,H,NoGo
+Sol,         M,17,H,3,30,4245.9632,1,0,H,Go
+Sol,         M,17,H,3,31,3429.5538,1,0,H,Go
+Sol,         M,17,H,3,32,4194.4566,1,0,H,Go
+Sol,         M,17,H,3,33,2929.8851,1,0,H,Go
+Sol,         M,17,H,3,34,2185.677,1,1,H,NoGo
+Sol,         M,17,H,3,35,3397.1462,1,0,H,Go
+Sol,         M,17,H,3,36,1392.8324,1,0,H,Go
+Sol,         M,17,H,3,37,682.2812,1,0,H,Go
+Sol,         M,17,H,3,38,2443.5362,1,0,H,Go
+Sol,         M,17,H,3,39,3349.4982,0,1,H,NoGo
+Sol,         M,17,H,3,40,2480.9129,1,0,H,Go
+Sol,         M,17,H,4,1,2134.0289,1,0,H,Go
+Sol,         M,17,H,4,2,399.2444,1,0,H,Go
+Sol,         M,17,H,4,3,3049.6892,0,1,H,NoGo
+Sol,         M,17,H,4,4,1308.771,1,0,H,Go
+Sol,         M,17,H,4,5,3263.323,0,1,H,NoGo
+Sol,         M,17,H,4,6,466.8829,1,0,H,Go
+Sol,         M,17,H,4,7,1142.5281,1,0,H,Go
+Sol,         M,17,H,4,8,1039.9825,1,0,H,Go
+Sol,         M,17,H,4,9,4239.2068,1,0,H,Go
+Sol,         M,17,H,4,10,3453.7286,0,1,H,NoGo
+Sol,         M,17,H,4,11,2083.2202,1,0,H,Go
+Sol,         M,17,H,4,12,3166.5574,0,1,H,NoGo
+Sol,         M,17,H,4,13,1612.2488,1,0,H,Go
+Sol,         M,17,H,4,14,1621.1158,1,0,H,Go
+Sol,         M,17,H,4,15,1336.9088,1,0,H,Go
+Sol,         M,17,H,4,16,2753.4677,1,0,H,Go
+Sol,         M,17,H,4,17,2185.4401,1,1,H,NoGo
+Sol,         M,17,H,4,18,949.7033,1,0,H,Go
+Sol,         M,17,H,4,19,401.1478,1,0,H,Go
+Sol,         M,17,H,4,20,537.8821,1,0,H,Go
+Sol,         M,17,H,4,21,1362.4262,1,0,H,Go
+Sol,         M,17,H,4,22,2204.261,1,1,H,NoGo
+Sol,         M,17,H,4,23,3775.3639,1,0,H,Go
+Sol,         M,17,H,4,24,2649.5611,1,0,H,Go
+Sol,         M,17,H,4,25,458.8704,1,0,H,Go
+Sol,         M,17,H,4,26,872.5347,1,0,H,Go
+Sol,         M,17,H,4,27,4633.2272,1,0,H,Go
+Sol,         M,17,H,4,28,511.9758,1,0,H,Go
+Sol,         M,17,H,4,29,2185.549,1,1,H,NoGo
+Sol,         M,17,H,4,30,2203.6114,1,1,H,NoGo
+Sol,         M,17,H,4,31,17034.2024,1,0,H,Go
+Sol,         M,17,H,4,32,2958.6685,1,0,H,Go
+Sol,         M,17,H,4,33,504.3881,1,0,H,Go
+Sol,         M,17,H,4,34,2770.6565,1,0,H,Go
+Sol,         M,17,H,4,35,1618.8428,1,0,H,Go
+Sol,         M,17,H,4,36,2187.1269,1,1,H,NoGo
+Sol,         M,17,H,4,37,2443.3858,1,0,H,Go
+Sol,         M,17,H,4,38,382.7494,1,0,H,Go
+Sol,         M,17,H,4,39,2186.5215,1,1,H,NoGo
+Sol,         M,17,H,4,40,459.8208,1,0,H,Go
+Sol,         M,17,H,5,1,4651.0094,1,0,H,Go
+Sol,         M,17,H,5,2,1166.3016,1,0,H,Go
+Sol,         M,17,H,5,3,3345.4614,1,0,H,Go
+Sol,         M,17,H,5,4,2185.6332,1,1,H,NoGo
+Sol,         M,17,H,5,5,4062.7943,0,1,H,NoGo
+Sol,         M,17,H,5,6,1052.7564,1,0,H,Go
+Sol,         M,17,H,5,7,974.5886,1,0,H,Go
+Sol,         M,17,H,5,8,486.337,1,0,H,Go
+Sol,         M,17,H,5,9,6127.0867,1,0,H,Go
+Sol,         M,17,H,5,10,2650.0062,1,0,H,Go
+Sol,         M,17,H,5,11,1361.1318,1,0,H,Go
+Sol,         M,17,H,5,12,2204.752,1,1,H,NoGo
+Sol,         M,17,H,5,13,386.9462,1,0,H,Go
+Sol,         M,17,H,5,14,3190.7557,1,0,H,Go
+Sol,         M,17,H,5,15,381.8947,1,0,H,Go
+Sol,         M,17,H,5,16,2185.8217,1,1,H,NoGo
+Sol,         M,17,H,5,17,2262.9637,1,0,H,Go
+Sol,         M,17,H,5,18,1902.8394,1,0,H,Go
+Sol,         M,17,H,5,19,924.3415,1,0,H,Go
+Sol,         M,17,H,5,20,2185.2885,1,1,H,NoGo
+Sol,         M,17,H,5,21,1799.8078,1,0,H,Go
+Sol,         M,17,H,5,22,2521.1034,1,0,H,Go
+Sol,         M,17,H,5,23,2186.362,1,1,H,NoGo
+Sol,         M,17,H,5,24,3087.5817,1,0,H,Go
+Sol,         M,17,H,5,25,692.5043,1,0,H,Go
+Sol,         M,17,H,5,26,2023.3973,1,0,H,Go
+Sol,         M,17,H,5,27,392.743,1,0,H,Go
+Sol,         M,17,H,5,28,2204.1043,1,1,H,NoGo
+Sol,         M,17,H,5,29,1365.1702,1,0,H,Go
+Sol,         M,17,H,5,30,1928.5662,1,0,H,Go
+Sol,         M,17,H,5,31,2186.219,1,1,H,NoGo
+Sol,         M,17,H,5,32,563.5778,1,0,H,Go
+Sol,         M,17,H,5,33,3318.8289,1,0,H,Go
+Sol,         M,17,H,5,34,521.6717,1,0,H,Go
+Sol,         M,17,H,5,35,2315.6829,1,0,H,Go
+Sol,         M,17,H,5,36,2186.0059,1,1,H,NoGo
+Sol,         M,17,H,5,37,380.4131,1,0,H,Go
+Sol,         M,17,H,5,38,3016.6779,0,1,H,NoGo
+Sol,         M,17,H,5,39,2262.9276,1,0,H,Go
+Sol,         M,17,H,5,40,2958.9899,1,0,H,Go
+Star,         M,11,H,1,1,2282.6469,1,0,H,Go
+Star,         M,11,H,1,2,10133.5297,1,0,H,Go
+Star,         M,11,H,1,3,1714.4379,1,0,H,Go
+Star,         M,11,H,1,4,7835.7515,0,1,H,NoGo
+Star,         M,11,H,1,5,2202.7472,0,1,H,NoGo
+Star,         M,11,H,1,6,5933.1356,1,0,H,Go
+Star,         M,11,H,1,7,4338.5093,1,0,H,Go
+Star,         M,11,H,1,8,394.8823,1,0,H,Go
+Star,         M,11,H,1,9,6660.4005,1,0,H,Go
+Star,         M,11,H,1,10,5707.1666,1,0,H,Go
+Star,         M,11,H,1,11,9350.5025,1,0,H,Go
+Star,         M,11,H,1,12,2186.8609,1,1,H,NoGo
+Star,         M,11,H,1,13,469.8553,1,0,H,Go
+Star,         M,11,H,1,14,5397.9655,1,0,H,Go
+Star,         M,11,H,1,15,2830.2416,1,0,H,Go
+Star,         M,11,H,1,16,2205.8817,1,1,H,NoGo
+Star,         M,11,H,1,17,5037.4942,1,0,H,Go
+Star,         M,11,H,1,18,2076.1665,1,0,H,Go
+Star,         M,11,H,1,19,3003.2015,1,0,H,Go
+Star,         M,11,H,1,20,2187.2436,1,1,H,NoGo
+Star,         M,11,H,1,21,4174.6701,1,0,H,Go
+Star,         M,11,H,1,22,2218.9186,1,0,H,Go
+Star,         M,11,H,1,23,2205.2898,1,1,H,NoGo
+Star,         M,11,H,1,24,9545.43,1,0,H,Go
+Star,         M,11,H,1,25,3285.7389,1,0,H,Go
+Star,         M,11,H,1,26,949.4656,1,0,H,Go
+Star,         M,11,H,1,27,5089.4267,1,0,H,Go
+Star,         M,11,H,1,28,3360.7048,0,1,H,NoGo
+Star,         M,11,H,1,29,17028.2885,0,0,H,Go
+Star,         M,11,H,1,30,3605.2572,1,0,H,Go
+Star,         M,11,H,1,31,2205.1525,1,1,H,NoGo
+Star,         M,11,H,1,32,4547.2,1,0,H,Go
+Star,         M,11,H,1,33,4451.7442,1,0,H,Go
+Star,         M,11,H,1,34,4855.25,1,0,H,Go
+Star,         M,11,H,1,35,2109.296,1,0,H,Go
+Star,         M,11,H,1,36,4022.5622,0,1,H,NoGo
+Star,         M,11,H,1,37,2823.7276,1,0,H,Go
+Star,         M,11,H,1,38,2186.6291,1,1,H,NoGo
+Star,         M,11,H,1,39,4687.388,1,0,H,Go
+Star,         M,11,H,1,40,2391.1114,1,0,H,Go
+Star,         M,11,H,2,1,4754.2814,1,0,H,Go
+Star,         M,11,H,2,2,4856.9495,1,0,H,Go
+Star,         M,11,H,2,3,2204.8539,1,1,H,NoGo
+Star,         M,11,H,2,4,7844.9464,1,0,H,Go
+Star,         M,11,H,2,5,2195.0725,1,1,H,NoGo
+Star,         M,11,H,2,6,3388.7331,1,0,H,Go
+Star,         M,11,H,2,7,5277.8232,1,0,H,Go
+Star,         M,11,H,2,8,2485.8497,1,0,H,Go
+Star,         M,11,H,2,9,7905.5356,1,0,H,Go
+Star,         M,11,H,2,10,2203.1607,1,1,H,NoGo
+Star,         M,11,H,2,11,11193.4067,1,0,H,Go
+Star,         M,11,H,2,12,2187.1587,1,1,H,NoGo
+Star,         M,11,H,2,13,29629.9389,1,0,H,Go
+Star,         M,11,H,2,14,4135.8635,1,0,H,Go
+Star,         M,11,H,2,15,1791.6737,1,0,H,Go
+Star,         M,11,H,2,16,2521.2891,1,0,H,Go
+Star,         M,11,H,2,17,3116.4625,0,1,H,NoGo
+Star,         M,11,H,2,18,3852.5777,1,0,H,Go
+Star,         M,11,H,2,19,2538.5933,1,0,H,Go
+Star,         M,11,H,2,20,8360.142,1,0,H,Go
+Star,         M,11,H,2,21,3268.458,1,0,H,Go
+Star,         M,11,H,2,22,3937.7605,0,1,H,NoGo
+Star,         M,11,H,2,23,5011.9586,1,0,H,Go
+Star,         M,11,H,2,24,1870.1431,1,0,H,Go
+Star,         M,11,H,2,25,1096.5516,1,0,H,Go
+Star,         M,11,H,2,26,3990.1909,1,0,H,Go
+Star,         M,11,H,2,27,6248.4149,1,0,H,Go
+Star,         M,11,H,2,28,2217.907,1,0,H,Go
+Star,         M,11,H,2,29,2204.1272,1,1,H,NoGo
+Star,         M,11,H,2,30,2205.2408,1,1,H,NoGo
+Star,         M,11,H,2,31,924.3826,1,0,H,Go
+Star,         M,11,H,2,32,2255.0316,1,0,H,Go
+Star,         M,11,H,2,33,6050.1913,1,0,H,Go
+Star,         M,11,H,2,34,4291.0843,1,0,H,Go
+Star,         M,11,H,2,35,3654.5054,1,0,H,Go
+Star,         M,11,H,2,36,2204.3221,1,1,H,NoGo
+Star,         M,11,H,2,37,1199.6523,1,0,H,Go
+Star,         M,11,H,2,38,5913.1546,1,0,H,Go
+Star,         M,11,H,2,39,2193.5379,1,1,H,NoGo
+Star,         M,11,H,2,40,5166.8292,1,0,H,Go
+Star,         M,11,H,3,1,2203.5107,1,1,H,NoGo
+Star,         M,11,H,3,2,10704.8601,1,0,H,Go
+Star,         M,11,H,3,3,3105.8089,1,0,H,Go
+Star,         M,11,H,3,4,1944.5711,1,0,H,Go
+Star,         M,11,H,3,5,2186.1059,1,1,H,NoGo
+Star,         M,11,H,3,6,10018.0718,1,0,H,Go
+Star,         M,11,H,3,7,2511.7415,1,0,H,Go
+Star,         M,11,H,3,8,4504.5002,1,0,H,Go
+Star,         M,11,H,3,9,9854.9448,1,0,H,Go
+Star,         M,11,H,3,10,6944.1297,1,0,H,Go
+Star,         M,11,H,3,11,3540.8002,0,1,H,NoGo
+Star,         M,11,H,3,12,1251.0593,1,0,H,Go
+Star,         M,11,H,3,13,2203.4092,1,1,H,NoGo
+Star,         M,11,H,3,14,6669.474,1,0,H,Go
+Star,         M,11,H,3,15,4909.5191,1,0,H,Go
+Star,         M,11,H,3,16,1278.0505,1,0,H,Go
+Star,         M,11,H,3,17,3064.1423,1,0,H,Go
+Star,         M,11,H,3,18,3388.8315,1,0,H,Go
+Star,         M,11,H,3,19,2204.5229,1,0,H,Go
+Star,         M,11,H,3,20,2186.2568,1,1,H,NoGo
+Star,         M,11,H,3,21,3822.9958,0,1,H,NoGo
+Star,         M,11,H,3,22,3433.9163,1,0,H,Go
+Star,         M,11,H,3,23,14396.9531,1,0,H,Go
+Star,         M,11,H,3,24,1044.7524,1,0,H,Go
+Star,         M,11,H,3,25,3363.3431,1,0,H,Go
+Star,         M,11,H,3,26,3944.1305,0,1,H,NoGo
+Star,         M,11,H,3,27,2873.174,1,0,H,Go
+Star,         M,11,H,3,28,392.6245,1,0,H,Go
+Star,         M,11,H,3,29,2203.8632,1,1,H,NoGo
+Star,         M,11,H,3,30,2443.7813,1,0,H,Go
+Star,         M,11,H,3,31,5836.4575,1,0,H,Go
+Star,         M,11,H,3,32,4316.1322,1,0,H,Go
+Star,         M,11,H,3,33,4104.7283,1,0,H,Go
+Star,         M,11,H,3,34,2187.4451,1,1,H,NoGo
+Star,         M,11,H,3,35,578.7255,1,0,H,Go
+Star,         M,11,H,3,36,4212.898,1,0,H,Go
+Star,         M,11,H,3,37,702.0174,1,0,H,Go
+Star,         M,11,H,3,38,4213.6982,1,0,H,Go
+Star,         M,11,H,3,39,2204.8464,1,1,H,NoGo
+Star,         M,11,H,3,40,390.3819,1,0,H,Go
+Star,         M,11,H,4,1,6170.6833,1,0,H,Go
+Star,         M,11,H,4,2,2203.3814,1,1,H,NoGo
+Star,         M,11,H,4,3,4110.2653,1,0,H,Go
+Star,         M,11,H,4,4,4392.2316,1,0,H,Go
+Star,         M,11,H,4,5,5640.578,0,1,H,NoGo
+Star,         M,11,H,4,6,4574.3211,1,0,H,Go
+Star,         M,11,H,4,7,2694.2817,1,0,H,Go
+Star,         M,11,H,4,8,1918.4075,1,0,H,Go
+Star,         M,11,H,4,9,5114.6042,1,0,H,Go
+Star,         M,11,H,4,10,2057.9861,1,0,H,Go
+Star,         M,11,H,4,11,422.6741,1,0,H,Go
+Star,         M,11,H,4,12,2192.1992,1,1,H,NoGo
+Star,         M,11,H,4,13,3748.4546,1,0,H,Go
+Star,         M,11,H,4,14,2203.7149,1,1,H,NoGo
+Star,         M,11,H,4,15,388.3154,1,0,H,Go
+Star,         M,11,H,4,16,6308.6757,1,0,H,Go
+Star,         M,11,H,4,17,2409.5202,1,0,H,Go
+Star,         M,11,H,4,18,2204.8275,1,1,H,NoGo
+Star,         M,11,H,4,19,6670.0795,1,0,H,Go
+Star,         M,11,H,4,20,5475.072,1,0,H,Go
+Star,         M,11,H,4,21,3800.7096,1,0,H,Go
+Star,         M,11,H,4,22,2203.899,1,1,H,NoGo
+Star,         M,11,H,4,23,5758.6714,1,0,H,Go
+Star,         M,11,H,4,24,7974.4697,1,0,H,Go
+Star,         M,11,H,4,25,6892.6705,1,0,H,Go
+Star,         M,11,H,4,26,4934.9827,1,0,H,Go
+Star,         M,11,H,4,27,6428.3179,1,0,H,Go
+Star,         M,11,H,4,28,2203.5346,1,1,H,NoGo
+Star,         M,11,H,4,29,3852.7212,1,0,H,Go
+Star,         M,11,H,4,30,2204.8599,1,1,H,NoGo
+Star,         M,11,H,4,31,6582.9882,1,0,H,Go
+Star,         M,11,H,4,32,3466.0031,1,0,H,Go
+Star,         M,11,H,4,33,6042.1129,1,0,H,Go
+Star,         M,11,H,4,34,4831.1826,1,0,H,Go
+Star,         M,11,H,4,35,3062.2337,1,0,H,Go
+Star,         M,11,H,4,36,2188.6052,1,1,H,NoGo
+Star,         M,11,H,4,37,3489.6909,0,1,H,NoGo
+Star,         M,11,H,4,38,3706.7514,1,0,H,Go
+Star,         M,11,H,4,39,3723.8475,1,0,H,Go
+Star,         M,11,H,4,40,5895.5488,1,0,H,Go
+Star,         M,11,H,5,1,,,,H,
+Star,         M,11,H,5,2,,,,H,
+Star,         M,11,H,5,3,,,,H,
+Star,         M,11,H,5,4,,,,H,
+Star,         M,11,H,5,5,,,,H,
+Star,         M,11,H,5,6,,,,H,
+Star,         M,11,H,5,7,,,,H,
+Star,         M,11,H,5,8,,,,H,
+Star,         M,11,H,5,9,,,,H,
+Star,         M,11,H,5,10,,,,H,
+Star,         M,11,H,5,11,,,,H,
+Star,         M,11,H,5,12,,,,H,
+Star,         M,11,H,5,13,,,,H,
+Star,         M,11,H,5,14,,,,H,
+Star,         M,11,H,5,15,,,,H,
+Star,         M,11,H,5,16,,,,H,
+Star,         M,11,H,5,17,,,,H,
+Star,         M,11,H,5,18,,,,H,
+Star,         M,11,H,5,19,,,,H,
+Star,         M,11,H,5,20,,,,H,
+Star,         M,11,H,5,21,,,,H,
+Star,         M,11,H,5,22,,,,H,
+Star,         M,11,H,5,23,,,,H,
+Star,         M,11,H,5,24,,,,H,
+Star,         M,11,H,5,25,,,,H,
+Star,         M,11,H,5,26,,,,H,
+Star,         M,11,H,5,27,,,,H,
+Star,         M,11,H,5,28,,,,H,
+Star,         M,11,H,5,29,,,,H,
+Star,         M,11,H,5,30,,,,H,
+Star,         M,11,H,5,31,,,,H,
+Star,         M,11,H,5,32,,,,H,
+Star,         M,11,H,5,33,,,,H,
+Star,         M,11,H,5,34,,,,H,
+Star,         M,11,H,5,35,,,,H,
+Star,         M,11,H,5,36,,,,H,
+Star,         M,11,H,5,37,,,,H,
+Star,         M,11,H,5,38,,,,H,
+Star,         M,11,H,5,39,,,,H,
+Star,         M,11,H,5,40,,,,H,
+Tess,F,10,L,1,1,1542.1191,1,0,M,Go
+Tess,F,10,L,1,2,3336.4992,1,0,M,Go
+Tess,F,10,L,1,3,2202.9059,1,1,M,NoGo
+Tess,F,10,L,1,4,5483.3889,1,0,M,Go
+Tess,F,10,L,1,5,2185.1069,1,1,M,NoGo
+Tess,F,10,L,1,6,387.0036,1,0,M,Go
+Tess,F,10,L,1,7,401.6847,1,0,M,Go
+Tess,F,10,L,1,8,2564.433,1,0,M,Go
+Tess,F,10,L,1,9,2487.4585,1,0,M,Go
+Tess,F,10,L,1,10,2203.5804,1,1,M,NoGo
+Tess,F,10,L,1,11,3260.2148,1,0,M,Go
+Tess,F,10,L,1,12,2185.5461,1,1,M,NoGo
+Tess,F,10,L,1,13,15735.269,1,0,M,Go
+Tess,F,10,L,1,14,1567.5693,1,0,M,Go
+Tess,F,10,L,1,15,822.1137,1,0,M,Go
+Tess,F,10,L,1,16,2822.3112,1,0,M,Go
+Tess,F,10,L,1,17,2203.2737,1,1,M,NoGo
+Tess,F,10,L,1,18,4238.8437,1,0,M,Go
+Tess,F,10,L,1,19,2469.7003,1,0,M,Go
+Tess,F,10,L,1,20,5896.33,1,0,M,Go
+Tess,F,10,L,1,21,4736.568,1,0,M,Go
+Tess,F,10,L,1,22,3992.1686,0,1,M,NoGo
+Tess,F,10,L,1,23,3699.0954,1,0,M,Go
+Tess,F,10,L,1,24,4212.7874,1,0,M,Go
+Tess,F,10,L,1,25,2100.9433,1,0,M,Go
+Tess,F,10,L,1,26,3990.5701,1,0,M,Go
+Tess,F,10,L,1,27,6506.3523,1,0,M,Go
+Tess,F,10,L,1,28,4531.5515,1,0,M,Go
+Tess,F,10,L,1,29,3501.0381,0,1,M,NoGo
+Tess,F,10,L,1,30,2203.791,0,1,M,NoGo
+Tess,F,10,L,1,31,17396.4135,0,0,M,Go
+Tess,F,10,L,1,32,4548.712,1,0,M,Go
+Tess,F,10,L,1,33,392.6561,1,0,M,Go
+Tess,F,10,L,1,34,385.8453,1,0,M,Go
+Tess,F,10,L,1,35,387.5391,1,0,M,Go
+Tess,F,10,L,1,36,2203.2082,1,1,M,NoGo
+Tess,F,10,L,1,37,400.0579,1,0,M,Go
+Tess,F,10,L,1,38,774.1662,1,0,M,Go
+Tess,F,10,L,1,39,4925.7182,0,1,M,NoGo
+Tess,F,10,L,1,40,1817.0205,1,0,M,Go
+Tess,F,10,L,2,1,2214.8568,1,1,M,NoGo
+Tess,F,10,L,2,2,2682.534,1,0,M,Go
+Tess,F,10,L,2,3,2486.7982,1,0,M,Go
+Tess,F,10,L,2,4,1285.0888,1,0,M,Go
+Tess,F,10,L,2,5,3455.6458,0,1,M,NoGo
+Tess,F,10,L,2,6,770.9558,1,0,M,Go
+Tess,F,10,L,2,7,556.2623,1,0,M,Go
+Tess,F,10,L,2,8,993.3956,1,0,M,Go
+Tess,F,10,L,2,9,5741.769,1,0,M,Go
+Tess,F,10,L,2,10,6196.6356,1,0,M,Go
+Tess,F,10,L,2,11,2204.3428,1,1,M,NoGo
+Tess,F,10,L,2,12,6540.6028,1,0,M,Go
+Tess,F,10,L,2,13,3709.9958,0,1,M,NoGo
+Tess,F,10,L,2,14,2187.7811,1,0,M,Go
+Tess,F,10,L,2,15,399.264,1,0,M,Go
+Tess,F,10,L,2,16,579.3942,1,0,M,Go
+Tess,F,10,L,2,17,2046.8731,1,0,M,Go
+Tess,F,10,L,2,18,1070.9462,1,0,M,Go
+Tess,F,10,L,2,19,942.3835,1,0,M,Go
+Tess,F,10,L,2,20,3725.5038,0,1,M,NoGo
+Tess,F,10,L,2,21,3816.9388,0,1,M,NoGo
+Tess,F,10,L,2,22,476.4525,1,0,M,Go
+Tess,F,10,L,2,23,433.4899,1,0,M,Go
+Tess,F,10,L,2,24,2100.4624,1,0,M,Go
+Tess,F,10,L,2,25,478.722,1,0,M,Go
+Tess,F,10,L,2,26,3981.3347,0,1,M,NoGo
+Tess,F,10,L,2,27,562.4863,1,0,M,Go
+Tess,F,10,L,2,28,2177.9948,1,0,M,Go
+Tess,F,10,L,2,29,3448.7798,0,1,M,NoGo
+Tess,F,10,L,2,30,2478.9231,1,0,M,Go
+Tess,F,10,L,2,31,529.2295,1,0,M,Go
+Tess,F,10,L,2,32,394.342,1,0,M,Go
+Tess,F,10,L,2,33,4393.2039,1,0,M,Go
+Tess,F,10,L,2,34,3881.4272,0,1,M,NoGo
+Tess,F,10,L,2,35,394.7321,1,0,M,Go
+Tess,F,10,L,2,36,1199.1795,1,0,M,Go
+Tess,F,10,L,2,37,620.9302,1,0,M,Go
+Tess,F,10,L,2,38,4762.8599,1,0,M,Go
+Tess,F,10,L,2,39,3340.5561,0,1,M,NoGo
+Tess,F,10,L,2,40,3279.6212,1,        ,M,NoGo
+Tess,F,10,L,3,1,838.9673,1,0,M,Go
+Tess,F,10,L,3,2,3132.9088,0,1,M,NoGo
+Tess,F,10,L,3,3,2976.5349,1,0,M,Go
+Tess,F,10,L,3,4,2538.788,1,0,M,Go
+Tess,F,10,L,3,5,10734.5786,0,1,M,NoGo
+Tess,F,10,L,3,6,3216.0554,1,0,M,Go
+Tess,F,10,L,3,7,1763.0168,1,0,M,Go
+Tess,F,10,L,3,8,684.2651,1,0,M,Go
+Tess,F,10,L,3,9,393.605,1,0,M,Go
+Tess,F,10,L,3,10,1251.2378,1,0,M,Go
+Tess,F,10,L,3,11,3672.3961,1,0,M,Go
+Tess,F,10,L,3,12,2204.8663,1,1,M,NoGo
+Tess,F,10,L,3,13,941.5238,1,0,M,Go
+Tess,F,10,L,3,14,2204.8741,1,1,M,NoGo
+Tess,F,10,L,3,15,761.7776,1,0,M,Go
+Tess,F,10,L,3,16,3182.4688,1,0,M,Go
+Tess,F,10,L,3,17,2847.8288,1,0,M,Go
+Tess,F,10,L,3,18,3386.2545,0,1,M,NoGo
+Tess,F,10,L,3,19,839.5729,1,0,M,Go
+Tess,F,10,L,3,20,4547.8447,1,0,M,Go
+Tess,F,10,L,3,21,4608.2642,1,0,M,Go
+Tess,F,10,L,3,22,3509.7053,0,1,M,NoGo
+Tess,F,10,L,3,23,4728.2834,1,0,M,Go
+Tess,F,10,L,3,24,1058.9301,1,0,M,Go
+Tess,F,10,L,3,25,384.8806,1,0,M,Go
+Tess,F,10,L,3,26,2339.9944,1,0,M,Go
+Tess,F,10,L,3,27,890.4306,1,0,M,Go
+Tess,F,10,L,3,28,3804.8699,0,1,M,NoGo
+Tess,F,10,L,3,29,1146.7001,1,0,M,Go
+Tess,F,10,L,3,30,3872.075,0,1,M,NoGo
+Tess,F,10,L,3,31,493.7471,1,0,M,Go
+Tess,F,10,L,3,32,993.9315,1,0,M,Go
+Tess,F,10,L,3,33,864.403,1,0,M,Go
+Tess,F,10,L,3,34,444.038,1,0,M,Go
+Tess,F,10,L,3,35,6908.9235,1,0,M,Go
+Tess,F,10,L,3,36,4041.1448,0,1,M,NoGo
+Tess,F,10,L,3,37,3989.7036,0,1,M,NoGo
+Tess,F,10,L,3,38,1490.8572,1,0,M,Go
+Tess,F,10,L,3,39,846.8076,1,0,M,Go
+Tess,F,10,L,3,40,2546.4536,1,0,M,Go
+Tess,F,10,L,4,1,5784.3889,1,0,M,Go
+Tess,F,10,L,4,2,400.0017,1,0,M,Go
+Tess,F,10,L,4,3,555.433,1,0,M,Go
+Tess,F,10,L,4,4,3480.4486,0,1,M,NoGo
+Tess,F,10,L,4,5,2203.7829,0,1,M,NoGo
+Tess,F,10,L,4,6,4040.5905,1,0,M,Go
+Tess,F,10,L,4,7,1947.3109,1,0,M,Go
+Tess,F,10,L,4,8,390.4762,1,0,M,Go
+Tess,F,10,L,4,9,1981.1193,1,0,M,Go
+Tess,F,10,L,4,10,1815.0849,1,0,M,Go
+Tess,F,10,L,4,11,385.5218,1,0,M,Go
+Tess,F,10,L,4,12,3032.7637,0,1,M,NoGo
+Tess,F,10,L,4,13,1314.277,1,0,M,Go
+Tess,F,10,L,4,14,538.6197,1,0,M,Go
+Tess,F,10,L,4,15,400.8623,1,0,M,Go
+Tess,F,10,L,4,16,3501.6765,0,1,M,NoGo
+Tess,F,10,L,4,17,383.4183,1,0,M,Go
+Tess,F,10,L,4,18,1070.5468,1,0,M,Go
+Tess,F,10,L,4,19,1335.5441,1,0,M,Go
+Tess,F,10,L,4,20,2205.31,1,1,M,NoGo
+Tess,F,10,L,4,21,1168.3015,1,0,M,Go
+Tess,F,10,L,4,22,787.5372,1,0,M,Go
+Tess,F,10,L,4,23,3364.2591,0,1,M,NoGo
+Tess,F,10,L,4,24,2203.8498,1,0,M,Go
+Tess,F,10,L,4,25,774.7011,1,0,M,Go
+Tess,F,10,L,4,26,396.9883,1,0,M,Go
+Tess,F,10,L,4,27,2950.9046,1,0,M,Go
+Tess,F,10,L,4,28,6015.2523,0,1,M,NoGo
+Tess,F,10,L,4,29,435.5477,1,0,M,Go
+Tess,F,10,L,4,30,2667.2696,1,0,M,Go
+Tess,F,10,L,4,31,2205.1892,1,1,M,NoGo
+Tess,F,10,L,4,32,1816.3366,1,0,M,Go
+Tess,F,10,L,4,33,400.1683,1,0,M,Go
+Tess,F,10,L,4,34,632.8789,1,0,M,Go
+Tess,F,10,L,4,35,1995.3472,1,0,M,Go
+Tess,F,10,L,4,36,2204.329,1,1,M,NoGo
+Tess,F,10,L,4,37,1250.344,1,0,M,Go
+Tess,F,10,L,4,38,3793.1899,0,1,M,NoGo
+Tess,F,10,L,4,39,1096.3277,1,0,M,Go
+Tess,F,10,L,4,40,3551.2507,1,0,M,Go
+Tess,F,10,L,5,1,1045.0244,1,0,M,Go
+Tess,F,10,L,5,2,2538.6124,1,0,M,Go
+Tess,F,10,L,5,3,465.7634,1,0,M,Go
+Tess,F,10,L,5,4,3100.4059,0,1,M,NoGo
+Tess,F,10,L,5,5,709.4815,1,0,M,Go
+Tess,F,10,L,5,6,399.9603,1,0,M,Go
+Tess,F,10,L,5,7,4090.8779,0,1,M,NoGo
+Tess,F,10,L,5,8,736.0307,1,0,M,Go
+Tess,F,10,L,5,9,4121.7419,0,1,M,NoGo
+Tess,F,10,L,5,10,1765.0397,1,0,M,Go
+Tess,F,10,L,5,11,9443.0763,1,0,M,Go
+Tess,F,10,L,5,12,7484.5087,1,0,M,Go
+Tess,F,10,L,5,13,2037.05,1,0,M,Go
+Tess,F,10,L,5,14,4394.1289,1,0,M,Go
+Tess,F,10,L,5,15,7622.0815,1,0,M,Go
+Tess,F,10,L,5,16,2205.2185,1,1,M,NoGo
+Tess,F,10,L,5,17,2195.9169,1,1,M,NoGo
+Tess,F,10,L,5,18,615.6415,1,0,M,Go
+Tess,F,10,L,5,19,7356.1879,1,0,M,Go
+Tess,F,10,L,5,20,2899.1265,1,0,M,Go
+Tess,F,10,L,5,21,3199.4873,0,1,M,NoGo
+Tess,F,10,L,5,22,4676.8374,1,0,M,Go
+Tess,F,10,L,5,23,1156.2625,1,0,M,Go
+Tess,F,10,L,5,24,400.5627,1,0,M,Go
+Tess,F,10,L,5,25,1740.1229,1,0,M,Go
+Tess,F,10,L,5,26,2049.1811,1,0,M,Go
+Tess,F,10,L,5,27,2522.5716,1,0,M,Go
+Tess,F,10,L,5,28,3149.8876,0,1,M,NoGo
+Tess,F,10,L,5,29,3536.7911,1,0,M,Go
+Tess,F,10,L,5,30,3727.722,0,1,M,NoGo
+Tess,F,10,L,5,31,1993.6233,1,0,M,Go
+Tess,F,10,L,5,32,426.5543,1,0,M,Go
+Tess,F,10,L,5,33,1507.7764,1,0,M,Go
+Tess,F,10,L,5,34,2203.4959,1,1,M,NoGo
+Tess,F,10,L,5,35,2512.4519,1,0,M,Go
+Tess,F,10,L,5,36,4599.9656,1,0,M,Go
+Tess,F,10,L,5,37,3286.5329,1,0,M,Go
+Tess,F,10,L,5,38,388.2847,1,0,M,Go
+Tess,F,10,L,5,39,1791.304,1,0,M,Go
+Tess,F,10,L,5,40,2204.6731,1,1,M,NoGo
+Vincent,         M,8,H,1,1,1695.7494,1,0,H,Go
+Vincent,         M,8,H,1,2,2184.6437,1,1,H,NoGo
+Vincent,         M,8,H,1,3,1103.4393,1,0,H,Go
+Vincent,         M,8,H,1,4,2314.8289,1,0,H,Go
+Vincent,         M,8,H,1,5,3897.3197,0,1,H,NoGo
+Vincent,         M,8,H,1,6,1724.0868,1,0,H,Go
+Vincent,         M,8,H,1,7,606.7766,1,0,H,Go
+Vincent,         M,8,H,1,8,702.7004,1,0,H,Go
+Vincent,         M,8,H,1,9,1265.8571,1,0,H,Go
+Vincent,         M,8,H,1,10,2339.482,1,0,H,Go
+Vincent,         M,8,H,1,11,691.6149,1,0,H,Go
+Vincent,         M,8,H,1,12,3250.7409,0,1,H,NoGo
+Vincent,         M,8,H,1,13,386.5471,1,0,H,Go
+Vincent,         M,8,H,1,14,3735.5938,0,1,H,NoGo
+Vincent,         M,8,H,1,15,553.6874,1,0,H,Go
+Vincent,         M,8,H,1,16,511.17,1,0,H,Go
+Vincent,         M,8,H,1,17,872.5966,1,0,H,Go
+Vincent,         M,8,H,1,18,3311.4169,0,1,H,NoGo
+Vincent,         M,8,H,1,19,383.5028,1,0,H,Go
+Vincent,         M,8,H,1,20,2371.9244,1,0,H,Go
+Vincent,         M,8,H,1,21,390.4886,1,0,H,Go
+Vincent,         M,8,H,1,22,2197.3273,1,1,H,NoGo
+Vincent,         M,8,H,1,23,1611.789,1,0,H,Go
+Vincent,         M,8,H,1,24,1259.031,1,0,H,Go
+Vincent,         M,8,H,1,25,383.9343,1,0,H,Go
+Vincent,         M,8,H,1,26,1052.753,1,0,H,Go
+Vincent,         M,8,H,1,27,383.2118,1,0,H,Go
+Vincent,         M,8,H,1,28,3149.7535,0,1,H,NoGo
+Vincent,         M,8,H,1,29,510.5645,1,0,H,Go
+Vincent,         M,8,H,1,30,3149.637,0,1,H,NoGo
+Vincent,         M,8,H,1,31,383.9264,1,0,H,Go
+Vincent,         M,8,H,1,32,1147.2792,1,0,H,Go
+Vincent,         M,8,H,1,33,434.5953,1,0,H,Go
+Vincent,         M,8,H,1,34,394.8194,1,0,H,Go
+Vincent,         M,8,H,1,35,890.2463,1,0,H,Go
+Vincent,         M,8,H,1,36,2185.966,1,1,H,NoGo
+Vincent,         M,8,H,1,37,2186.9847,1,1,H,NoGo
+Vincent,         M,8,H,1,38,410.1106,1,0,H,Go
+Vincent,         M,8,H,1,39,467.7375,1,0,H,Go
+Vincent,         M,8,H,1,40,798.3327,1,0,H,Go
+Vincent,         M,8,H,2,1,703.5819,1,0,H,Go
+Vincent,         M,8,H,2,2,4247.6288,1,0,H,Go
+Vincent,         M,8,H,2,3,4615.5138,0,1,H,NoGo
+Vincent,         M,8,H,2,4,384.2037,1,0,H,Go
+Vincent,         M,8,H,2,5,3677.5001,0,1,H,NoGo
+Vincent,         M,8,H,2,6,2341.302,1,0,H,Go
+Vincent,         M,8,H,2,7,392.885,1,0,H,Go
+Vincent,         M,8,H,2,8,846.8036,1,0,H,Go
+Vincent,         M,8,H,2,9,858.0955,1,0,H,Go
+Vincent,         M,8,H,2,10,3954.2715,0,1,H,NoGo
+Vincent,         M,8,H,2,11,1078.6713,1,0,H,Go
+Vincent,         M,8,H,2,12,2673.7951,1,1,H,NoGo
+Vincent,         M,8,H,2,13,8496.0977,1,0,H,Go
+Vincent,         M,8,H,2,14,4633.6192,1,0,H,Go
+Vincent,         M,8,H,2,15,2650.6819,1,0,H,Go
+Vincent,         M,8,H,2,16,6848.4895,1,0,H,Go
+Vincent,         M,8,H,2,17,2203.3428,1,1,H,NoGo
+Vincent,         M,8,H,2,18,987.3531,1,0,H,Go
+Vincent,         M,8,H,2,19,939.3905,1,0,H,Go
+Vincent,         M,8,H,2,20,3597.7971,0,1,H,NoGo
+Vincent,         M,8,H,2,21,565.336,1,0,H,Go
+Vincent,         M,8,H,2,22,387.4047,1,0,H,Go
+Vincent,         M,8,H,2,23,3654.2343,0,1,H,NoGo
+Vincent,         M,8,H,2,24,1878.8728,1,0,H,Go
+Vincent,         M,8,H,2,25,393.7987,1,0,H,Go
+Vincent,         M,8,H,2,26,615.343,1,0,H,Go
+Vincent,         M,8,H,2,27,396.5753,1,0,H,Go
+Vincent,         M,8,H,2,28,2204.5731,1,1,H,NoGo
+Vincent,         M,8,H,2,29,1018.61,1,0,H,Go
+Vincent,         M,8,H,2,30,384.9667,1,0,H,Go
+Vincent,         M,8,H,2,31,3712.8445,0,1,H,NoGo
+Vincent,         M,8,H,2,32,2693.075,1,0,H,Go
+Vincent,         M,8,H,2,33,383.2465,1,0,H,Go
+Vincent,         M,8,H,2,34,388.6199,1,0,H,Go
+Vincent,         M,8,H,2,35,951.7184,1,0,H,Go
+Vincent,         M,8,H,2,36,2202.8633,1,1,H,NoGo
+Vincent,         M,8,H,2,37,391.3585,1,0,H,Go
+Vincent,         M,8,H,2,38,7927.2189,0,1,H,NoGo
+Vincent,         M,8,H,2,39,3264.0842,1,0,H,Go
+Vincent,         M,8,H,2,40,4843.8796,1,0,H,Go
+Vincent,         M,8,H,3,1,2892.191,1,0,H,Go
+Vincent,         M,8,H,3,2,388.2555,1,0,H,Go
+Vincent,         M,8,H,3,3,503.1629,1,0,H,Go
+Vincent,         M,8,H,3,4,3278.9624,1,1,H,NoGo
+Vincent,         M,8,H,3,5,2252.7917,1,0,H,Go
+Vincent,         M,8,H,3,6,1931.1773,1,0,H,Go
+Vincent,         M,8,H,3,7,4212.467,0,1,H,NoGo
+Vincent,         M,8,H,3,8,539.0286,1,0,H,Go
+Vincent,         M,8,H,3,9,3279.4876,0,1,H,NoGo
+Vincent,         M,8,H,3,10,2781.5911,1,0,H,Go
+Vincent,         M,8,H,3,11,395.2418,1,0,H,Go
+Vincent,         M,8,H,3,12,914.7316,1,0,H,Go
+Vincent,         M,8,H,3,13,2187.2016,1,0,H,Go
+Vincent,         M,8,H,3,14,2694.0033,1,0,H,Go
+Vincent,         M,8,H,3,15,847.0074,1,0,H,Go
+Vincent,         M,8,H,3,16,3584.2748,0,1,H,NoGo
+Vincent,         M,8,H,3,17,4701.72,0,1,H,NoGo
+Vincent,         M,8,H,3,18,734.6099,1,0,H,Go
+Vincent,         M,8,H,3,19,2204.8303,1,0,H,Go
+Vincent,         M,8,H,3,20,1842.1571,1,0,H,Go
+Vincent,         M,8,H,3,21,2188.8521,1,1,H,NoGo
+Vincent,         M,8,H,3,22,1791.3544,1,0,H,Go
+Vincent,         M,8,H,3,23,1657.3443,1,0,H,Go
+Vincent,         M,8,H,3,24,950.1917,1,0,H,Go
+Vincent,         M,8,H,3,25,2286.0377,1,0,H,Go
+Vincent,         M,8,H,3,26,639.8792,1,0,H,Go
+Vincent,         M,8,H,3,27,1173.0298,1,0,H,Go
+Vincent,         M,8,H,3,28,3215.752,0,1,H,NoGo
+Vincent,         M,8,H,3,29,386.4854,1,0,H,Go
+Vincent,         M,8,H,3,30,3199.7682,0,1,H,NoGo
+Vincent,         M,8,H,3,31,1132.2933,1,0,H,Go
+Vincent,         M,8,H,3,32,395.0836,1,0,H,Go
+Vincent,         M,8,H,3,33,761.7861,1,0,H,Go
+Vincent,         M,8,H,3,34,2204.7101,1,1,H,NoGo
+Vincent,         M,8,H,3,35,2909.3026,1,0,H,Go
+Vincent,         M,8,H,3,36,2290.1967,1,0,H,Go
+Vincent,         M,8,H,3,37,3415.2687,1,0,H,Go
+Vincent,         M,8,H,3,38,1438.7292,1,0,H,Go
+Vincent,         M,8,H,3,39,607.0665,1,0,H,Go
+Vincent,         M,8,H,3,40,2204.1479,1,1,H,NoGo
+Vincent,         M,8,H,4,1,1638.8523,1,0,H,Go
+Vincent,         M,8,H,4,2,3559.815,1,0,H,Go
+Vincent,         M,8,H,4,3,4064.6213,0,1,H,NoGo
+Vincent,         M,8,H,4,4,767.9258,1,0,H,Go
+Vincent,         M,8,H,4,5,2206.0791,1,1,H,NoGo
+Vincent,         M,8,H,4,6,396.182,1,0,H,Go
+Vincent,         M,8,H,4,7,1043.4787,1,0,H,Go
+Vincent,         M,8,H,4,8,1335.8658,1,0,H,Go
+Vincent,         M,8,H,4,9,1353.8685,1,0,H,Go
+Vincent,         M,8,H,4,10,2203.7749,1,1,H,NoGo
+Vincent,         M,8,H,4,11,389.1915,1,0,H,Go
+Vincent,         M,8,H,4,12,2204.0134,1,1,H,NoGo
+Vincent,         M,8,H,4,13,478.7348,1,0,H,Go
+Vincent,         M,8,H,4,14,436.5861,1,0,H,Go
+Vincent,         M,8,H,4,15,1380.1082,1,0,H,Go
+Vincent,         M,8,H,4,16,385.9395,1,0,H,Go
+Vincent,         M,8,H,4,17,2181.1596,1,1,H,NoGo
+Vincent,         M,8,H,4,18,1475.5945,1,0,H,Go
+Vincent,         M,8,H,4,19,1491.2671,1,0,H,Go
+Vincent,         M,8,H,4,20,451.1521,1,0,H,Go
+Vincent,         M,8,H,4,21,580.9173,1,0,H,Go
+Vincent,         M,8,H,4,22,3483.4645,0,1,H,NoGo
+Vincent,         M,8,H,4,23,998.3561,1,0,H,Go
+Vincent,         M,8,H,4,24,940.62,1,0,H,Go
+Vincent,         M,8,H,4,25,555.0485,1,0,H,Go
+Vincent,         M,8,H,4,26,966.7488,1,0,H,Go
+Vincent,         M,8,H,4,27,1257.2627,1,0,H,Go
+Vincent,         M,8,H,4,28,1102.8529,1,0,H,Go
+Vincent,         M,8,H,4,29,3255.4476,0,1,H,NoGo
+Vincent,         M,8,H,4,30,4048.6576,0,1,H,NoGo
+Vincent,         M,8,H,4,31,385.8479,1,0,H,Go
+Vincent,         M,8,H,4,32,17784.0111,1,0,H,Go
+Vincent,         M,8,H,4,33,683.3706,1,0,H,Go
+Vincent,         M,8,H,4,34,563.8975,1,0,H,Go
+Vincent,         M,8,H,4,35,1121.0476,1,0,H,Go
+Vincent,         M,8,H,4,36,5410.5822,0,1,H,NoGo
+Vincent,         M,8,H,4,37,606.1247,1,0,H,Go
+Vincent,         M,8,H,4,38,467.3108,1,0,H,Go
+Vincent,         M,8,H,4,39,3424.2888,0,1,H,NoGo
+Vincent,         M,8,H,4,40,881.5988,1,0,H,Go
+Vincent,         M,8,H,5,1,402.0733,1,0,H,Go
+Vincent,         M,8,H,5,2,2197.0354,1,1,H,NoGo
+Vincent,         M,8,H,5,3,2683.9371,1,0,H,Go
+Vincent,         M,8,H,5,4,1492.329,1,0,H,Go
+Vincent,         M,8,H,5,5,2204.5514,1,1,H,NoGo
+Vincent,         M,8,H,5,6,2511.7871,1,0,H,Go
+Vincent,         M,8,H,5,7,863.7734,1,0,H,Go
+Vincent,         M,8,H,5,8,1147.3816,1,0,H,Go
+Vincent,         M,8,H,5,9,845.4437,1,0,H,Go
+Vincent,         M,8,H,5,10,394.051,1,0,H,Go
+Vincent,         M,8,H,5,11,2777.873,1,0,H,Go
+Vincent,         M,8,H,5,12,2188.0944,1,1,H,NoGo
+Vincent,         M,8,H,5,13,484.8951,1,0,H,Go
+Vincent,         M,8,H,5,14,3491.7599,0,1,H,NoGo
+Vincent,         M,8,H,5,15,1053.4729,1,0,H,Go
+Vincent,         M,8,H,5,16,385.996,1,0,H,Go
+Vincent,         M,8,H,5,17,2255.1214,1,0,H,Go
+Vincent,         M,8,H,5,18,395.7547,1,0,H,Go
+Vincent,         M,8,H,5,19,385.3532,1,0,H,Go
+Vincent,         M,8,H,5,20,2882.2229,1,0,H,Go
+Vincent,         M,8,H,5,21,3183.342,0,1,H,NoGo
+Vincent,         M,8,H,5,22,1599.6186,1,0,H,Go
+Vincent,         M,8,H,5,23,384.4058,1,0,H,Go
+Vincent,         M,8,H,5,24,2186.3156,1,1,H,NoGo
+Vincent,         M,8,H,5,25,425.1098,1,0,H,Go
+Vincent,         M,8,H,5,26,2187.5064,1,1,H,NoGo
+Vincent,         M,8,H,5,27,1389.8373,1,0,H,Go
+Vincent,         M,8,H,5,28,486.4998,1,0,H,Go
+Vincent,         M,8,H,5,29,564.6687,1,0,H,Go
+Vincent,         M,8,H,5,30,668.3125,1,0,H,Go
+Vincent,         M,8,H,5,31,591.0193,1,0,H,Go
+Vincent,         M,8,H,5,32,1620.1994,1,0,H,Go
+Vincent,         M,8,H,5,33,2188.0752,1,1,H,NoGo
+Vincent,         M,8,H,5,34,3016.3029,0,1,H,NoGo
+Vincent,         M,8,H,5,35,780.3481,1,0,H,Go
+Vincent,         M,8,H,5,36,976.806,1,0,H,Go
+Vincent,         M,8,H,5,37,1722.1577,1,0,H,Go
+Vincent,         M,8,H,5,38,3066.8847,0,1,H,NoGo
+Vincent,         M,8,H,5,39,398.3223,1,0,H,Go
+Vincent,         M,8,H,5,40,568.5695,1,0,H,Go
+Yeti,         M,6,L,1,1,450.7647,1,0,M,Go
+Yeti,         M,6,L,1,2,1095.7415,1,0,M,Go
+Yeti,         M,6,L,1,3,3035.7794,1,0,M,Go
+Yeti,         M,6,L,1,4,2189.3951,1,1,M,NoGo
+Yeti,         M,6,L,1,5,3067.2341,0,1,M,NoGo
+Yeti,         M,6,L,1,6,1223.7567,1,0,M,Go
+Yeti,         M,6,L,1,7,1302.5583,1,0,M,Go
+Yeti,         M,6,L,1,8,1200.0536,1,0,M,Go
+Yeti,         M,6,L,1,9,667.9311,1,0,M,Go
+Yeti,         M,6,L,1,10,641.1191,1,0,M,Go
+Yeti,         M,6,L,1,11,388.0014,1,0,M,Go
+Yeti,         M,6,L,1,12,4151.5341,0,1,M,NoGo
+Yeti,         M,6,L,1,13,555.104,1,0,M,Go
+Yeti,         M,6,L,1,14,1096.1241,1,0,M,Go
+Yeti,         M,6,L,1,15,414.7569,1,0,M,Go
+Yeti,         M,6,L,1,16,3564.7426,0,1,M,NoGo
+Yeti,         M,6,L,1,17,3182.9833,1,0,M,Go
+Yeti,         M,6,L,1,18,1211.7442,1,0,M,Go
+Yeti,         M,6,L,1,19,399.7843,1,0,M,Go
+Yeti,         M,6,L,1,20,4346.6726,0,1,M,NoGo
+Yeti,         M,6,L,1,21,824.8237,1,0,M,Go
+Yeti,         M,6,L,1,22,394.584,1,0,M,Go
+Yeti,         M,6,L,1,23,4169.4026,0,1,M,NoGo
+Yeti,         M,6,L,1,24,2393.415,1,0,M,Go
+Yeti,         M,6,L,1,25,606.3647,1,0,M,Go
+Yeti,         M,6,L,1,26,4247.8965,1,0,M,Go
+Yeti,         M,6,L,1,27,942.5383,1,0,M,Go
+Yeti,         M,6,L,1,28,3483.8477,0,1,M,NoGo
+Yeti,         M,6,L,1,29,1052.7205,1,0,M,Go
+Yeti,         M,6,L,1,30,813.0344,1,0,M,Go
+Yeti,         M,6,L,1,31,2203.5233,1,1,M,NoGo
+Yeti,         M,6,L,1,32,1404.9022,1,0,M,Go
+Yeti,         M,6,L,1,33,2435.4574,1,0,M,Go
+Yeti,         M,6,L,1,34,398.5957,1,0,M,Go
+Yeti,         M,6,L,1,35,1688.6398,1,0,M,Go
+Yeti,         M,6,L,1,36,3049.9568,0,1,M,NoGo
+Yeti,         M,6,L,1,37,554.8655,1,0,M,Go
+Yeti,         M,6,L,1,38,3910.2281,0,1,M,NoGo
+Yeti,         M,6,L,1,39,1250.1087,1,0,M,Go
+Yeti,         M,6,L,1,40,2822.6293,1,0,M,Go
+Yeti,         M,6,L,2,1,1487.244,1,0,M,Go
+Yeti,         M,6,L,2,2,625.5107,1,0,M,Go
+Yeti,         M,6,L,2,3,2126.2837,1,0,M,Go
+Yeti,         M,6,L,2,4,2186.2769,1,1,M,NoGo
+Yeti,         M,6,L,2,5,2188.1135,1,1,M,NoGo
+Yeti,         M,6,L,2,6,924.3178,1,0,M,Go
+Yeti,         M,6,L,2,7,1493.2025,1,0,M,Go
+Yeti,         M,6,L,2,8,3105.715,1,0,M,Go
+Yeti,         M,6,L,2,9,1481.1077,1,0,M,Go
+Yeti,         M,6,L,2,10,1893.5446,1,0,M,Go
+Yeti,         M,6,L,2,11,2107.0418,1,0,M,Go
+Yeti,         M,6,L,2,12,2204.6431,1,1,M,NoGo
+Yeti,         M,6,L,2,13,1035.6133,1,0,M,Go
+Yeti,         M,6,L,2,14,3180.613,1,0,M,Go
+Yeti,         M,6,L,2,15,35091.4598,1,0,M,Go
+Yeti,         M,6,L,2,16,2205.0183,1,1,M,NoGo
+Yeti,         M,6,L,2,17,27819.614,1,0,M,Go
+Yeti,         M,6,L,2,18,2163.7674,1,0,M,Go
+Yeti,         M,6,L,2,19,1569.8053,1,0,M,Go
+Yeti,         M,6,L,2,20,2203.8139,1,1,M,NoGo
+Yeti,         M,6,L,2,21,733.5277,1,0,M,Go
+Yeti,         M,6,L,2,22,603.1757,1,0,M,Go
+Yeti,         M,6,L,2,23,3117.1579,0,1,M,NoGo
+Yeti,         M,6,L,2,24,3884.8025,1,0,M,Go
+Yeti,         M,6,L,2,25,1668.61,1,0,M,Go
+Yeti,         M,6,L,2,26,1121.8156,1,0,M,Go
+Yeti,         M,6,L,2,27,2047.221,1,0,M,Go
+Yeti,         M,6,L,2,28,3232.6009,0,1,M,NoGo
+Yeti,         M,6,L,2,29,2640.124,1,0,M,Go
+Yeti,         M,6,L,2,30,3231.9328,1,0,M,Go
+Yeti,         M,6,L,2,31,2205.5858,1,1,M,NoGo
+Yeti,         M,6,L,2,32,4814.8433,1,0,M,Go
+Yeti,         M,6,L,2,33,394.5057,1,0,M,Go
+Yeti,         M,6,L,2,34,6889.7263,1,0,M,Go
+Yeti,         M,6,L,2,35,6118.7494,1,0,M,Go
+Yeti,         M,6,L,2,36,2198.0917,1,1,M,NoGo
+Yeti,         M,6,L,2,37,5346.3237,1,0,M,Go
+Yeti,         M,6,L,2,38,2203.8428,1,1,M,NoGo
+Yeti,         M,6,L,2,39,401.9562,1,0,M,Go
+Yeti,         M,6,L,2,40,1485.3398,1,0,M,Go
+Yeti,         M,6,L,3,1,1470.6843,1,0,M,Go
+Yeti,         M,6,L,3,2,847.1327,1,0,M,Go
+Yeti,         M,6,L,3,3,6453.488,1,0,M,Go
+Yeti,         M,6,L,3,4,2204.1036,1,1,M,NoGo
+Yeti,         M,6,L,3,5,4673.8665,1,0,M,Go
+Yeti,         M,6,L,3,6,821.7283,1,0,M,Go
+Yeti,         M,6,L,3,7,2204.3235,1,1,M,NoGo
+Yeti,         M,6,L,3,8,4034.1204,1,0,M,Go
+Yeti,         M,6,L,3,9,2201.9092,1,1,M,NoGo
+Yeti,         M,6,L,3,10,4945.9281,1,0,M,Go
+Yeti,         M,6,L,3,11,393.5126,1,0,M,Go
+Yeti,         M,6,L,3,12,383.4882,1,0,M,Go
+Yeti,         M,6,L,3,13,7535.7845,1,0,M,Go
+Yeti,         M,6,L,3,14,484.2766,1,0,M,Go
+Yeti,         M,6,L,3,15,2675.289,1,0,M,Go
+Yeti,         M,6,L,3,16,2196.2684,1,1,M,NoGo
+Yeti,         M,6,L,3,17,2203.867,1,1,M,NoGo
+Yeti,         M,6,L,3,18,7098.2528,1,0,M,Go
+Yeti,         M,6,L,3,19,633.6487,1,0,M,Go
+Yeti,         M,6,L,3,20,3337.7176,1,0,M,Go
+Yeti,         M,6,L,3,21,2186.9941,1,1,M,NoGo
+Yeti,         M,6,L,3,22,1612.5833,1,0,M,Go
+Yeti,         M,6,L,3,23,1387.8927,1,0,M,Go
+Yeti,         M,6,L,3,24,4375.2011,1,0,M,Go
+Yeti,         M,6,L,3,25,873.4739,1,0,M,Go
+Yeti,         M,6,L,3,26,1534.4,1,0,M,Go
+Yeti,         M,6,L,3,27,4649.0429,1,0,M,Go
+Yeti,         M,6,L,3,28,2204.0407,1,1,M,NoGo
+Yeti,         M,6,L,3,29,395.4237,1,0,M,Go
+Yeti,         M,6,L,3,30,2901.1872,1,1,M,NoGo
+Yeti,         M,6,L,3,31,2204.4809,1,0,M,Go
+Yeti,         M,6,L,3,32,5213.7367,1,0,M,Go
+Yeti,         M,6,L,3,33,2418.2465,1,0,M,Go
+Yeti,         M,6,L,3,34,3017.2436,0,1,M,NoGo
+Yeti,         M,6,L,3,35,4110.298,1,0,M,Go
+Yeti,         M,6,L,3,36,4032.859,1,0,M,Go
+Yeti,         M,6,L,3,37,672.9136,1,0,M,Go
+Yeti,         M,6,L,3,38,3774.8747,1,0,M,Go
+Yeti,         M,6,L,3,39,4857.4615,1,0,M,Go
+Yeti,         M,6,L,3,40,3386.2515,0,1,M,NoGo
+Yeti,         M,6,L,4,1,2101.1462,1,0,M,Go
+Yeti,         M,6,L,4,2,7328.3816,1,0,M,Go
+Yeti,         M,6,L,4,3,2202.6688,1,1,M,NoGo
+Yeti,         M,6,L,4,4,8085.7845,1,0,M,Go
+Yeti,         M,6,L,4,5,2203.822,1,1,M,NoGo
+Yeti,         M,6,L,4,6,4934.6247,1,0,M,Go
+Yeti,         M,6,L,4,7,2513.2938,1,0,M,Go
+Yeti,         M,6,L,4,8,2693.6493,1,0,M,Go
+Yeti,         M,6,L,4,9,14533.7854,1,0,M,Go
+Yeti,         M,6,L,4,10,5293.1812,1,1,M,NoGo
+Yeti,         M,6,L,4,11,5279.0563,1,0,M,Go
+Yeti,         M,6,L,4,12,3372.5298,0,1,M,NoGo
+Yeti,         M,6,L,4,13,1338.0665,1,0,M,Go
+Yeti,         M,6,L,4,14,1378.5107,1,0,M,Go
+Yeti,         M,6,L,4,15,10935.9527,1,0,M,Go
+Yeti,         M,6,L,4,16,967.5818,1,0,M,Go
+Yeti,         M,6,L,4,17,2203.0536,1,1,M,NoGo
+Yeti,         M,6,L,4,18,1286.6951,1,0,M,Go
+Yeti,         M,6,L,4,19,2925.6563,1,0,M,Go
+Yeti,         M,6,L,4,20,735.2962,1,0,M,Go
+Yeti,         M,6,L,4,21,3234.297,1,0,M,Go
+Yeti,         M,6,L,4,22,3599.8248,0,1,M,NoGo
+Yeti,         M,6,L,4,23,8721.1356,1,0,M,Go
+Yeti,         M,6,L,4,24,10869.9002,1,0,M,Go
+Yeti,         M,6,L,4,25,2804.206,1,0,M,Go
+Yeti,         M,6,L,4,26,2151.9007,1,0,M,Go
+Yeti,         M,6,L,4,27,400.4345,1,0,M,Go
+Yeti,         M,6,L,4,28,6134.6482,1,0,M,Go
+Yeti,         M,6,L,4,29,3017.8478,0,1,M,NoGo
+Yeti,         M,6,L,4,30,2203.3376,0,1,M,NoGo
+Yeti,         M,6,L,4,31,1327.9237,1,0,M,Go
+Yeti,         M,6,L,4,32,1457.1684,1,0,M,Go
+Yeti,         M,6,L,4,33,6351.036,1,0,M,Go
+Yeti,         M,6,L,4,34,1791.8099,1,0,M,Go
+Yeti,         M,6,L,4,35,3165.4501,1,0,M,Go
+Yeti,         M,6,L,4,36,3615.2231,0,1,M,NoGo
+Yeti,         M,6,L,4,37,563.702,1,0,M,Go
+Yeti,         M,6,L,4,38,1946.1297,1,0,M,Go
+Yeti,         M,6,L,4,39,2204.3087,1,1,M,NoGo
+Yeti,         M,6,L,4,40,968.1258,1,0,M,Go
+Yeti,         M,6,L,5,1,1685.5443,1,0,M,Go
+Yeti,         M,6,L,5,2,394.4155,1,0,M,Go
+Yeti,         M,6,L,5,3,2203.7684,1,1,M,NoGo
+Yeti,         M,6,L,5,4,1842.7646,1,0,M,Go
+Yeti,         M,6,L,5,5,3399.8083,0,1,M,NoGo
+Yeti,         M,6,L,5,6,667.426,1,0,M,Go
+Yeti,         M,6,L,5,7,607.2399,1,0,M,Go
+Yeti,         M,6,L,5,8,811.7271,1,0,M,Go
+Yeti,         M,6,L,5,9,633.0597,1,0,M,Go
+Yeti,         M,6,L,5,10,3863.49,0,1,M,NoGo
+Yeti,         M,6,L,5,11,1467.0067,1,0,M,Go
+Yeti,         M,6,L,5,12,3277.3606,0,1,M,NoGo
+Yeti,         M,6,L,5,13,2075.1922,1,0,M,Go
+Yeti,         M,6,L,5,14,3079.1952,1,0,M,Go
+Yeti,         M,6,L,5,15,1577.8865,1,0,M,Go
+Yeti,         M,6,L,5,16,720.2541,1,0,M,Go
+Yeti,         M,6,L,5,17,3356.1619,0,1,M,NoGo
+Yeti,         M,6,L,5,18,6435.9575,1,0,M,Go
+Yeti,         M,6,L,5,19,886.8738,1,0,M,Go
+Yeti,         M,6,L,5,20,2083.288,1,0,M,Go
+Yeti,         M,6,L,5,21,658.5863,1,0,M,Go
+Yeti,         M,6,L,5,22,3384.3976,0,1,M,NoGo
+Yeti,         M,6,L,5,23,478.2013,1,0,M,Go
+Yeti,         M,6,L,5,24,1042.4778,1,0,M,Go
+Yeti,         M,6,L,5,25,2874.0246,1,0,M,Go
+Yeti,         M,6,L,5,26,387.3283,1,0,M,Go
+Yeti,         M,6,L,5,27,540.6293,1,0,M,Go
+Yeti,         M,6,L,5,28,391.734,1,0,M,Go
+Yeti,         M,6,L,5,29,3283.4547,0,1,M,NoGo
+Yeti,         M,6,L,5,30,2204.1936,0,1,M,NoGo
+Yeti,         M,6,L,5,31,1895.0683,1,0,M,Go
+Yeti,         M,6,L,5,32,11451.3206,1,0,M,Go
+Yeti,         M,6,L,5,33,3579.589,1,0,M,Go
+Yeti,         M,6,L,5,34,2771.6977,1,0,M,Go
+Yeti,         M,6,L,5,35,394.156,1,0,M,Go
+Yeti,         M,6,L,5,36,2195.1954,1,1,M,NoGo
+Yeti,         M,6,L,5,37,1843.446,1,0,M,Go
+Yeti,         M,6,L,5,38,400.8361,1,0,M,Go
+Yeti,         M,6,L,5,39,2205.7121,1,1,M,NoGo
+Yeti,         M,6,L,5,40,710.6359,1,0,M,Go
+Yew,         M,6,H,1,1,6704.2933,1,1,H,NoGo
+Yew,         M,6,H,1,2,1595.0415,1,0,H,Go
+Yew,         M,6,H,1,3,438.1325,1,0,H,Go
+Yew,         M,6,H,1,4,401.2008,1,0,H,Go
+Yew,         M,6,H,1,5,3483.1894,0,1,H,NoGo
+Yew,         M,6,H,1,6,837.0263,1,0,H,Go
+Yew,         M,6,H,1,7,539.927,1,0,H,Go
+Yew,         M,6,H,1,8,398.9059,1,0,H,Go
+Yew,         M,6,H,1,9,631.9533,1,0,H,Go
+Yew,         M,6,H,1,10,390.2743,1,0,H,Go
+Yew,         M,6,H,1,11,3333.1228,0,1,H,NoGo
+Yew,         M,6,H,1,12,452.5406,1,0,H,Go
+Yew,         M,6,H,1,13,3050.0791,0,1,H,NoGo
+Yew,         M,6,H,1,14,1012.6167,1,0,H,Go
+Yew,         M,6,H,1,15,1274.4818,1,0,H,Go
+Yew,         M,6,H,1,16,735.7014,1,0,H,Go
+Yew,         M,6,H,1,17,387.6814,1,0,H,Go
+Yew,         M,6,H,1,18,396.8395,1,0,H,Go
+Yew,         M,6,H,1,19,537.9567,1,0,H,Go
+Yew,         M,6,H,1,20,2201.8857,1,1,H,NoGo
+Yew,         M,6,H,1,21,3436.88,0,1,H,NoGo
+Yew,         M,6,H,1,22,786.647,1,0,H,Go
+Yew,         M,6,H,1,23,1310.594,1,0,H,Go
+Yew,         M,6,H,1,24,1172.9083,1,0,H,Go
+Yew,         M,6,H,1,25,389.2768,1,0,H,Go
+Yew,         M,6,H,1,26,3034.4149,0,1,H,NoGo
+Yew,         M,6,H,1,27,391.8184,1,0,H,Go
+Yew,         M,6,H,1,28,798.5231,1,0,H,Go
+Yew,         M,6,H,1,29,3399.895,0,1,H,NoGo
+Yew,         M,6,H,1,30,1389.3731,1,0,H,Go
+Yew,         M,6,H,1,31,4634.4282,1,0,H,Go
+Yew,         M,6,H,1,32,3319.8935,1,0,H,Go
+Yew,         M,6,H,1,33,2924.8552,1,0,H,Go
+Yew,         M,6,H,1,34,2204.4824,1,1,H,NoGo
+Yew,         M,6,H,1,35,5162.7479,1,0,H,Go
+Yew,         M,6,H,1,36,397.6959,1,0,H,Go
+Yew,         M,6,H,1,37,3232.8189,1,0,H,Go
+Yew,         M,6,H,1,38,746.0631,1,0,H,Go
+Yew,         M,6,H,1,39,2206.2067,1,1,H,NoGo
+Yew,         M,6,H,1,40,941.9961,1,0,H,Go
+Yew,         M,6,H,2,1,3270.1176,0,1,H,NoGo
+Yew,         M,6,H,2,2,2924.9419,1,0,H,Go
+Yew,         M,6,H,2,3,1096.7679,1,0,H,Go
+Yew,         M,6,H,2,4,460.1467,1,0,H,Go
+Yew,         M,6,H,2,5,2204.5301,1,1,H,NoGo
+Yew,         M,6,H,2,6,708.5422,1,0,H,Go
+Yew,         M,6,H,2,7,391.53,1,0,H,Go
+Yew,         M,6,H,2,8,1316.2778,1,0,H,Go
+Yew,         M,6,H,2,9,2204.1563,1,0,H,Go
+Yew,         M,6,H,2,10,863.1633,1,0,H,Go
+Yew,         M,6,H,2,11,3283.1895,0,1,H,NoGo
+Yew,         M,6,H,2,12,640.7908,1,0,H,Go
+Yew,         M,6,H,2,13,2205.0314,1,1,H,NoGo
+Yew,         M,6,H,2,14,2383.8798,1,0,H,Go
+Yew,         M,6,H,2,15,1624.5541,1,0,H,Go
+Yew,         M,6,H,2,16,1208.2979,1,0,H,Go
+Yew,         M,6,H,2,17,2255.8867,1,0,H,Go
+Yew,         M,6,H,2,18,658.4939,1,0,H,Go
+Yew,         M,6,H,2,19,1465.0787,1,0,H,Go
+Yew,         M,6,H,2,20,3502.938,0,1,H,NoGo
+Yew,         M,6,H,2,21,3762.051,0,1,H,NoGo
+Yew,         M,6,H,2,22,393.685,1,0,H,Go
+Yew,         M,6,H,2,23,1714.0514,1,0,H,Go
+Yew,         M,6,H,2,24,1122.7861,1,0,H,Go
+Yew,         M,6,H,2,25,796.3801,1,0,H,Go
+Yew,         M,6,H,2,26,2186.6908,1,1,H,NoGo
+Yew,         M,6,H,2,27,6840.8431,1,0,H,Go
+Yew,         M,6,H,2,28,1619.8365,1,0,H,Go
+Yew,         M,6,H,2,29,2203.9549,1,1,H,NoGo
+Yew,         M,6,H,2,30,2160.3834,1,0,H,Go
+Yew,         M,6,H,2,31,3345.9487,1,0,H,Go
+Yew,         M,6,H,2,32,629.9452,1,0,H,Go
+Yew,         M,6,H,2,33,543.1979,1,0,H,Go
+Yew,         M,6,H,2,34,3431.6256,0,1,H,NoGo
+Yew,         M,6,H,2,35,5758.8015,1,0,H,Go
+Yew,         M,6,H,2,36,434.4033,1,0,H,Go
+Yew,         M,6,H,2,37,812.448,1,0,H,Go
+Yew,         M,6,H,2,38,709.0767,1,0,H,Go
+Yew,         M,6,H,2,39,3683.2032,0,1,H,NoGo
+Yew,         M,6,H,2,40,397.5873,1,0,H,Go
+Yew,         M,6,H,3,1,1250.2318,1,0,H,Go
+Yew,         M,6,H,3,2,564.4767,1,0,H,Go
+Yew,         M,6,H,3,3,658.0782,1,0,H,Go
+Yew,         M,6,H,3,4,3533.1931,0,1,H,NoGo
+Yew,         M,6,H,3,5,2186.3981,0,1,H,NoGo
+Yew,         M,6,H,3,6,5217.6776,1,0,H,Go
+Yew,         M,6,H,3,7,581.5622,1,0,H,Go
+Yew,         M,6,H,3,8,3371.5784,1,0,H,Go
+Yew,         M,6,H,3,9,1265.2212,1,0,H,Go
+Yew,         M,6,H,3,10,916.2525,1,0,H,Go
+Yew,         M,6,H,3,11,1542.1502,1,0,H,Go
+Yew,         M,6,H,3,12,2203.9919,1,1,H,NoGo
+Yew,         M,6,H,3,13,2822.425,1,0,H,Go
+Yew,         M,6,H,3,14,1250.449,1,0,H,Go
+Yew,         M,6,H,3,15,1379.7375,1,0,H,Go
+Yew,         M,6,H,3,16,3943.0688,0,1,H,NoGo
+Yew,         M,6,H,3,17,759.0254,1,0,H,Go
+Yew,         M,6,H,3,18,3167.75,1,0,H,Go
+Yew,         M,6,H,3,19,503.8585,1,0,H,Go
+Yew,         M,6,H,3,20,2204.2183,1,1,H,NoGo
+Yew,         M,6,H,3,21,401.0551,1,0,H,Go
+Yew,         M,6,H,3,22,1197.7191,1,0,H,Go
+Yew,         M,6,H,3,23,2204.1288,1,1,H,NoGo
+Yew,         M,6,H,3,24,385.8409,1,0,H,Go
+Yew,         M,6,H,3,25,4857.7501,1,0,H,Go
+Yew,         M,6,H,3,26,1405.706,1,0,H,Go
+Yew,         M,6,H,3,27,1452.6503,1,0,H,Go
+Yew,         M,6,H,3,28,4538.8576,0,1,H,NoGo
+Yew,         M,6,H,3,29,2099.7924,1,0,H,Go
+Yew,         M,6,H,3,30,1207.6485,1,0,H,Go
+Yew,         M,6,H,3,31,2204.1006,1,1,H,NoGo
+Yew,         M,6,H,3,32,1009.1663,1,0,H,Go
+Yew,         M,6,H,3,33,1662.8359,1,0,H,Go
+Yew,         M,6,H,3,34,736.0461,1,0,H,Go
+Yew,         M,6,H,3,35,812.8248,1,0,H,Go
+Yew,         M,6,H,3,36,2204.109,1,1,H,NoGo
+Yew,         M,6,H,3,37,4084.5894,1,0,H,Go
+Yew,         M,6,H,3,38,3494.1473,0,1,H,NoGo
+Yew,         M,6,H,3,39,2315.1299,1,0,H,Go
+Yew,         M,6,H,3,40,1611.2642,1,0,H,Go
+Yew,         M,6,H,4,1,730.8825,1,0,H,Go
+Yew,         M,6,H,4,2,915.258,1,0,H,Go
+Yew,         M,6,H,4,3,1225.4501,1,0,H,Go
+Yew,         M,6,H,4,4,2203.333,1,1,H,NoGo
+Yew,         M,6,H,4,5,12584.7363,1,0,H,Go
+Yew,         M,6,H,4,6,692.3989,1,0,H,Go
+Yew,         M,6,H,4,7,2189.5177,1,1,H,NoGo
+Yew,         M,6,H,4,8,389.3039,1,0,H,Go
+Yew,         M,6,H,4,9,3472.6378,0,1,H,NoGo
+Yew,         M,6,H,4,10,1326.7023,1,0,H,Go
+Yew,         M,6,H,4,11,1851.8433,1,0,H,Go
+Yew,         M,6,H,4,12,397.0513,1,0,H,Go
+Yew,         M,6,H,4,13,1379.3481,1,0,H,Go
+Yew,         M,6,H,4,14,2976.1228,1,0,H,Go
+Yew,         M,6,H,4,15,1033.289,1,0,H,Go
+Yew,         M,6,H,4,16,2193.1198,1,1,H,NoGo
+Yew,         M,6,H,4,17,2186.238,1,1,H,NoGo
+Yew,         M,6,H,4,18,400.6574,1,0,H,Go
+Yew,         M,6,H,4,19,2249.5976,1,0,H,Go
+Yew,         M,6,H,4,20,3234.6296,1,0,H,Go
+Yew,         M,6,H,4,21,4534.3793,0,1,H,NoGo
+Yew,         M,6,H,4,22,1611.0991,1,0,H,Go
+Yew,         M,6,H,4,23,6988.406,1,0,H,Go
+Yew,         M,6,H,4,24,632.828,1,0,H,Go
+Yew,         M,6,H,4,25,1644.8709,1,0,H,Go
+Yew,         M,6,H,4,26,400.1292,1,0,H,Go
+Yew,         M,6,H,4,27,1817.4229,1,0,H,Go
+Yew,         M,6,H,4,28,3327.9438,0,1,H,NoGo
+Yew,         M,6,H,4,29,539.7845,1,0,H,Go
+Yew,         M,6,H,4,30,2203.1941,1,1,H,NoGo
+Yew,         M,6,H,4,31,3981.4865,1,0,H,Go
+Yew,         M,6,H,4,32,735.81,1,0,H,Go
+Yew,         M,6,H,4,33,1507.7181,1,0,H,Go
+Yew,         M,6,H,4,34,7455.1602,0,1,H,NoGo
+Yew,         M,6,H,4,35,2306.5142,1,0,H,Go
+Yew,         M,6,H,4,36,1340.537,1,0,H,Go
+Yew,         M,6,H,4,37,1345.2394,1,0,H,Go
+Yew,         M,6,H,4,38,1507.8445,1,0,H,Go
+Yew,         M,6,H,4,39,941.338,1,0,H,Go
+Yew,         M,6,H,4,40,2186.1479,1,1,H,NoGo
+Yew,         M,6,H,5,1,2201.2921,1,1,H,NoGo
+Yew,         M,6,H,5,2,3353.2151,1,0,H,Go
+Yew,         M,6,H,5,3,2830.5289,1,0,H,Go
+Yew,         M,6,H,5,4,900.1052,1,0,H,Go
+Yew,         M,6,H,5,5,2184.248,1,1,H,NoGo
+Yew,         M,6,H,5,6,2309.0395,1,0,H,Go
+Yew,         M,6,H,5,7,376.4392,1,0,H,Go
+Yew,         M,6,H,5,8,3112.9156,1,0,H,Go
+Yew,         M,6,H,5,9,1053.2624,1,0,H,Go
+Yew,         M,6,H,5,10,2047.5979,1,0,H,Go
+Yew,         M,6,H,5,11,4017.2868,0,1,H,NoGo
+Yew,         M,6,H,5,12,2119.7275,1,0,H,Go
+Yew,         M,6,H,5,13,2302.7313,1,1,H,NoGo
+Yew,         M,6,H,5,14,833.1505,1,0,H,Go
+Yew,         M,6,H,5,15,1024.3426,1,0,H,Go
+Yew,         M,6,H,5,16,375.7742,1,0,H,Go
+Yew,         M,6,H,5,17,1254.009,1,0,H,Go
+Yew,         M,6,H,5,18,996.5093,1,0,H,Go
+Yew,         M,6,H,5,19,1737.2354,1,0,H,Go
+Yew,         M,6,H,5,20,3249.6347,0,1,H,NoGo
+Yew,         M,6,H,5,21,4250.3177,0,1,H,NoGo
+Yew,         M,6,H,5,22,602.3967,1,0,H,Go
+Yew,         M,6,H,5,23,2760.1561,1,0,H,Go
+Yew,         M,6,H,5,24,3160.8147,1,0,H,Go
+Yew,         M,6,H,5,25,383.4576,1,0,H,Go
+Yew,         M,6,H,5,26,2183.3903,1,1,H,NoGo
+Yew,         M,6,H,5,27,637.0042,1,0,H,Go
+Yew,         M,6,H,5,28,1778.5432,1,0,H,Go
+Yew,         M,6,H,5,29,2181.2688,1,1,H,NoGo
+Yew,         M,6,H,5,30,1067.1688,1,0,H,Go
+Yew,         M,6,H,5,31,1154.1888,1,0,H,Go
+Yew,         M,6,H,5,32,2079.5677,1,0,H,Go
+Yew,         M,6,H,5,33,7709.3441,1,0,H,Go
+Yew,         M,6,H,5,34,3800.2286,0,1,H,NoGo
+Yew,         M,6,H,5,35,1108.034,1,0,H,Go
+Yew,         M,6,H,5,36,2732.7807,1,0,H,Go
+Yew,         M,6,H,5,37,24538.5434,1,0,H,Go
+Yew,         M,6,H,5,38,384.2083,1,0,H,Go
+Yew,         M,6,H,5,39,3517.653,0,1,H,NoGo
+Yew,         M,6,H,5,40,378.2553,1,0,H,Go
+Ylang,F,6,L,1,1,624.0496,1,0,B,Go
+Ylang,F,6,L,1,2,2203.0935,1,1,B,NoGo
+Ylang,F,6,L,1,3,6670.0136,1,0,B,Go
+Ylang,F,6,L,1,4,5758.2964,1,0,B,Go
+Ylang,F,6,L,1,5,3747.9002,0,1,B,NoGo
+Ylang,F,6,L,1,6,1369.1122,1,0,B,Go
+Ylang,F,6,L,1,7,2597.7703,1,0,B,Go
+Ylang,F,6,L,1,8,2469.8085,1,0,B,Go
+Ylang,F,6,L,1,9,3819.2274,1,0,B,Go
+Ylang,F,6,L,1,10,6360.5266,1,0,B,Go
+Ylang,F,6,L,1,11,3617.61,1,0,B,Go
+Ylang,F,6,L,1,12,2186.6787,1,1,B,NoGo
+Ylang,F,6,L,1,13,3293.9969,1,0,B,Go
+Ylang,F,6,L,1,14,2186.4356,1,1,B,NoGo
+Ylang,F,6,L,1,15,7716.6974,1,0,B,Go
+Ylang,F,6,L,1,16,1543.2369,1,0,B,Go
+Ylang,F,6,L,1,17,8721.1189,1,0,B,Go
+Ylang,F,6,L,1,18,2186.202,1,1,B,NoGo
+Ylang,F,6,L,1,19,2306.6627,1,0,B,Go
+Ylang,F,6,L,1,20,3810.8246,1,0,B,Go
+Ylang,F,6,L,1,21,3603.7078,1,0,B,Go
+Ylang,F,6,L,1,22,1776.3152,1,1,B,NoGo
+Ylang,F,6,L,1,23,2601.8991,1,0,B,Go
+Ylang,F,6,L,1,24,1285.1719,1,0,B,Go
+Ylang,F,6,L,1,25,1645.6279,1,0,B,Go
+Ylang,F,6,L,1,26,1723.925,1,0,B,Go
+Ylang,F,6,L,1,27,744.6134,1,0,B,Go
+Ylang,F,6,L,1,28,4751.4311,0,1,B,NoGo
+Ylang,F,6,L,1,29,3063.1521,1,0,B,Go
+Ylang,F,6,L,1,30,3217.5126,0,1,B,NoGo
+Ylang,F,6,L,1,31,395.35,1,0,B,Go
+Ylang,F,6,L,1,32,3241.9503,1,0,B,Go
+Ylang,F,6,L,1,33,383.695,1,0,B,Go
+Ylang,F,6,L,1,34,3234.76,1,0,B,Go
+Ylang,F,6,L,1,35,1800.5606,1,0,B,Go
+Ylang,F,6,L,1,36,3847.7475,0,1,B,NoGo
+Ylang,F,6,L,1,37,2204.1636,0,1,B,NoGo
+Ylang,F,6,L,1,38,4170.9817,1,0,B,Go
+Ylang,F,6,L,1,39,2779.4666,1,0,B,Go
+Ylang,F,6,L,1,40,734.0183,1,0,B,Go
+Ylang,F,6,L,2,1,38405.967,1,0,B,Go
+Ylang,F,6,L,2,2,5319.3527,1,0,B,Go
+Ylang,F,6,L,2,3,4685.9578,1,0,B,Go
+Ylang,F,6,L,2,4,3366.5493,0,1,B,NoGo
+Ylang,F,6,L,2,5,2417.7985,1,0,B,Go
+Ylang,F,6,L,2,6,1491.3663,1,0,B,Go
+Ylang,F,6,L,2,7,2187.0635,1,1,B,NoGo
+Ylang,F,6,L,2,8,5714.6998,1,0,B,Go
+Ylang,F,6,L,2,9,2203.5404,1,1,B,NoGo
+Ylang,F,6,L,2,10,9339.7708,1,0,B,Go
+Ylang,F,6,L,2,11,4265.5779,1,0,B,Go
+Ylang,F,6,L,2,12,2856.8748,1,0,B,Go
+Ylang,F,6,L,2,13,1740.4359,1,0,B,Go
+Ylang,F,6,L,2,14,2454.4725,1,0,B,Go
+Ylang,F,6,L,2,15,5974.5887,1,0,B,Go
+Ylang,F,6,L,2,16,2186.9251,1,1,B,NoGo
+Ylang,F,6,L,2,17,5175.2699,0,1,B,NoGo
+Ylang,F,6,L,2,18,567.1954,1,0,B,Go
+Ylang,F,6,L,2,19,6822.2875,1,0,B,Go
+Ylang,F,6,L,2,20,2212.8027,1,0,B,Go
+Ylang,F,6,L,2,21,2186.2952,1,1,B,NoGo
+Ylang,F,6,L,2,22,4170.3454,1,0,B,Go
+Ylang,F,6,L,2,23,11254.031,1,0,B,Go
+Ylang,F,6,L,2,24,4375.9911,1,0,B,Go
+Ylang,F,6,L,2,25,1928.168,1,0,B,Go
+Ylang,F,6,L,2,26,10377.2014,1,0,B,Go
+Ylang,F,6,L,2,27,4405.8834,1,0,B,Go
+Ylang,F,6,L,2,28,5296.1487,0,1,B,NoGo
+Ylang,F,6,L,2,29,1284.7692,1,0,B,Go
+Ylang,F,6,L,2,30,2186.5811,1,1,B,NoGo
+Ylang,F,6,L,2,31,3422.6832,1,0,B,Go
+Ylang,F,6,L,2,32,2306.8162,1,0,B,Go
+Ylang,F,6,L,2,33,839.8848,1,0,B,Go
+Ylang,F,6,L,2,34,2461.3499,1,1,B,NoGo
+Ylang,F,6,L,2,35,1490.536,1,0,B,Go
+Ylang,F,6,L,2,36,2098.2969,1,0,B,Go
+Ylang,F,6,L,2,37,4239.301,1,0,B,Go
+Ylang,F,6,L,2,38,391.5172,1,0,B,Go
+Ylang,F,6,L,2,39,2856.753,1,0,B,Go
+Ylang,F,6,L,2,40,2186.0458,1,1,B,NoGo
+Ylang,F,6,L,3,1,4000.823,1,0,B,Go
+Ylang,F,6,L,3,2,9363.2446,1,0,B,Go
+Ylang,F,6,L,3,3,5329.9084,1,0,B,Go
+Ylang,F,6,L,3,4,5257.1354,0,1,B,NoGo
+Ylang,F,6,L,3,5,2186.8461,0,1,B,NoGo
+Ylang,F,6,L,3,6,2547.716,1,0,B,Go
+Ylang,F,6,L,3,7,6360.3917,1,0,B,Go
+Ylang,F,6,L,3,8,744.0871,1,0,B,Go
+Ylang,F,6,L,3,9,2676.1324,1,0,B,Go
+Ylang,F,6,L,3,10,7069.1919,1,0,B,Go
+Ylang,F,6,L,3,11,4583.3007,1,0,B,Go
+Ylang,F,6,L,3,12,3885.8474,0,1,B,NoGo
+Ylang,F,6,L,3,13,1499.7833,1,0,B,Go
+Ylang,F,6,L,3,14,2368.2804,1,0,B,Go
+Ylang,F,6,L,3,15,2127.0396,1,0,B,Go
+Ylang,F,6,L,3,16,2187.0183,1,1,B,NoGo
+Ylang,F,6,L,3,17,3397.1499,1,0,B,Go
+Ylang,F,6,L,3,18,4969.8647,1,0,B,Go
+Ylang,F,6,L,3,19,7416.624,1,0,B,Go
+Ylang,F,6,L,3,20,2187.934,1,1,B,NoGo
+Ylang,F,6,L,3,21,2263.1873,1,0,B,Go
+Ylang,F,6,L,3,22,3951.8134,1,0,B,Go
+Ylang,F,6,L,3,23,3920.3469,0,1,B,NoGo
+Ylang,F,6,L,3,24,2366.7626,1,0,B,Go
+Ylang,F,6,L,3,25,7561.7513,1,0,B,Go
+Ylang,F,6,L,3,26,10867.5804,1,0,B,Go
+Ylang,F,6,L,3,27,5818.8462,1,0,B,Go
+Ylang,F,6,L,3,28,4333.2807,0,1,B,NoGo
+Ylang,F,6,L,3,29,1156.2579,1,0,B,Go
+Ylang,F,6,L,3,30,2238.3828,1,0,B,Go
+Ylang,F,6,L,3,31,2186.0786,1,1,B,NoGo
+Ylang,F,6,L,3,32,1233.092,1,0,B,Go
+Ylang,F,6,L,3,33,2444.9383,1,0,B,Go
+Ylang,F,6,L,3,34,8344.2892,1,0,B,Go
+Ylang,F,6,L,3,35,1568.5911,1,0,B,Go
+Ylang,F,6,L,3,36,2204.4775,1,1,B,NoGo
+Ylang,F,6,L,3,37,15912.6976,1,0,B,Go
+Ylang,F,6,L,3,38,2187.4866,1,1,B,NoGo
+Ylang,F,6,L,3,39,988.9974,1,0,B,Go
+Ylang,F,6,L,3,40,2109.3767,1,0,B,Go
+Ylang,F,6,L,4,1,8316.9671,1,0,B,Go
+Ylang,F,6,L,4,2,8900.5747,1,0,B,Go
+Ylang,F,6,L,4,3,3113.6262,1,0,B,Go
+Ylang,F,6,L,4,4,3275.3711,0,1,B,NoGo
+Ylang,F,6,L,4,5,3429.3594,1,0,B,Go
+Ylang,F,6,L,4,6,2213.6264,1,0,B,Go
+Ylang,F,6,L,4,7,2202.7267,1,1,B,NoGo
+Ylang,F,6,L,4,8,5355.2029,1,0,B,Go
+Ylang,F,6,L,4,9,2187.9833,1,1,B,NoGo
+Ylang,F,6,L,4,10,2444.3688,1,0,B,Go
+Ylang,F,6,L,4,11,3087.6561,1,0,B,Go
+Ylang,F,6,L,4,12,6068.6691,1,0,B,Go
+Ylang,F,6,L,4,13,1387.438,1,0,B,Go
+Ylang,F,6,L,4,14,1800.1154,1,0,B,Go
+Ylang,F,6,L,4,15,821.2329,1,0,B,Go
+Ylang,F,6,L,4,16,2186.8931,1,1,B,NoGo
+Ylang,F,6,L,4,17,2201.223,1,1,B,NoGo
+Ylang,F,6,L,4,18,15690.944,1,0,B,Go
+Ylang,F,6,L,4,19,2830.4347,1,0,B,Go
+Ylang,F,6,L,4,20,6248.6916,1,0,B,Go
+Ylang,F,6,L,4,21,7813.3826,0,1,B,NoGo
+Ylang,F,6,L,4,22,5097.5328,1,0,B,Go
+Ylang,F,6,L,4,23,6747.4755,1,0,B,Go
+Ylang,F,6,L,4,24,13641.4346,1,0,B,Go
+Ylang,F,6,L,4,25,590.3477,1,0,B,Go
+Ylang,F,6,L,4,26,1863.8901,1,0,B,Go
+Ylang,F,6,L,4,27,2677.7097,1,0,B,Go
+Ylang,F,6,L,4,28,2188.042,1,1,B,NoGo
+Ylang,F,6,L,4,29,3760.0088,1,0,B,Go
+Ylang,F,6,L,4,30,2187.5411,1,1,B,NoGo
+Ylang,F,6,L,4,31,2770.8388,1,0,B,Go
+Ylang,F,6,L,4,32,4505.8133,1,0,B,Go
+Ylang,F,6,L,4,33,3105.5877,1,0,B,Go
+Ylang,F,6,L,4,34,2188.2102,1,1,B,NoGo
+Ylang,F,6,L,4,35,3242.4215,1,0,B,Go
+Ylang,F,6,L,4,36,4084.9639,1,0,B,Go
+Ylang,F,6,L,4,37,862.3434,1,0,B,Go
+Ylang,F,6,L,4,38,5689.8187,1,0,B,Go
+Ylang,F,6,L,4,39,10368.4934,1,0,B,Go
+Ylang,F,6,L,4,40,2186.4103,1,1,B,NoGo
+Ylang,F,6,L,5,1,3655.3651,0,1,B,NoGo
+Ylang,F,6,L,5,2,2418.8491,1,0,B,Go
+Ylang,F,6,L,5,3,1405.3277,1,0,B,Go
+Ylang,F,6,L,5,4,2590.3968,1,0,B,Go
+Ylang,F,6,L,5,5,2187.5749,1,1,B,NoGo
+Ylang,F,6,L,5,6,12335.648,1,0,B,Go
+Ylang,F,6,L,5,7,5972.7822,1,0,B,Go
+Ylang,F,6,L,5,8,3448.6314,1,0,B,Go
+Ylang,F,6,L,5,9,9709.4112,1,0,B,Go
+Ylang,F,6,L,5,10,11847.3851,1,0,B,Go
+Ylang,F,6,L,5,11,2186.7616,1,1,B,NoGo
+Ylang,F,6,L,5,12,2977.0525,1,0,B,Go
+Ylang,F,6,L,5,13,2187.4993,1,1,B,NoGo
+Ylang,F,6,L,5,14,7003.3866,1,0,B,Go
+Ylang,F,6,L,5,15,5330.1745,1,0,B,Go
+Ylang,F,6,L,5,16,1027.164,1,0,B,Go
+Ylang,F,6,L,5,17,1981.5128,1,0,B,Go
+Ylang,F,6,L,5,18,1980.4598,1,0,B,Go
+Ylang,F,6,L,5,19,1980.1344,1,0,B,Go
+Ylang,F,6,L,5,20,2186.889,1,1,B,NoGo
+Ylang,F,6,L,5,21,3843.898,0,1,B,NoGo
+Ylang,F,6,L,5,22,2485.003,1,0,B,Go
+Ylang,F,6,L,5,23,1772.0882,1,0,B,Go
+Ylang,F,6,L,5,24,4891.6981,1,0,B,Go
+Ylang,F,6,L,5,25,1697.2965,1,0,B,Go
+Ylang,F,6,L,5,26,2204.5042,1,1,B,NoGo
+Ylang,F,6,L,5,27,6531.7929,1,0,B,Go
+Ylang,F,6,L,5,28,15968.9856,1,0,B,Go
+Ylang,F,6,L,5,29,2204.1961,1,1,B,NoGo
+Ylang,F,6,L,5,30,383.2183,1,0,B,Go
+Ylang,F,6,L,5,31,2693.8899,1,0,B,Go
+Ylang,F,6,L,5,32,1508.6688,1,0,B,Go
+Ylang,F,6,L,5,33,3105.2567,1,0,B,Go
+Ylang,F,6,L,5,34,2186.3266,1,1,B,NoGo
+Ylang,F,6,L,5,35,5201.1487,1,0,B,Go
+Ylang,F,6,L,5,36,53442.7108,1,0,B,Go
+Ylang,F,6,L,5,37,6798.2661,1,0,B,Go
+Ylang,F,6,L,5,38,3577.7662,1,0,B,Go
+Ylang,F,6,L,5,39,2187.0095,1,1,B,NoGo
+Ylang,F,6,L,5,40,2616.3089,1,0,B,Go
+Yorkie,         M,6,H,1,1,4044.6469,1,,H,Go
+Yorkie,         M,6,H,1,2,1536.3863,1,,H,Go
+Yorkie,         M,6,H,1,3,2185.0125,1,,H,NoGo
+Yorkie,         M,6,H,1,4,1803.0374,1,,H,Go
+Yorkie,         M,6,H,1,5,2197.6516,1,,H,NoGo
+Yorkie,         M,6,H,1,6,2789.5643,1,,H,Go
+Yorkie,         M,6,H,1,7,584.7633,1,,H,Go
+Yorkie,         M,6,H,1,8,1760.9068,1,,H,Go
+Yorkie,         M,6,H,1,9,602.5677,1,,H,Go
+Yorkie,         M,6,H,1,10,5216.6733,0,,H,NoGo
+Yorkie,         M,6,H,1,11,2403.3592,1,,H,Go
+Yorkie,         M,6,H,1,12,2188.4015,1,,H,NoGo
+Yorkie,         M,6,H,1,13,588.8226,1,,H,Go
+Yorkie,         M,6,H,1,14,652.5412,1,,H,Go
+Yorkie,         M,6,H,1,15,652.1436,1,,H,Go
+Yorkie,         M,6,H,1,16,1140.4256,1,,H,Go
+Yorkie,         M,6,H,1,17,2185.6341,1,,H,NoGo
+Yorkie,         M,6,H,1,18,2480.7083,1,,H,Go
+Yorkie,         M,6,H,1,19,1423.475,1,,H,Go
+Yorkie,         M,6,H,1,20,583.9658,1,,H,Go
+Yorkie,         M,6,H,1,21,2786.8106,1,,H,Go
+Yorkie,         M,6,H,1,22,5224.955,0,,H,NoGo
+Yorkie,         M,6,H,1,23,1202.2096,1,,H,Go
+Yorkie,         M,6,H,1,24,1450.3434,1,,H,Go
+Yorkie,         M,6,H,1,25,985.777,1,,H,Go
+Yorkie,         M,6,H,1,26,737.0877,1,,H,Go
+Yorkie,         M,6,H,1,27,2187.1172,1,,H,NoGo
+Yorkie,         M,6,H,1,28,594.7974,1,,H,Go
+Yorkie,         M,6,H,1,29,2188.189,1,,H,NoGo
+Yorkie,         M,6,H,1,30,601.4523,1,,H,Go
+Yorkie,         M,6,H,1,31,7797.7697,1,,H,Go
+Yorkie,         M,6,H,1,32,702.7045,1,,H,Go
+Yorkie,         M,6,H,1,33,601.2294,1,,H,Go
+Yorkie,         M,6,H,1,34,3305.3612,1,,H,Go
+Yorkie,         M,6,H,1,35,601.3472,1,,H,Go
+Yorkie,         M,6,H,1,36,2205.0659,1,,H,NoGo
+Yorkie,         M,6,H,1,37,583.5038,1,,H,Go
+Yorkie,         M,6,H,1,38,601.7163,1,,H,Go
+Yorkie,         M,6,H,1,39,2188.0875,1,,H,NoGo
+Yorkie,         M,6,H,1,40,1631.5033,1,,H,Go
+Yorkie,         M,6,H,2,1,600.2128,1,,H,Go
+Yorkie,         M,6,H,2,2,5204.0167,0,,H,NoGo
+Yorkie,         M,6,H,2,3,968.571,1,,H,Go
+Yorkie,         M,6,H,2,4,986.6859,1,,H,Go
+Yorkie,         M,6,H,2,5,5194.5561,0,,H,NoGo
+Yorkie,         M,6,H,2,6,2094.6846,1,,H,Go
+Yorkie,         M,6,H,2,7,1193.6093,1,,H,Go
+Yorkie,         M,6,H,2,8,601.0682,1,,H,Go
+Yorkie,         M,6,H,2,9,1734.7114,1,,H,Go
+Yorkie,         M,6,H,2,10,1361.1298,1,,H,Go
+Yorkie,         M,6,H,2,11,1125.5341,1,,H,Go
+Yorkie,         M,6,H,2,12,5226.3254,0,,H,NoGo
+Yorkie,         M,6,H,2,13,743.3383,1,,H,Go
+Yorkie,         M,6,H,2,14,5189.1905,0,,H,NoGo
+Yorkie,         M,6,H,2,15,652.4202,1,,H,Go
+Yorkie,         M,6,H,2,16,832.1613,1,,H,Go
+Yorkie,         M,6,H,2,17,633.8414,1,,H,Go
+Yorkie,         M,6,H,2,18,5210.4101,0,,H,NoGo
+Yorkie,         M,6,H,2,19,1734.4316,1,,H,Go
+Yorkie,         M,6,H,2,20,2017.1775,1,,H,Go
+Yorkie,         M,6,H,2,21,596.7254,1,,H,Go
+Yorkie,         M,6,H,2,22,2204.8831,1,,H,NoGo
+Yorkie,         M,6,H,2,23,2188.1779,1,,H,NoGo
+Yorkie,         M,6,H,2,24,2243.9858,1,,H,Go
+Yorkie,         M,6,H,2,25,635.5044,1,,H,Go
+Yorkie,         M,6,H,2,26,1999.8456,1,,H,Go
+Yorkie,         M,6,H,2,27,3176.3763,1,,H,Go
+Yorkie,         M,6,H,2,28,2205.0983,1,,H,NoGo
+Yorkie,         M,6,H,2,29,7968.5503,1,,H,Go
+Yorkie,         M,6,H,2,30,5197.9097,0,,H,NoGo
+Yorkie,         M,6,H,2,31,2697.1457,1,,H,Go
+Yorkie,         M,6,H,2,32,1270.9112,1,,H,Go
+Yorkie,         M,6,H,2,33,583.2626,1,,H,Go
+Yorkie,         M,6,H,2,34,2186.6207,1,,H,NoGo
+Yorkie,         M,6,H,2,35,588.505,1,,H,Go
+Yorkie,         M,6,H,2,36,5223.6592,0,,H,NoGo
+Yorkie,         M,6,H,2,37,1579.6017,1,,H,Go
+Yorkie,         M,6,H,2,38,600.6321,1,,H,Go
+Yorkie,         M,6,H,2,39,1759.6591,1,,H,Go
+Yorkie,         M,6,H,2,40,687.4938,1,,H,Go
+Yorkie,         M,6,H,3,1,1545.492,1,,H,Go
+Yorkie,         M,6,H,3,2,5190.0429,0,,H,NoGo
+Yorkie,         M,6,H,3,3,590.8874,1,,H,Go
+Yorkie,         M,6,H,3,4,2204.5332,1,,H,NoGo
+Yorkie,         M,6,H,3,5,582.7032,1,,H,Go
+Yorkie,         M,6,H,3,6,583.529,1,,H,Go
+Yorkie,         M,6,H,3,7,2438.9915,1,,H,Go
+Yorkie,         M,6,H,3,8,6164.9322,1,,H,Go
+Yorkie,         M,6,H,3,9,601.2253,1,,H,Go
+Yorkie,         M,6,H,3,10,958.7865,1,,H,Go
+Yorkie,         M,6,H,3,11,2203.9016,1,,H,NoGo
+Yorkie,         M,6,H,3,12,5200.3388,0,,H,NoGo
+Yorkie,         M,6,H,3,13,2463.9713,1,,H,Go
+Yorkie,         M,6,H,3,14,600.9215,1,,H,Go
+Yorkie,         M,6,H,3,15,594.2792,1,,H,Go
+Yorkie,         M,6,H,3,16,1123.9152,1,,H,Go
+Yorkie,         M,6,H,3,17,583.3699,1,,H,Go
+Yorkie,         M,6,H,3,18,3357.0604,1,,H,Go
+Yorkie,         M,6,H,3,19,1863.3908,1,,H,Go
+Yorkie,         M,6,H,3,20,2186.0653,1,,H,NoGo
+Yorkie,         M,6,H,3,21,4309.4136,1,,H,Go
+Yorkie,         M,6,H,3,22,8027.5689,1,,H,Go
+Yorkie,         M,6,H,3,23,5190.2356,0,,H,NoGo
+Yorkie,         M,6,H,3,24,595.8906,1,,H,Go
+Yorkie,         M,6,H,3,25,601.6421,1,,H,Go
+Yorkie,         M,6,H,3,26,601.6313,1,,H,Go
+Yorkie,         M,6,H,3,27,1965.0914,1,,H,Go
+Yorkie,         M,6,H,3,28,2204.0501,1,,H,NoGo
+Yorkie,         M,6,H,3,29,1166.8349,1,,H,Go
+Yorkie,         M,6,H,3,30,935.7904,1,,H,Go
+Yorkie,         M,6,H,3,31,5189.4855,0,,H,NoGo
+Yorkie,         M,6,H,3,32,1436.448,1,,H,Go
+Yorkie,         M,6,H,3,33,2043.8442,1,,H,Go
+Yorkie,         M,6,H,3,34,583.1886,1,,H,Go
+Yorkie,         M,6,H,3,35,1605.2709,1,,H,Go
+Yorkie,         M,6,H,3,36,2203.0938,1,,H,NoGo
+Yorkie,         M,6,H,3,37,1474.7029,1,,H,Go
+Yorkie,         M,6,H,3,38,2203.861,1,,H,NoGo
+Yorkie,         M,6,H,3,39,1116.4445,1,,H,Go
+Yorkie,         M,6,H,3,40,3355.5043,1,,H,Go
+Yorkie,         M,6,H,4,1,740.5747,1,,H,Go
+Yorkie,         M,6,H,4,2,728.7669,1,,H,Go
+Yorkie,         M,6,H,4,3,5206.8478,0,,H,NoGo
+Yorkie,         M,6,H,4,4,728.1719,1,,H,Go
+Yorkie,         M,6,H,4,5,5223.3107,0,,H,NoGo
+Yorkie,         M,6,H,4,6,3254.5626,1,,H,Go
+Yorkie,         M,6,H,4,7,639.9504,1,,H,Go
+Yorkie,         M,6,H,4,8,590.2795,1,,H,Go
+Yorkie,         M,6,H,4,9,1373.7379,1,,H,Go
+Yorkie,         M,6,H,4,10,5190.2568,0,,H,NoGo
+Yorkie,         M,6,H,4,11,1116.3662,1,,H,Go
+Yorkie,         M,6,H,4,12,5199.6281,0,,H,NoGo
+Yorkie,         M,6,H,4,13,600.7271,1,,H,Go
+Yorkie,         M,6,H,4,14,1213.9005,1,,H,Go
+Yorkie,         M,6,H,4,15,585.1515,1,,H,Go
+Yorkie,         M,6,H,4,16,884.0793,1,,H,Go
+Yorkie,         M,6,H,4,17,10451.2471,0,,H,NoGo
+Yorkie,         M,6,H,4,18,1999.86,1,,H,Go
+Yorkie,         M,6,H,4,19,7126.1612,1,,H,Go
+Yorkie,         M,6,H,4,20,21403.7498,1,,H,NoGo
+Yorkie,         M,6,H,4,21,600.1217,1,,H,Go
+Yorkie,         M,6,H,4,22,5196.0516,0,,H,NoGo
+Yorkie,         M,6,H,4,23,590.8716,1,,H,Go
+Yorkie,         M,6,H,4,24,789.3581,1,,H,Go
+Yorkie,         M,6,H,4,25,594.7749,1,,H,Go
+Yorkie,         M,6,H,4,26,600.3957,1,,H,Go
+Yorkie,         M,6,H,4,27,2187.6626,1,,H,NoGo
+Yorkie,         M,6,H,4,28,581.8786,1,,H,Go
+Yorkie,         M,6,H,4,29,5211.5813,0,,H,NoGo
+Yorkie,         M,6,H,4,30,790.8426,1,,H,Go
+Yorkie,         M,6,H,4,31,601.1411,1,,H,Go
+Yorkie,         M,6,H,4,32,4259.6245,1,,H,Go
+Yorkie,         M,6,H,4,33,3905.1594,1,,H,Go
+Yorkie,         M,6,H,4,34,1321.004,1,,H,Go
+Yorkie,         M,6,H,4,35,583.2874,1,,H,Go
+Yorkie,         M,6,H,4,36,5208.2501,0,,H,NoGo
+Yorkie,         M,6,H,4,37,1639.8522,1,,H,Go
+Yorkie,         M,6,H,4,38,583.197,1,,H,Go
+Yorkie,         M,6,H,4,39,5206.1663,0,,H,NoGo
+Yorkie,         M,6,H,4,40,676.986,1,,H,Go
+Yorkie,         M,6,H,5,1,724.4502,1,,H,Go
+Yorkie,         M,6,H,5,2,1124.2024,1,,H,Go
+Yorkie,         M,6,H,5,3,2183.5446,1,,H,Go
+Yorkie,         M,6,H,5,4,1296.7537,1,,H,Go
+Yorkie,         M,6,H,5,5,5206.9144,0,,H,NoGo
+Yorkie,         M,6,H,5,6,1794.0797,1,,H,Go
+Yorkie,         M,6,H,5,7,2952.8308,1,,H,Go
+Yorkie,         M,6,H,5,8,689.4712,1,,H,Go
+Yorkie,         M,6,H,5,9,587.1989,1,,H,Go
+Yorkie,         M,6,H,5,10,2186.6752,1,,H,NoGo
+Yorkie,         M,6,H,5,11,601.0052,1,,H,Go
+Yorkie,         M,6,H,5,12,5216.8031,0,,H,NoGo
+Yorkie,         M,6,H,5,13,1639.2503,1,,H,Go
+Yorkie,         M,6,H,5,14,1476.6979,1,,H,Go
+Yorkie,         M,6,H,5,15,594.3002,1,,H,Go
+Yorkie,         M,6,H,5,16,3434.3357,1,,H,Go
+Yorkie,         M,6,H,5,17,5212.8284,0,,H,NoGo
+Yorkie,         M,6,H,5,18,615.0976,1,,H,Go
+Yorkie,         M,6,H,5,19,935.9468,1,,H,Go
+Yorkie,         M,6,H,5,20,803.235,1,,H,Go
+Yorkie,         M,6,H,5,21,2134.6289,1,,H,Go
+Yorkie,         M,6,H,5,22,5208.8766,0,,H,NoGo
+Yorkie,         M,6,H,5,23,2043.5001,1,,H,Go
+Yorkie,         M,6,H,5,24,600.5571,1,,H,Go
+Yorkie,         M,6,H,5,25,727.9329,1,,H,Go
+Yorkie,         M,6,H,5,26,601.1982,1,,H,Go
+Yorkie,         M,6,H,5,27,5190.0144,0,,H,NoGo
+Yorkie,         M,6,H,5,28,1305.0409,1,,H,Go
+Yorkie,         M,6,H,5,29,5205.2127,0,,H,NoGo
+Yorkie,         M,6,H,5,30,879.0658,1,,H,Go
+Yorkie,         M,6,H,5,31,814.5329,1,,H,Go
+Yorkie,         M,6,H,5,32,1129.5573,1,,H,Go
+Yorkie,         M,6,H,5,33,1073.055,1,,H,Go
+Yorkie,         M,6,H,5,34,2172.3644,1,,H,Go
+Yorkie,         M,6,H,5,35,586.0623,1,,H,Go
+Yorkie,         M,6,H,5,36,5188.8102,0,,H,NoGo
+Yorkie,         M,6,H,5,37,21354.5415,0,,H,NoGo
+Yorkie,         M,6,H,5,38,,,,H,
+Yorkie,         M,6,H,5,39,,,,H,
+Yorkie,         M,6,H,5,40,,,,H,
+Yosser,         M,6,H,1,1,5910.1901,1,0,H,Go
+Yosser,         M,6,H,1,2,2202.5802,1,1,H,NoGo
+Yosser,         M,6,H,1,3,2513.1358,1,0,H,Go
+Yosser,         M,6,H,1,4,1028.1492,1,0,H,Go
+Yosser,         M,6,H,1,5,2187.2802,1,1,H,NoGo
+Yosser,         M,6,H,1,6,872.5685,1,0,H,Go
+Yosser,         M,6,H,1,7,693.7745,1,0,H,Go
+Yosser,         M,6,H,1,8,1466.4327,1,0,H,Go
+Yosser,         M,6,H,1,9,8876.4439,1,0,H,Go
+Yosser,         M,6,H,1,10,2161.1609,1,0,H,Go
+Yosser,         M,6,H,1,11,4058.765,1,0,H,Go
+Yosser,         M,6,H,1,12,2205.7999,1,1,H,NoGo
+Yosser,         M,6,H,1,13,3774.4217,1,0,H,Go
+Yosser,         M,6,H,1,14,2204.5414,1,1,H,NoGo
+Yosser,         M,6,H,1,15,4800.193,1,0,H,Go
+Yosser,         M,6,H,1,16,2186.2422,1,1,H,NoGo
+Yosser,         M,6,H,1,17,5578.901,1,0,H,Go
+Yosser,         M,6,H,1,18,402.012,1,0,H,Go
+Yosser,         M,6,H,1,19,5121.6358,1,0,H,Go
+Yosser,         M,6,H,1,20,2196.5642,1,1,H,NoGo
+Yosser,         M,6,H,1,21,401.5099,1,0,H,Go
+Yosser,         M,6,H,1,22,392.6737,1,0,H,Go
+Yosser,         M,6,H,1,23,3620.7815,1,1,H,NoGo
+Yosser,         M,6,H,1,24,4780.5742,1,0,H,Go
+Yosser,         M,6,H,1,25,6025.0629,1,0,H,Go
+Yosser,         M,6,H,1,26,1002.5953,1,0,H,Go
+Yosser,         M,6,H,1,27,451.313,1,0,H,Go
+Yosser,         M,6,H,1,28,2204.0732,1,1,H,NoGo
+Yosser,         M,6,H,1,29,4703.0447,1,0,H,Go
+Yosser,         M,6,H,1,30,3568.8462,1,0,H,Go
+Yosser,         M,6,H,1,31,2203.4671,1,1,H,NoGo
+Yosser,         M,6,H,1,32,4522.7667,1,0,H,Go
+Yosser,         M,6,H,1,33,2874.0914,1,0,H,Go
+Yosser,         M,6,H,1,34,5835.7567,1,0,H,Go
+Yosser,         M,6,H,1,35,692.9021,1,0,H,Go
+Yosser,         M,6,H,1,36,3167.4639,0,1,H,NoGo
+Yosser,         M,6,H,1,37,3488.0886,1,0,H,Go
+Yosser,         M,6,H,1,38,3050.3009,0,1,H,NoGo
+Yosser,         M,6,H,1,39,2289.5927,1,0,H,Go
+Yosser,         M,6,H,1,40,3002.5974,1,0,H,Go
+Yosser,         M,6,H,2,1,2214.0749,1,1,H,NoGo
+Yosser,         M,6,H,2,2,1818.6952,1,0,H,Go
+Yosser,         M,6,H,2,3,2728.6722,1,0,H,Go
+Yosser,         M,6,H,2,4,4764.7114,1,0,H,Go
+Yosser,         M,6,H,2,5,2258.1949,1,1,H,NoGo
+Yosser,         M,6,H,2,6,1947.1669,1,0,H,Go
+Yosser,         M,6,H,2,7,5423.8225,1,0,H,Go
+Yosser,         M,6,H,2,8,3673.2544,1,0,H,Go
+Yosser,         M,6,H,2,9,3928.3668,1,0,H,Go
+Yosser,         M,6,H,2,10,2366.6276,1,0,H,Go
+Yosser,         M,6,H,2,11,3120.3725,0,1,H,NoGo
+Yosser,         M,6,H,2,12,2624.1534,1,0,H,Go
+Yosser,         M,6,H,2,13,2186.9578,1,1,H,NoGo
+Yosser,         M,6,H,2,14,3524.7675,1,0,H,Go
+Yosser,         M,6,H,2,15,1541.9608,1,0,H,Go
+Yosser,         M,6,H,2,16,1533.8451,1,0,H,Go
+Yosser,         M,6,H,2,17,2408.4094,1,0,H,Go
+Yosser,         M,6,H,2,18,3567.0645,1,0,H,Go
+Yosser,         M,6,H,2,19,3312.0297,1,0,H,Go
+Yosser,         M,6,H,2,20,4592.2273,0,1,H,NoGo
+Yosser,         M,6,H,2,21,4481.619,0,1,H,NoGo
+Yosser,         M,6,H,2,22,600.305,1,0,H,Go
+Yosser,         M,6,H,2,23,11206.845,1,0,H,Go
+Yosser,         M,6,H,2,24,387.6634,1,0,H,Go
+Yosser,         M,6,H,2,25,5535.3852,1,0,H,Go
+Yosser,         M,6,H,2,26,9828.0867,0,1,H,NoGo
+Yosser,         M,6,H,2,27,617.1007,1,0,H,Go
+Yosser,         M,6,H,2,28,4855.8397,1,0,H,Go
+Yosser,         M,6,H,2,29,2206.797,1,1,H,NoGo
+Yosser,         M,6,H,2,30,3630.7359,1,0,H,Go
+Yosser,         M,6,H,2,31,888.5419,1,0,H,Go
+Yosser,         M,6,H,2,32,399.3721,1,0,H,Go
+Yosser,         M,6,H,2,33,8127.8573,1,0,H,Go
+Yosser,         M,6,H,2,34,2198.0238,1,1,H,NoGo
+Yosser,         M,6,H,2,35,6010.37,1,0,H,Go
+Yosser,         M,6,H,2,36,12482.085,1,0,H,Go
+Yosser,         M,6,H,2,37,3105.925,1,0,H,Go
+Yosser,         M,6,H,2,38,11528.5131,1,0,H,Go
+Yosser,         M,6,H,2,39,3083.4134,0,1,H,NoGo
+Yosser,         M,6,H,2,40,2960.0096,1,0,H,Go
+Yosser,         M,6,H,3,1,1401.7019,1,0,H,Go
+Yosser,         M,6,H,3,2,677.5407,1,0,H,Go
+Yosser,         M,6,H,3,3,2177.1858,1,0,H,Go
+Yosser,         M,6,H,3,4,2204.1485,1,1,H,NoGo
+Yosser,         M,6,H,3,5,3234.7188,0,1,H,NoGo
+Yosser,         M,6,H,3,6,4798.655,1,0,H,Go
+Yosser,         M,6,H,3,7,2007.3505,1,0,H,Go
+Yosser,         M,6,H,3,8,383.7147,1,0,H,Go
+Yosser,         M,6,H,3,9,1559.0971,1,0,H,Go
+Yosser,         M,6,H,3,10,1284.7821,1,0,H,Go
+Yosser,         M,6,H,3,11,813.1625,1,0,H,Go
+Yosser,         M,6,H,3,12,5107.3103,0,1,H,NoGo
+Yosser,         M,6,H,3,13,2728.4199,1,0,H,Go
+Yosser,         M,6,H,3,14,950.6651,1,0,H,Go
+Yosser,         M,6,H,3,15,1070.2134,1,0,H,Go
+Yosser,         M,6,H,3,16,3892.6597,0,1,H,NoGo
+Yosser,         M,6,H,3,17,1779.8578,1,0,H,Go
+Yosser,         M,6,H,3,18,478.2907,1,0,H,Go
+Yosser,         M,6,H,3,19,2693.6926,1,0,H,Go
+Yosser,         M,6,H,3,20,3493.9136,0,1,H,NoGo
+Yosser,         M,6,H,3,21,2513.4927,1,0,H,Go
+Yosser,         M,6,H,3,22,771.0578,1,0,H,Go
+Yosser,         M,6,H,3,23,3133.3793,0,1,H,NoGo
+Yosser,         M,6,H,3,24,391.7673,1,0,H,Go
+Yosser,         M,6,H,3,25,1277.2251,1,0,H,Go
+Yosser,         M,6,H,3,26,1585.9879,1,0,H,Go
+Yosser,         M,6,H,3,27,1328.2545,1,0,H,Go
+Yosser,         M,6,H,3,28,3951.039,0,1,H,NoGo
+Yosser,         M,6,H,3,29,2848.0832,1,0,H,Go
+Yosser,         M,6,H,3,30,555.953,1,0,H,Go
+Yosser,         M,6,H,3,31,2204.4868,1,1,H,NoGo
+Yosser,         M,6,H,3,32,1940.2143,1,0,H,Go
+Yosser,         M,6,H,3,33,3208.984,1,0,H,Go
+Yosser,         M,6,H,3,34,3183.0236,1,0,H,Go
+Yosser,         M,6,H,3,35,2022.8963,1,0,H,Go
+Yosser,         M,6,H,3,36,2204.2264,1,1,H,NoGo
+Yosser,         M,6,H,3,37,1190.3898,1,0,H,Go
+Yosser,         M,6,H,3,38,3725.9929,0,1,H,NoGo
+Yosser,         M,6,H,3,39,4794.1476,1,0,H,Go
+Yosser,         M,6,H,3,40,1817.5729,1,0,H,Go
+Yosser,         M,6,H,4,1,5988.7369,0,1,H,NoGo
+Yosser,         M,6,H,4,2,826.9684,1,0,H,Go
+Yosser,         M,6,H,4,3,504.6358,1,0,H,Go
+Yosser,         M,6,H,4,4,3388.8427,1,0,H,Go
+Yosser,         M,6,H,4,5,4404.1958,0,1,H,NoGo
+Yosser,         M,6,H,4,6,1786.2559,1,0,H,Go
+Yosser,         M,6,H,4,7,3260.2384,1,0,H,Go
+Yosser,         M,6,H,4,8,1096.1443,1,0,H,Go
+Yosser,         M,6,H,4,9,1122.1562,1,0,H,Go
+Yosser,         M,6,H,4,10,2318.8282,1,0,H,Go
+Yosser,         M,6,H,4,11,3216.3988,0,1,H,NoGo
+Yosser,         M,6,H,4,12,2178.3771,1,0,H,Go
+Yosser,         M,6,H,4,13,4321.8439,0,1,H,NoGo
+Yosser,         M,6,H,4,14,5432.5412,1,0,H,Go
+Yosser,         M,6,H,4,15,633.2548,1,0,H,Go
+Yosser,         M,6,H,4,16,1920.5163,1,0,H,Go
+Yosser,         M,6,H,4,17,1876.9856,1,0,H,Go
+Yosser,         M,6,H,4,18,864.4333,1,0,H,Go
+Yosser,         M,6,H,4,19,1158.1898,1,0,H,Go
+Yosser,         M,6,H,4,20,2205.8038,1,1,H,NoGo
+Yosser,         M,6,H,4,21,4139.8997,0,1,H,NoGo
+Yosser,         M,6,H,4,22,443.8096,1,0,H,Go
+Yosser,         M,6,H,4,23,633.4151,1,0,H,Go
+Yosser,         M,6,H,4,24,1000.9241,1,0,H,Go
+Yosser,         M,6,H,4,25,1182.645,1,0,H,Go
+Yosser,         M,6,H,4,26,6872.4203,0,1,H,NoGo
+Yosser,         M,6,H,4,27,1224.0275,1,0,H,Go
+Yosser,         M,6,H,4,28,916.4223,1,0,H,Go
+Yosser,         M,6,H,4,29,4026.0671,0,1,H,NoGo
+Yosser,         M,6,H,4,30,677.8076,1,0,H,Go
+Yosser,         M,6,H,4,31,529.3576,1,0,H,Go
+Yosser,         M,6,H,4,32,1328.7295,1,0,H,Go
+Yosser,         M,6,H,4,33,5226.8197,1,0,H,Go
+Yosser,         M,6,H,4,34,8387.7301,0,1,H,NoGo
+Yosser,         M,6,H,4,35,797.5334,1,0,H,Go
+Yosser,         M,6,H,4,36,6635.1361,1,0,H,Go
+Yosser,         M,6,H,4,37,1406.0157,1,0,H,Go
+Yosser,         M,6,H,4,38,1560.3681,1,0,H,Go
+Yosser,         M,6,H,4,39,2186.062,1,1,H,NoGo
+Yosser,         M,6,H,4,40,5741.0803,1,0,H,Go
+Yosser,         M,6,H,5,1,411.5977,1,0,H,Go
+Yosser,         M,6,H,5,2,1147.4907,1,0,H,Go
+Yosser,         M,6,H,5,3,3466.8753,1,0,H,Go
+Yosser,         M,6,H,5,4,2204.5582,1,1,H,NoGo
+Yosser,         M,6,H,5,5,3773.9136,0,1,H,NoGo
+Yosser,         M,6,H,5,6,387.4393,1,0,H,Go
+Yosser,         M,6,H,5,7,1663.1063,1,0,H,Go
+Yosser,         M,6,H,5,8,2959.834,1,0,H,Go
+Yosser,         M,6,H,5,9,1715.3154,1,0,H,Go
+Yosser,         M,6,H,5,10,2049.4945,1,0,H,Go
+Yosser,         M,6,H,5,11,1277.2017,1,0,H,Go
+Yosser,         M,6,H,5,12,2205.1208,1,1,H,NoGo
+Yosser,         M,6,H,5,13,1507.5167,1,0,H,Go
+Yosser,         M,6,H,5,14,2075.9779,1,0,H,Go
+Yosser,         M,6,H,5,15,941.4651,1,0,H,Go
+Yosser,         M,6,H,5,16,4483.1093,0,1,H,NoGo
+Yosser,         M,6,H,5,17,2873.2598,1,0,H,Go
+Yosser,         M,6,H,5,18,2513.7719,1,0,H,Go
+Yosser,         M,6,H,5,19,1251.0205,1,0,H,Go
+Yosser,         M,6,H,5,20,3649.4059,0,1,H,NoGo
+Yosser,         M,6,H,5,21,796.2119,1,0,H,Go
+Yosser,         M,6,H,5,22,2873.5878,1,0,H,Go
+Yosser,         M,6,H,5,23,3873.9499,0,1,H,NoGo
+Yosser,         M,6,H,5,24,1011.1302,1,0,H,Go
+Yosser,         M,6,H,5,25,12013.8886,1,0,H,Go
+Yosser,         M,6,H,5,26,2950.8774,1,0,H,Go
+Yosser,         M,6,H,5,27,449.4886,1,0,H,Go
+Yosser,         M,6,H,5,28,3314.4912,0,1,H,NoGo
+Yosser,         M,6,H,5,29,2951.9754,1,0,H,Go
+Yosser,         M,6,H,5,30,1199.3643,1,0,H,Go
+Yosser,         M,6,H,5,31,3581.1098,0,1,H,NoGo
+Yosser,         M,6,H,5,32,1676.5392,1,0,H,Go
+Yosser,         M,6,H,5,33,1147.9499,1,0,H,Go
+Yosser,         M,6,H,5,34,917.0324,1,0,H,Go
+Yosser,         M,6,H,5,35,1361.8387,1,0,H,Go
+Yosser,         M,6,H,5,36,4092.6262,0,1,H,NoGo
+Yosser,         M,6,H,5,37,1657.841,1,0,H,Go
+Yosser,         M,6,H,5,38,3729.3517,0,1,H,NoGo
+Yosser,         M,6,H,5,39,1264.1361,1,0,H,Go
+Yosser,         M,6,H,5,40,1946.6744,1,0,H,Go
+Zazy,         M,5,L,1,1,915.7483,0,1,M,NoGo
+Zazy,         M,5,L,1,2,2540.9137,0,1,M,NoGo
+Zazy,         M,5,L,1,3,4042.1495,1,0,M,Go
+Zazy,         M,5,L,1,4,454.9891,0,1,M,NoGo
+Zazy,         M,5,L,1,5,1684.2634,1,1,M,NoGo
+Zazy,         M,5,L,1,6,3775.2499,0,1,M,NoGo
+Zazy,         M,5,L,1,7,1764.4003,0,1,M,NoGo
+Zazy,         M,5,L,1,8,3460.9895,0,1,M,NoGo
+Zazy,         M,5,L,1,9,2562.0803,0,1,M,NoGo
+Zazy,         M,5,L,1,10,1691.4504,1,1,M,NoGo
+Zazy,         M,5,L,1,11,5086.0867,0,1,M,NoGo
+Zazy,         M,5,L,1,12,4222.3595,1,0,M,Go
+Zazy,         M,5,L,1,13,645.3248,0,1,M,NoGo
+Zazy,         M,5,L,1,14,342.2958,0,1,M,NoGo
+Zazy,         M,5,L,1,15,2357.6464,0,1,M,NoGo
+Zazy,         M,5,L,1,16,2685.1534,0,1,M,NoGo
+Zazy,         M,5,L,1,17,3873.5135,1,0,M,Go
+Zazy,         M,5,L,1,18,1691.2562,1,0,M,Go
+Zazy,         M,5,L,1,19,2568.2124,0,1,M,NoGo
+Zazy,         M,5,L,1,20,1472.4734,0,1,M,NoGo
+Zazy,         M,5,L,1,21,2426.694,0,1,M,NoGo
+Zazy,         M,5,L,1,22,1683.4024,1,1,M,NoGo
+Zazy,         M,5,L,1,23,7027.0089,0,1,M,NoGo
+Zazy,         M,5,L,1,24,3172.6328,0,1,M,NoGo
+Zazy,         M,5,L,1,25,2933.4553,0,1,M,NoGo
+Zazy,         M,5,L,1,26,2054.4109,0,1,M,NoGo
+Zazy,         M,5,L,1,27,1684.3614,1,1,M,NoGo
+Zazy,         M,5,L,1,28,414.8915,0,1,M,NoGo
+Zazy,         M,5,L,1,29,1691.3738,1,1,M,NoGo
+Zazy,         M,5,L,1,30,1677.2996,0,1,M,NoGo
+Zazy,         M,5,L,1,31,980.0146,0,1,M,NoGo
+Zazy,         M,5,L,1,32,1437.2662,0,1,M,NoGo
+Zazy,         M,5,L,1,33,2466.3675,0,1,M,NoGo
+Zazy,         M,5,L,1,34,1180.7038,0,1,M,NoGo
+Zazy,         M,5,L,1,35,1642.7916,0,1,M,NoGo
+Zazy,         M,5,L,1,36,1683.5525,1,1,M,NoGo
+Zazy,         M,5,L,1,37,2596.4362,0,1,M,NoGo
+Zazy,         M,5,L,1,38,2595.3087,0,1,M,NoGo
+Zazy,         M,5,L,1,39,1682.9729,1,1,M,NoGo
+Zazy,         M,5,L,1,40,1024.8426,0,1,M,NoGo
+Zazy,         M,5,L,2,1,1560.864,0,1,M,NoGo
+Zazy,         M,5,L,2,2,1157.3546,0,1,M,NoGo
+Zazy,         M,5,L,2,3,1682.4031,1,1,M,NoGo
+Zazy,         M,5,L,2,4,2670.8219,0,1,M,NoGo
+Zazy,         M,5,L,2,5,6388.4103,1,0,M,Go
+Zazy,         M,5,L,2,6,1005.7968,0,1,M,NoGo
+Zazy,         M,5,L,2,7,832.4208,0,1,M,NoGo
+Zazy,         M,5,L,2,8,1387.376,0,1,M,NoGo
+Zazy,         M,5,L,2,9,4178.9201,0,1,M,NoGo
+Zazy,         M,5,L,2,10,1683.2455,1,1,M,NoGo
+Zazy,         M,5,L,2,11,1799.3651,0,1,M,NoGo
+Zazy,         M,5,L,2,12,3464.1565,1,0,M,Go
+Zazy,         M,5,L,2,13,2614.6671,0,1,M,NoGo
+Zazy,         M,5,L,2,14,588.8093,0,1,M,NoGo
+Zazy,         M,5,L,2,15,4458.0641,0,1,M,NoGo
+Zazy,         M,5,L,2,16,536.9649,0,1,M,NoGo
+Zazy,         M,5,L,2,17,6781.5245,1,0,M,Go
+Zazy,         M,5,L,2,18,1683.8224,1,0,M,Go
+Zazy,         M,5,L,2,19,3481.7602,0,1,M,NoGo
+Zazy,         M,5,L,2,20,864.0101,0,1,M,NoGo
+Zazy,         M,5,L,2,21,2043.1502,0,1,M,NoGo
+Zazy,         M,5,L,2,22,3592.3188,1,0,M,Go
+Zazy,         M,5,L,2,23,2418.7935,0,1,M,NoGo
+Zazy,         M,5,L,2,24,19922.1164,0,1,M,NoGo
+Zazy,         M,5,L,2,25,2342.2427,0,1,M,NoGo
+Zazy,         M,5,L,2,26,3861.3391,0,1,M,NoGo
+Zazy,         M,5,L,2,27,4070.5241,1,0,M,Go
+Zazy,         M,5,L,2,28,599.1158,0,1,M,NoGo
+Zazy,         M,5,L,2,29,4326.4269,1,0,M,Go
+Zazy,         M,5,L,2,30,4161.3528,0,1,M,NoGo
+Zazy,         M,5,L,2,31,802.6549,0,1,M,NoGo
+Zazy,         M,5,L,2,32,439.1593,0,1,M,NoGo
+Zazy,         M,5,L,2,33,2335.3268,0,1,M,NoGo
+Zazy,         M,5,L,2,34,2314.2759,0,1,M,NoGo
+Zazy,         M,5,L,2,35,1764.7651,0,1,M,NoGo
+Zazy,         M,5,L,2,36,5650.7021,1,0,M,Go
+Zazy,         M,5,L,2,37,1206.8723,0,1,M,NoGo
+Zazy,         M,5,L,2,38,3111.0748,0,1,M,NoGo
+Zazy,         M,5,L,2,39,1683.6107,1,1,M,NoGo
+Zazy,         M,5,L,2,40,1951.4884,0,1,M,NoGo
+Zazy,         M,5,L,3,1,1044.724,0,1,M,NoGo
+Zazy,         M,5,L,3,2,1651.0447,0,1,M,NoGo
+Zazy,         M,5,L,3,3,1682.2441,1,1,M,NoGo
+Zazy,         M,5,L,3,4,2001.9788,0,1,M,NoGo
+Zazy,         M,5,L,3,5,1683.1423,1,1,M,NoGo
+Zazy,         M,5,L,3,6,615.535,0,1,M,NoGo
+Zazy,         M,5,L,3,7,3918.9798,0,1,M,NoGo
+Zazy,         M,5,L,3,8,2315.4919,0,1,M,NoGo
+Zazy,         M,5,L,3,9,6059.2124,0,1,M,NoGo
+Zazy,         M,5,L,3,10,1683.8302,1,1,M,NoGo
+Zazy,         M,5,L,3,11,6389.2472,0,1,M,NoGo
+Zazy,         M,5,L,3,12,1682.6008,1,1,M,NoGo
+Zazy,         M,5,L,3,13,2811.2367,0,1,M,NoGo
+Zazy,         M,5,L,3,14,7939.9497,0,1,M,NoGo
+Zazy,         M,5,L,3,15,2094.8734,0,1,M,NoGo
+Zazy,         M,5,L,3,16,3678.5594,0,1,M,NoGo
+Zazy,         M,5,L,3,17,3468.8744,1,0,M,Go
+Zazy,         M,5,L,3,18,1683.5767,1,0,M,Go
+Zazy,         M,5,L,3,19,6022.93,0,1,M,NoGo
+Zazy,         M,5,L,3,20,6614.762,0,1,M,NoGo
+Zazy,         M,5,L,3,21,4399.16,0,1,M,NoGo
+Zazy,         M,5,L,3,22,3964.1951,1,0,M,Go
+Zazy,         M,5,L,3,23,807.4219,0,1,M,NoGo
+Zazy,         M,5,L,3,24,898.6671,0,1,M,NoGo
+Zazy,         M,5,L,3,25,2191.6582,0,1,M,NoGo
+Zazy,         M,5,L,3,26,30573.2867,0,1,M,NoGo
+Zazy,         M,5,L,3,27,4934.5399,1,0,M,Go
+Zazy,         M,5,L,3,28,416.8113,0,1,M,NoGo
+Zazy,         M,5,L,3,29,1794.3734,1,1,M,NoGo
+Zazy,         M,5,L,3,30,5546.71,0,1,M,NoGo
+Zazy,         M,5,L,3,31,2545.4007,0,1,M,NoGo
+Zazy,         M,5,L,3,32,3431.4636,0,1,M,NoGo
+Zazy,         M,5,L,3,33,2507.2186,0,1,M,NoGo
+Zazy,         M,5,L,3,34,2003.8058,0,1,M,NoGo
+Zazy,         M,5,L,3,35,3574.9021,0,1,M,NoGo
+Zazy,         M,5,L,3,36,1692.175,1,1,M,NoGo
+Zazy,         M,5,L,3,37,524.2487,0,1,M,NoGo
+Zazy,         M,5,L,3,38,3233.2892,0,1,M,NoGo
+Zazy,         M,5,L,3,39,5250.7573,1,0,M,Go
+Zazy,         M,5,L,3,40,889.5688,0,1,M,NoGo
+Zazy,         M,5,L,4,1,262.8779,0,1,M,NoGo
+Zazy,         M,5,L,4,2,1347.4143,0,1,M,NoGo
+Zazy,         M,5,L,4,3,4154.9331,1,0,M,Go
+Zazy,         M,5,L,4,4,3046.9455,0,1,M,NoGo
+Zazy,         M,5,L,4,5,1684.1464,1,1,M,NoGo
+Zazy,         M,5,L,4,6,1940.3564,0,1,M,NoGo
+Zazy,         M,5,L,4,7,1458.1734,0,1,M,NoGo
+Zazy,         M,5,L,4,8,1141.3282,0,1,M,NoGo
+Zazy,         M,5,L,4,9,2249.1386,0,1,M,NoGo
+Zazy,         M,5,L,4,10,4253.6094,1,0,M,Go
+Zazy,         M,5,L,4,11,291.7685,0,1,M,NoGo
+Zazy,         M,5,L,4,12,3605.3549,1,0,M,Go
+Zazy,         M,5,L,4,13,1441.512,0,1,M,NoGo
+Zazy,         M,5,L,4,14,198.9211,0,1,M,NoGo
+Zazy,         M,5,L,4,15,368.2061,0,1,M,NoGo
+Zazy,         M,5,L,4,16,2816.0577,0,1,M,NoGo
+Zazy,         M,5,L,4,17,4249.3448,1,0,M,Go
+Zazy,         M,5,L,4,18,1683.1407,1,0,M,Go
+Zazy,         M,5,L,4,19,549.5148,0,1,M,NoGo
+Zazy,         M,5,L,4,20,972.8101,0,1,M,NoGo
+Zazy,         M,5,L,4,21,497.1025,0,1,M,NoGo
+Zazy,         M,5,L,4,22,3758.5189,1,0,M,Go
+Zazy,         M,5,L,4,23,651.8855,0,1,M,NoGo
+Zazy,         M,5,L,4,24,1450.9601,0,1,M,NoGo
+Zazy,         M,5,L,4,25,18806.9522,0,1,M,NoGo
+Zazy,         M,5,L,4,26,1863.7791,0,1,M,NoGo
+Zazy,         M,5,L,4,27,14006.7929,1,0,M,Go
+Zazy,         M,5,L,4,28,4305.3317,0,1,M,NoGo
+Zazy,         M,5,L,4,29,1726.6123,0,1,M,NoGo
+Zazy,         M,5,L,4,30,1681.5836,1,1,M,NoGo
+Zazy,         M,5,L,4,31,4052.7444,0,1,M,NoGo
+Zazy,         M,5,L,4,32,4634.6969,1,0,M,Go
+Zazy,         M,5,L,4,33,384.3788,0,1,M,NoGo
+Zazy,         M,5,L,4,34,3461.1463,0,1,M,NoGo
+Zazy,         M,5,L,4,35,7660.3378,0,1,M,NoGo
+Zazy,         M,5,L,4,36,4413.5524,0,1,M,NoGo
+Zazy,         M,5,L,4,37,1796.897,0,1,M,NoGo
+Zazy,         M,5,L,4,38,4289.002,0,1,M,NoGo
+Zazy,         M,5,L,4,39,5023.1849,1,0,M,Go
+Zazy,         M,5,L,4,40,1704.6879,0,1,M,NoGo
+Zazy,         M,5,L,5,1,1989.2858,0,1,M,NoGo
+Zazy,         M,5,L,5,2,1636.937,0,1,M,NoGo
+Zazy,         M,5,L,5,3,3234.1209,1,0,M,Go
+Zazy,         M,5,L,5,4,2462.0403,0,1,M,NoGo
+Zazy,         M,5,L,5,5,1689.6386,1,1,M,NoGo
+Zazy,         M,5,L,5,6,1534.1477,0,1,M,NoGo
+Zazy,         M,5,L,5,7,5072.3586,0,1,M,NoGo
+Zazy,         M,5,L,5,8,11615.2176,0,1,M,NoGo
+Zazy,         M,5,L,5,9,6737.2395,0,1,M,NoGo
+Zazy,         M,5,L,5,10,1689.5669,1,1,M,NoGo
+Zazy,         M,5,L,5,11,1379.7207,0,1,M,NoGo
+Zazy,         M,5,L,5,12,1688.2195,1,1,M,NoGo
+Zazy,         M,5,L,5,13,3801.3571,0,1,M,NoGo
+Zazy,         M,5,L,5,14,3929.7795,0,1,M,NoGo
+Zazy,         M,5,L,5,15,1534.6537,0,1,M,NoGo
+Zazy,         M,5,L,5,16,6866.834,0,1,M,NoGo
+Zazy,         M,5,L,5,17,4589.27,1,0,M,Go
+Zazy,         M,5,L,5,18,3623.0244,1,0,M,Go
+Zazy,         M,5,L,5,19,1621.9807,0,1,M,NoGo
+Zazy,         M,5,L,5,20,1431.3814,0,1,M,NoGo
+Zazy,         M,5,L,5,21,1276.743,0,1,M,NoGo
+Zazy,         M,5,L,5,22,1688.9244,1,1,M,NoGo
+Zazy,         M,5,L,5,23,1920.607,0,1,M,NoGo
+Zazy,         M,5,L,5,24,8695.0462,0,1,M,NoGo
+Zazy,         M,5,L,5,25,1851.3124,0,1,M,NoGo
+Zazy,         M,5,L,5,26,2022.9504,0,1,M,NoGo
+Zazy,         M,5,L,5,27,8736.3899,1,0,M,Go
+Zazy,         M,5,L,5,28,564.5295,0,1,M,NoGo
+Zazy,         M,5,L,5,29,1689.9081,1,1,M,NoGo
+Zazy,         M,5,L,5,30,864.7388,0,1,M,NoGo
+Zazy,         M,5,L,5,31,1148.3015,0,1,M,NoGo
+Zazy,         M,5,L,5,32,3415.8296,0,1,M,NoGo
+Zazy,         M,5,L,5,33,1208.5707,0,1,M,NoGo
+Zazy,         M,5,L,5,34,6994.7408,0,1,M,NoGo
+Zazy,         M,5,L,5,35,1142.1037,0,1,M,NoGo
+Zazy,         M,5,L,5,36,1699.8091,1,1,M,NoGo
+Zazy,         M,5,L,5,37,8061.7972,0,1,M,NoGo
+Zazy,         M,5,L,5,38,3543.9268,0,1,M,NoGo
+Zazy,         M,5,L,5,39,3897.6327,1,0,M,Go
+Zazy,         M,5,L,5,40,1689.6838,0,1,M,NoGo
