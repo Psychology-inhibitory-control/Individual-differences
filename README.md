@@ -1,5 +1,5 @@
 # individual-differences
-Supplementary materials, DATA, MATLAB and R scripts for Age and sex individual differences reveal a multifaceted structure of inhibitory control in non-human primates
+Supplementary materials, DATA, MATLAB and R scripts for "Heterogeneity of performances in several inhibitory control tasks: male rhesus macaques are more easily distracted than females".
 
 The DATA folder includes all the data sets from the Modified Stroop task, the Go/No-go task and the reversal lerning task.
 The MATLAB folder includes MATLAB scripts for stimuli presentation of the 3 tasks.
